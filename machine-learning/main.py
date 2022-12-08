@@ -8,8 +8,7 @@ def get_class():
     class_names = ['Plane', 'Car', 'Bird', 'Cat', 'Deer', 'Dog', 'Frog', 'Horse', 'Ship', 'Truck']
     return class_names
 
-def create_model(training_images, training_labels, testing_images, testing_labels):
-    
+def create_model(training_images, training_labels, testing_images, testing_labels):   
     
     model = models.Sequential()
     model.add(layers.Conv2D(32, (3,3), activation='relu', input_shape=(32,32,3)))
@@ -31,8 +30,7 @@ def create_model(training_images, training_labels, testing_images, testing_label
 
     model.save('image_classifier.model')
 
-def run_model():
-    class_names = get_class
+def run_model(class_names):
     
     model = models.load_model('image_classifier.model')
 
@@ -43,7 +41,7 @@ def run_model():
     prediction = model.predict(np.array([img]) / 255)
 
     index = np.argmax(prediction)
-    print(f'Prediction is {class_names[index]}')
+    print(f"Prediction is {class_names[index]}")
 
     plt.show()
 
@@ -65,14 +63,14 @@ def main():
 
     training_images = training_images[:20000]
     training_labels = training_labels[:20000]
-    testing_images = testing_images[:4000]
-    testing_labels = testing_labels[:4000]
+    testing_images = testing_images[:40000]
+    testing_labels = testing_labels[:40000]
 
     if os.path.isdir("image_classifier.model"):
-        run_model()
+        run_model(class_names)
     else:
         create_model(training_images, training_labels, testing_images, testing_labels)
-        run_model()
+        run_model(class_names)
         
     
 if __name__ == "__main__":
