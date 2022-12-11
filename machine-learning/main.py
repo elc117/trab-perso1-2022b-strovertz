@@ -5,26 +5,26 @@ import matplotlib.pyplot as plt
 from tensorflow.keras import datasets, layers, models
 
 def get_class():
-    class_names = ['Plane', 'Car', 'Bird', 'Cat', 'Deer', 'Dog', 'Frog', 'Horse', 'Ship', 'Truck', 'Human']
+    class_names = ['Plane', 'Car', 'Bird', 'Cat', 'Deer', 'Dog', 'Frog', 'Horse', 'Ship', 'Truck', 'Man']
     return class_names
-
 
 def create_model(training_images, training_labels, testing_images, testing_labels):   
     
     model = models.Sequential()
     #Especifica o tamanho e a quantidade de canais
     model.add(layers.Conv2D(32, (3,3), activation='relu', input_shape=(32,32,3)))
+    # Rsponsavel por diminuir o poder computacional necessario para processar nossos "dados"
     model.add(layers.MaxPooling2D((2,2)))
     model.add(layers.Conv2D(64, (3,3), activation='relu'))
     model.add(layers.MaxPooling2D((2,2)))
     model.add(layers.Conv2D(64, (3,3), activation='relu'))
     model.add(layers.Flatten())
     model.add(layers.Dense(64, activation='relu'))
-    model.add(layers.Dense(11, activation='softmax'))
+    model.add(layers.Dense(100, activation='softmax'))
 
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
-    model.fit(training_images, training_labels, epochs=11, validation_data=(testing_images, testing_labels))
+    model.fit(training_images, training_labels, epochs=20, validation_data=(testing_images, testing_labels))
 
     loss, accuracy = model.evaluate(testing_images, testing_labels)
     print(f"Loss: {loss}")
@@ -36,7 +36,7 @@ def run_model(class_names):
     
     model = models.load_model('image_classifier.model')
     #Observações: A foto precisa ter resolução 32x32 | 1:1 Aspect Ratio pois as imagens fornecidas para a IA treinar pelo dataset estão nessa qualidade
-    img = cv.imread('img/person.jpg')
+    img = cv.imread('img/pers.jpg')
     img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
 
     plt.imshow(img, cmap=plt.cm.binary)
@@ -66,12 +66,12 @@ def main():
         plt.xlabel(str(testing_labels[j]))
         
     plt.show()
-
+    #Diminuir o valor pra não matar o computador!!
     training_images = training_images[:20000]
     training_labels = training_labels[:20000]
     testing_images = testing_images[:40000]
     testing_labels = testing_labels[:40000]
-
+    #Verifica se a IA já foi treinada para poupar poder computacional
     if os.path.isdir("image_classifier.model"):
         run_model(class_names)
     else:
