@@ -1,0 +1,46 @@
+{
+  "name": "Celinka Krystyna",
+  "username": "rivalry",
+  "email": "colicweed@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1964-11-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84970593795"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "214.208.5.193",
+      "GeoLoc": [
+        39.969,
+        -83.0114
+      ],
+      "Address": "Huntington Park, Cozzins Street, Flytown, Franklinton, Columbus, Franklin County, Ohio, 43215, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+9 114737639",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

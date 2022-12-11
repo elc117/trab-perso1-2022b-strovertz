@@ -1,0 +1,46 @@
+{
+  "name": "Nady Merilyn",
+  "username": "pathway",
+  "email": "hockett@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2002-2-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84947029552"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.200.164.5",
+      "GeoLoc": [
+        9.9333,
+        -84.0833
+      ],
+      "Address": "Zapater\u00eda Zona Libre, Calle Enrique Echandi, Centro Hospital, \u00c1ngeles, San Jos\u00e9, Hospital, Cant\u00f3n San Jos\u00e9, Provincia San Jos\u00e9, 10103, Costa Rica",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+156 167176080",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Saeed Ranson",
+  "username": "sandusky",
+  "email": "livonia@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1967-2-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77658650994"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.150.150.189",
+      "GeoLoc": [
+        -0.8583,
+        -48.1417
+      ],
+      "Address": "Rua W 1, Vigia, Regi\u00e3o Geogr\u00e1fica Imediata de Bel\u00e9m, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bel\u00e9m, Par\u00e1, Regi\u00e3o Norte, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+156 726154155",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

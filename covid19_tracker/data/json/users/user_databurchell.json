@@ -1,0 +1,46 @@
+{
+  "name": "Dory Vries",
+  "username": "burchell",
+  "email": "trapan@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2002-10-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76069731565"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "77.62.159.71",
+      "GeoLoc": [
+        51.3367,
+        5.9486
+      ],
+      "Address": "Paulus Potterstraat, Kaumeshoek, Beringe, Peel en Maas, Limburg, Nederland, 5986 AS, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+130 130559090",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

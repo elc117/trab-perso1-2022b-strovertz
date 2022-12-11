@@ -1,0 +1,46 @@
+{
+  "name": "An Alexandra",
+  "username": "kaneshakang",
+  "email": "archy@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1990-2-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77366511242"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.99.100.154",
+      "GeoLoc": [
+        45.5088,
+        -73.5878
+      ],
+      "Address": "Croix du Mont-Royal, Boucle du Sommet, Montagne, Ville-Marie, Montr\u00e9al, Agglom\u00e9ration de Montr\u00e9al, Montr\u00e9al (06), Qu\u00e9bec, H3A 2B7, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 789721918",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

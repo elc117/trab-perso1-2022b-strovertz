@@ -1,0 +1,46 @@
+{
+  "name": "Derick Theda",
+  "username": "adigranth",
+  "email": "foreside@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1991-1-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30447170007"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.146.211.159",
+      "GeoLoc": [
+        33.5092,
+        -111.899
+      ],
+      "Address": "8499, East Chaparral Road, Scottsdale, Maricopa County, Arizona, 85250, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 115461575",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

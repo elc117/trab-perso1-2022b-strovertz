@@ -1,0 +1,46 @@
+{
+  "name": "Terrie Corabella",
+  "username": "tetanic",
+  "email": "shavian@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1993-11-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06249512357"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "146.111.143.45",
+      "GeoLoc": [
+        40.7143,
+        -74.006
+      ],
+      "Address": "Sun Building, 280, Broadway, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10007, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+150 462394279",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

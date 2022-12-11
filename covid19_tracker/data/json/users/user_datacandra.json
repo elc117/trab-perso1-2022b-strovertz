@@ -1,0 +1,46 @@
+{
+  "name": "Teresa Laslo",
+  "username": "candra",
+  "email": "inoculation@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1979-4-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26938374481"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "141.249.186.195",
+      "GeoLoc": [
+        47.4515,
+        8.5849
+      ],
+      "Address": "21, Petergasse, Kloten, Bezirk B\u00fclach, Z\u00fcrich, 8302, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+13 576255186",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

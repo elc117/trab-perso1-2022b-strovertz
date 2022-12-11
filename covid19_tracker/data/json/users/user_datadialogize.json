@@ -1,0 +1,46 @@
+{
+  "name": "Aideen Darelle",
+  "username": "dialogize",
+  "email": "pendragon@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1983-7-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "94802976470"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.221.245.6",
+      "GeoLoc": [
+        35.0292,
+        126.7175
+      ],
+      "Address": "\ub098\uc8fc\ub85c, \uae08\uc131\ub3d9, \ub098\uc8fc\uc2dc, \uc804\ub77c\ub0a8\ub3c4, 58257, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 315142469",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

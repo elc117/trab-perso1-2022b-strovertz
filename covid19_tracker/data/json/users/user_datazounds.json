@@ -1,0 +1,46 @@
+{
+  "name": "Rhiamon Theresina",
+  "username": "zounds",
+  "email": "bimanous@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1997-3-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27138002777"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "213.244.14.163",
+      "GeoLoc": [
+        48.85,
+        2.6
+      ],
+      "Address": "Rue Chico Mendes, Centre Ville, Champs-sur-Marne, Torcy, Seine-et-Marne, \u00cele-de-France, France m\u00e9tropolitaine, 77420, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+53 185837508",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

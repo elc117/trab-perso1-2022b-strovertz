@@ -1,0 +1,46 @@
+{
+  "name": "Greta Hera",
+  "username": "gawain",
+  "email": "welsh@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1981-2-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "10283804882"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "90.240.87.5",
+      "GeoLoc": [
+        53.4481,
+        -2.9155
+      ],
+      "Address": "Utting Avenue East, Norris Green, Liverpool, Liverpool City Region, England, L11 1DH, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+7 595061994",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

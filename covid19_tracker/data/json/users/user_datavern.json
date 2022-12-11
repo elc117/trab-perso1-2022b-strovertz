@@ -1,0 +1,46 @@
+{
+  "name": "Dorene Norry",
+  "username": "vern",
+  "email": "tile@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1964-3-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38029345550"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "106.232.56.77",
+      "GeoLoc": [
+        28.684,
+        115.8531
+      ],
+      "Address": "\u5357\u660c\u9999\u683c\u91cc\u62c9\u9152\u5e97, \u4e16\u8d38\u8def, \u6ee8\u6c5f\u8c6a\u56ed\u793e\u533a, \u94f6\u90fd\u793e\u533a, \u536b\u4e1c\u8857\u9053, \u7ea2\u8c37\u6ee9\u533a, \u5357\u660c\u5e02, \u6c5f\u897f\u7701, 330008, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+162 500714409",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

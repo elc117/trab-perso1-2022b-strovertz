@@ -1,0 +1,46 @@
+{
+  "name": "Lori Priya",
+  "username": "singlehearted",
+  "email": "whoops@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1995-5-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64185733232"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "9.133.183.249",
+      "GeoLoc": [
+        36.0512,
+        -78.8577
+      ],
+      "Address": "1012, Sweet Gale Drive, Durham, Durham County, North Carolina, 27704, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+181 332410867",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

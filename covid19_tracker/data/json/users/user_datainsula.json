@@ -1,0 +1,46 @@
+{
+  "name": "Iris Tuoi",
+  "username": "insula",
+  "email": "counterstroke@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-8-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54765515818"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.58.61.193",
+      "GeoLoc": [
+        46.5547,
+        15.6467
+      ],
+      "Address": "Medicinska fakulteta, 8, Taborska ulica, Lent, Magdalena, Maribor, 2000, Slovenija",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+143 695015704",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

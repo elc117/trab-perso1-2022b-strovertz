@@ -1,0 +1,46 @@
+{
+  "name": "Georgianna Vitia",
+  "username": "dicarlo",
+  "email": "milla@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2002-4-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "23793779017"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "21.60.231.235",
+      "GeoLoc": [
+        39.969,
+        -83.0114
+      ],
+      "Address": "Huntington Park, Cozzins Street, Flytown, Franklinton, Columbus, Franklin County, Ohio, 43215, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+61 754681272",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

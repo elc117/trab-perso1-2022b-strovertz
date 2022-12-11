@@ -1,0 +1,46 @@
+{
+  "name": "Charles Christianne",
+  "username": "brittaniebrittany",
+  "email": "introspect@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1967-4-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38931830432"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "158.191.217.22",
+      "GeoLoc": [
+        42.6976,
+        2.8954
+      ],
+      "Address": "1, Rue Th\u00e9odore Guiter, La Real, Perpignan, Pyr\u00e9n\u00e9es-Orientales, Occitanie, France m\u00e9tropolitaine, 66000, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 647269852",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

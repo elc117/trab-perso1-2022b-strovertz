@@ -1,0 +1,46 @@
+{
+  "name": "Aeriel Lyn",
+  "username": "grum",
+  "email": "corn@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-12-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01613709935"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "77.112.151.247",
+      "GeoLoc": [
+        52.1163,
+        21.0174
+      ],
+      "Address": "492, Pu\u0142awska, D\u0105br\u00f3wka, Ursyn\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-884, Warszawa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+168 559195583",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

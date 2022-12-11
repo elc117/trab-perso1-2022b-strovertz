@@ -1,0 +1,46 @@
+{
+  "name": "Carlin Raeann",
+  "username": "cadet",
+  "email": "solly@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1982-2-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01510861092"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.34.13.224",
+      "GeoLoc": [
+        51.0458,
+        6.876
+      ],
+      "Address": "Worringer Bruch, Am Blutberg, Blumenberg, Chorweiler, K\u00f6ln, Nordrhein-Westfalen, 50765, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+194 745115648",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

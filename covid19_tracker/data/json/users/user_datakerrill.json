@@ -1,0 +1,46 @@
+{
+  "name": "Vasan Crystal",
+  "username": "kerrill",
+  "email": "microphyte@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1998-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73804916287"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "83.224.131.67",
+      "GeoLoc": [
+        41.7321,
+        12.2765
+      ],
+      "Address": "C.so Duca di Genova/Posta Centrale, Corso Duca di Genova, Municipio Roma X, Lido di Ostia, Roma, Roma Capitale, Lazio, 00121, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 786196910",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Angeline Ivette",
+  "username": "yettie",
+  "email": "estell@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1986-12-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41152532820"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.155.192.68",
+      "GeoLoc": [
+        39.934,
+        -74.891
+      ],
+      "Address": "500, Mount Laurel Road, Colemantown, Mount Laurel Township, Burlington County, New Jersey, 08054, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+58 529733163",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

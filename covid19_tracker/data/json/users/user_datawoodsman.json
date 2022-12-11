@@ -1,0 +1,46 @@
+{
+  "name": "Guillema Han-Co",
+  "username": "woodsman",
+  "email": "lundin@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1999-2-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30368021009"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "37.196.62.122",
+      "GeoLoc": [
+        56.2,
+        14.95
+      ],
+      "Address": "Trensumsv\u00e4gen, Trensum, H\u00e4llaryd, Karlshamns kommun, Blekinge l\u00e4n, 374 94, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+196 420614620",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

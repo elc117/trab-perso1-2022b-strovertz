@@ -1,0 +1,46 @@
+{
+  "name": "Leddy Emalia",
+  "username": "ditter",
+  "email": "petta@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1975-4-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97392850580"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "27.55.32.217",
+      "GeoLoc": [
+        13.754,
+        100.5014
+      ],
+      "Address": "\u0e28\u0e32\u0e25\u0e32\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, \u0e16\u0e19\u0e19\u0e14\u0e34\u0e19\u0e2a\u0e2d, \u0e41\u0e02\u0e27\u0e07\u0e40\u0e2a\u0e32\u0e0a\u0e34\u0e07\u0e0a\u0e49\u0e32, \u0e40\u0e02\u0e15\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10200, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+189 934693058",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

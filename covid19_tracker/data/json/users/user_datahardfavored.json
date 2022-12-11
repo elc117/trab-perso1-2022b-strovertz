@@ -1,0 +1,46 @@
+{
+  "name": "Hyacinthia Marylou",
+  "username": "hardfavored",
+  "email": "jobi@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1965-5-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "60668415649"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "212.213.114.112",
+      "GeoLoc": [
+        60.1695,
+        24.9354
+      ],
+      "Address": "Danske Bank, Narinkkatori, Kamppi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomen aluehallintovirasto, Manner-Suomi, 00100, Suomi / Finland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+146 777470666",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

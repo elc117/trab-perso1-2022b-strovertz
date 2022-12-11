@@ -1,0 +1,46 @@
+{
+  "name": "Lina Lucinda",
+  "username": "fahrenheit",
+  "email": "efficiency@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-4-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27751679263"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.170.103.16",
+      "GeoLoc": [
+        24.1469,
+        120.6839
+      ],
+      "Address": "13\u4e4b1\u865f, \u592a\u5e73\u8def75\u5df7, \u65b0\u8208\u91cc, \u5317\u5340, \u81fa\u4e2d\u5e02, 404, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+175 327518012",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

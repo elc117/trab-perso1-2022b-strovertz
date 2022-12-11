@@ -1,0 +1,46 @@
+{
+  "name": "Jesse Elli",
+  "username": "gillie",
+  "email": "paleozoic@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1987-4-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27979874897"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "98.115.161.86",
+      "GeoLoc": [
+        40.1215,
+        -75.3399
+      ],
+      "Address": "Montgomery County-Norristown Public Library, 1001, Powell Street, Norristown, Montgomery County, Pennsylvania, 19401, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+195 407727814",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

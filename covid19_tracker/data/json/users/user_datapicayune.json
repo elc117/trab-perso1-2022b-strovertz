@@ -1,0 +1,46 @@
+{
+  "name": "Stateson Kessia",
+  "username": "picayune",
+  "email": "maraud@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1994-11-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06304248610"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "113.251.163.222",
+      "GeoLoc": [
+        29.5603,
+        106.5577
+      ],
+      "Address": "\u4e2d\u5c71\u5c0f\u5b66, \u634d\u536b\u8def, \u4e03\u661f\u5c97\u8857\u9053, \u6e1d\u4e2d\u533a, \u91cd\u5e86\u5e02\u4e3b\u57ce\u90fd\u5e02\u533a, \u91cd\u5e86\u5e02, 400014, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 204124808",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

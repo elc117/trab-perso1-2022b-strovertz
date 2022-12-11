@@ -1,0 +1,46 @@
+{
+  "name": "Veen Manuel",
+  "username": "anus",
+  "email": "streusel@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1972-7-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "23498901478"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "114.142.143.41",
+      "GeoLoc": [
+        23.1784,
+        113.3465
+      ],
+      "Address": "\u4e2d\u56fd\u79d1\u5b66\u9662\u534e\u5357\u690d\u7269\u56ed\u79d1\u7814\u533a, \u5174\u79d1\u8def, \u957f\u5174\u8857\u9053, \u5929\u6cb3\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510650, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+129 438319900",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

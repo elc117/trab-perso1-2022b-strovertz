@@ -1,0 +1,46 @@
+{
+  "name": "Kok-khiang Rosita",
+  "username": "ferland",
+  "email": "wholesome@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1963-2-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30995658498"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.170.189.247",
+      "GeoLoc": [
+        39.934,
+        -74.891
+      ],
+      "Address": "500, Mount Laurel Road, Colemantown, Mount Laurel Township, Burlington County, New Jersey, 08054, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+190 266498187",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

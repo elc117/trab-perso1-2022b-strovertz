@@ -1,0 +1,46 @@
+{
+  "name": "Joyous Vito",
+  "username": "transmundane",
+  "email": "trig@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-1-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "99571457035"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "143.184.90.196",
+      "GeoLoc": [
+        37.3522,
+        -121.9583
+      ],
+      "Address": "El Camino Real & Scott Boulevard, El Camino Real, Santa Clara, Santa Clara County, California, 95052, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+160 250362714",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

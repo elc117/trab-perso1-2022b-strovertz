@@ -1,0 +1,46 @@
+{
+  "name": "Janine Guylaine",
+  "username": "celandine",
+  "email": "probation@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-11-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "94561886982"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "75.112.22.169",
+      "GeoLoc": [
+        28.6611,
+        -81.3656
+      ],
+      "Address": "Maitland Breakfast Club, 1061, Orienta Avenue, Altamonte Springs, Seminole County, Florida, 32701, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+68 479386639",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

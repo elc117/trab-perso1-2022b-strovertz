@@ -1,0 +1,46 @@
+{
+  "name": "Silvestro Jann",
+  "username": "graeme",
+  "email": "brewster@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1973-1-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51241398623"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "46.77.38.167",
+      "GeoLoc": [
+        52.1163,
+        21.0174
+      ],
+      "Address": "492, Pu\u0142awska, D\u0105br\u00f3wka, Ursyn\u00f3w, Warszawa, wojew\u00f3dztwo mazowieckie, 02-884, Warszawa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+62 513166181",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

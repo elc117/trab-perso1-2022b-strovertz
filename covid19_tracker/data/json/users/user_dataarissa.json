@@ -1,0 +1,46 @@
+{
+  "name": "Lyndsey Sallyanne",
+  "username": "arissa",
+  "email": "acetophenetidin@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1971-11-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "21704857082"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "130.218.190.171",
+      "GeoLoc": [
+        34.0234,
+        -84.6155
+      ],
+      "Address": "2215, J O Stephenson Avenue NorthWest, Kennesaw, Cobb County, Georgia, 30144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+191 167048143",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

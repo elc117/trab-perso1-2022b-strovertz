@@ -1,0 +1,46 @@
+{
+  "name": "Joelle Aridatha",
+  "username": "carew",
+  "email": "stud@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1973-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "16714399537"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "3.51.125.170",
+      "GeoLoc": [
+        47.6339,
+        -122.3476
+      ],
+      "Address": "1623, 5th Avenue North, Queen Anne, Seattle, King County, Washington, 98109, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 708302284",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

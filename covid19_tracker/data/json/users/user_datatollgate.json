@@ -1,0 +1,46 @@
+{
+  "name": "Lisabeth Eryn",
+  "username": "tollgate",
+  "email": "conger@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1990-11-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89442621602"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "111.108.81.100",
+      "GeoLoc": [
+        35.7206,
+        139.6634
+      ],
+      "Address": "\u6cbc\u888b\u4e00\u4e01\u76ee, \u4e2d\u91ce\u533a, \u6771\u4eac\u90fd, 165-0022, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+200 766799895",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

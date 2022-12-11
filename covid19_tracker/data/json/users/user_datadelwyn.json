@@ -1,0 +1,46 @@
+{
+  "name": "Leonora Orenzo",
+  "username": "delwyn",
+  "email": "swede@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1977-4-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "25345946051"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "16.112.56.140",
+      "GeoLoc": [
+        47.5413,
+        -122.3129
+      ],
+      "Address": "Boeing 3-313, 7500, East Marginal Way South, Georgetown, Seattle, King County, Washington, 98108, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+34 453766718",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

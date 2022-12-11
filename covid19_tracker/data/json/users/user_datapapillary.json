@@ -1,0 +1,46 @@
+{
+  "name": "Dniren Margret",
+  "username": "papillary",
+  "email": "ethel@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1972-7-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38312865748"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "161.207.181.58",
+      "GeoLoc": [
+        23.1167,
+        113.25
+      ],
+      "Address": "\u5929\u6210\u8def, \u4eba\u6c11\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510130, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+109 819802360",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

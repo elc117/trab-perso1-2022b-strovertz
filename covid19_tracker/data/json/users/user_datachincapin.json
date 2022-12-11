@@ -1,0 +1,46 @@
+{
+  "name": "Danella Editha",
+  "username": "chincapin",
+  "email": "renin@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1967-8-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28694997959"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "197.120.228.109",
+      "GeoLoc": [
+        30.0626,
+        31.2497
+      ],
+      "Address": "\u0634\u0627\u0631\u0639 \u0631\u0645\u0633\u064a\u0633, \u0627\u0644\u0642\u0628\u064a\u0633\u0649, \u0627\u0644\u0633\u0643\u0627\u0643\u064a\u0646\u064a, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 11577, \u0645\u0635\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 250681116",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Doortje Inm",
+  "username": "quicken",
+  "email": "desiderata@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1988-6-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "25409675584"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.143.127.127",
+      "GeoLoc": [
+        -37.814,
+        144.9633
+      ],
+      "Address": "Melbourne's GPO, 350, Bourke Street, Melbourne, City of Melbourne, Victoria, 3000, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 354847045",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

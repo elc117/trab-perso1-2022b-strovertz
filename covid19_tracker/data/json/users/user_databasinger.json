@@ -1,0 +1,46 @@
+{
+  "name": "Meriann Carlin",
+  "username": "basinger",
+  "email": "dorrisdorry@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1997-6-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89392773250"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.4.2.67",
+      "GeoLoc": [
+        -1.3656,
+        -48.3722
+      ],
+      "Address": "Avenida Marechal Zacarias de Assun\u00e7\u00e3o, Centro, Ananindeua, Regi\u00e3o Geogr\u00e1fica Imediata de Bel\u00e9m, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bel\u00e9m, Par\u00e1, Regi\u00e3o Norte, 67030-007, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+158 339016401",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

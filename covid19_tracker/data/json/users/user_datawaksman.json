@@ -1,0 +1,46 @@
+{
+  "name": "Peggy Farrukh",
+  "username": "waksman",
+  "email": "mccarty@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-11-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81860609520"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "99.97.210.94",
+      "GeoLoc": [
+        33.1507,
+        -96.8236
+      ],
+      "Address": "7026, Main Street, Frisco, Collin County, Texas, 75034, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+111 493027655",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

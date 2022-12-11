@@ -1,0 +1,46 @@
+{
+  "name": "Wandie Benthem",
+  "username": "sniperscope",
+  "email": "mordecai@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1992-2-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75657427165"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "156.134.179.188",
+      "GeoLoc": [
+        41.0817,
+        -74.1861
+      ],
+      "Address": "Township Recreational Park Driveway, Ramapo Polo Estates, Darlington, Mahwah, Bergen County, New Jersey, 07430, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+99 472024191",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

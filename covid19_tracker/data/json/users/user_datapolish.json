@@ -1,0 +1,46 @@
+{
+  "name": "Swact Ghassan",
+  "username": "polish",
+  "email": "szombathely@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1960-6-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "72201847436"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.15.163.58",
+      "GeoLoc": [
+        46.224,
+        6.1062
+      ],
+      "Address": "25, Chemin de-Joinville, Cointrin, Meyrin, Gen\u00e8ve, 1216, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+154 802291706",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

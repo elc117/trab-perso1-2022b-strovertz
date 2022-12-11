@@ -1,0 +1,46 @@
+{
+  "name": "Roby Nerta",
+  "username": "caretaker",
+  "email": "yoo@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1968-10-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50772340781"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "42.126.127.89",
+      "GeoLoc": [
+        35.658,
+        138.56
+      ],
+      "Address": "\u5bff\u753a, \u7532\u5e9c\u5e02, \u5c71\u68a8\u770c, 400-0031, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+86 329668945",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

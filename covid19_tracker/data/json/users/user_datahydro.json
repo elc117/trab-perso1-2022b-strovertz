@@ -1,0 +1,46 @@
+{
+  "name": "Frantisek Alyss",
+  "username": "hydro",
+  "email": "physiography@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2005-1-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "45102868055"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.249.252.14",
+      "GeoLoc": [
+        48.8024,
+        2.2935
+      ],
+      "Address": "17, Rue Louveau, Ch\u00e2tillon, Antony, Hauts-de-Seine, \u00cele-de-France, France m\u00e9tropolitaine, 92320, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+104 334315151",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

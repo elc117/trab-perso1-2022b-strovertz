@@ -1,0 +1,46 @@
+{
+  "name": "Brittne Kally",
+  "username": "intussusception",
+  "email": "evocator@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-11-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "33681637440"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "20.109.128.238",
+      "GeoLoc": [
+        47.2343,
+        -119.8525
+      ],
+      "Address": "True Value Hardware, D Street Southeast, Quincy, Grant County, Washington, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+198 809239641",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

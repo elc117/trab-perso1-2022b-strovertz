@@ -1,0 +1,46 @@
+{
+  "name": "Samaria Japan",
+  "username": "anemometer",
+  "email": "vtol@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1990-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03667532407"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "39.167.155.6",
+      "GeoLoc": [
+        21.2339,
+        110.3875
+      ],
+      "Address": "\u5357\u6865\u8857\u9053, \u6e5b\u6c5f\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+132 201580390",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

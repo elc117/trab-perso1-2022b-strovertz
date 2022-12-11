@@ -1,0 +1,46 @@
+{
+  "name": "Jimson Auria",
+  "username": "negatron",
+  "email": "adlei@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1999-4-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37949978597"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "101.155.255.18",
+      "GeoLoc": [
+        39.9075,
+        116.3972
+      ],
+      "Address": "\u7687\u53f2\u5bac, \u5357\u6c60\u5b50\u5927\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+87 209143177",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Soyeh Sarath",
+  "username": "junie",
+  "email": "needlefish@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-10-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65968242841"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.116.244.216",
+      "GeoLoc": [
+        44.9994,
+        7.6824
+      ],
+      "Address": "Via Giuseppe Baretti, Moncalieri, Torino, Piemonte, 10024, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 176132046",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Halette Whitney",
+  "username": "berthaberthe",
+  "email": "lindsy@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1987-6-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "88878287415"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "18.25.113.90",
+      "GeoLoc": [
+        42.3751,
+        -71.1056
+      ],
+      "Address": "5, Leonard Avenue, Agassiz, Cambridge, Middlesex County, Massachusetts, 02143, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 671741146",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

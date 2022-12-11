@@ -1,0 +1,46 @@
+{
+  "name": "Maroun Ernest",
+  "username": "phylys",
+  "email": "tarryn@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1975-7-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "72612317112"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "120.76.154.16",
+      "GeoLoc": [
+        29.4159,
+        121.3397
+      ],
+      "Address": "\u8c61\u5c71 - \u4e49\u4e4c, \u6df1\u753d\u9547, \u5b81\u6d77\u53bf, \u5b81\u6ce2\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+98 883944022",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

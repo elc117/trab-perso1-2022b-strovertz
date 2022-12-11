@@ -1,0 +1,46 @@
+{
+  "name": "Marillin Handoko",
+  "username": "regenaregency",
+  "email": "cubbyhole@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1982-3-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19206117386"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "173.200.188.158",
+      "GeoLoc": [
+        37.6374,
+        -122.067
+      ],
+      "Address": "27570, Huntwood Avenue, Sorenson, Hayward, Alameda County, California, 94544, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+44 965071426",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Eudora Glynda",
+  "username": "kennakennan",
+  "email": "regen@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1999-1-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36067223112"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "17.110.24.245",
+      "GeoLoc": [
+        40.7143,
+        -74.006
+      ],
+      "Address": "Sun Building, 280, Broadway, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10007, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+51 843259394",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

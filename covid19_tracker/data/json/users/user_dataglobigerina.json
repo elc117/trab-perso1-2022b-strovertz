@@ -1,0 +1,46 @@
+{
+  "name": "Ivory Willeke",
+  "username": "globigerina",
+  "email": "nereid@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1986-2-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53764412453"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "132.81.121.210",
+      "GeoLoc": [
+        31.5587,
+        -110.3441
+      ],
+      "Address": "143, Faison Loop, East Pershing Plaza, Sierra Vista, Cochise County, Arizona, 85613, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 546229911",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Wilf Woon",
+  "username": "reenter",
+  "email": "cann@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1991-8-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96635664424"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.58.61.193",
+      "GeoLoc": [
+        46.5547,
+        15.6467
+      ],
+      "Address": "Medicinska fakulteta, 8, Taborska ulica, Lent, Magdalena, Maribor, 2000, Slovenija",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+142 505815486",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

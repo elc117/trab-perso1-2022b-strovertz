@@ -1,0 +1,46 @@
+{
+  "name": "Jorry Tiffanie",
+  "username": "volvox",
+  "email": "lonergan@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1989-1-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41729361722"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.69.214.143",
+      "GeoLoc": [
+        59.9127,
+        10.7461
+      ],
+      "Address": "Oslo Domkirke, Kirkegata, Vaterland, Sentrum, Oslo, 0154, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+142 833235687",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

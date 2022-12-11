@@ -1,0 +1,46 @@
+{
+  "name": "Denice Viola",
+  "username": "biodegradable",
+  "email": "paradisiacal@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1986-10-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "22577124040"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.69.214.143",
+      "GeoLoc": [
+        59.9127,
+        10.7461
+      ],
+      "Address": "Oslo Domkirke, Kirkegata, Vaterland, Sentrum, Oslo, 0154, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 221560467",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

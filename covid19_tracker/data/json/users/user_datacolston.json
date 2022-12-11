@@ -1,0 +1,46 @@
+{
+  "name": "Rigel Mavis",
+  "username": "colston",
+  "email": "archipelago@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1971-11-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48072092804"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.136.126.107",
+      "GeoLoc": [
+        41.2619,
+        -95.8608
+      ],
+      "Address": "Saint Pauls Evangelical Country Church, West Broadway, Council Bluffs, Pottawattamie County, Iowa, 51502, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+22 160539172",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

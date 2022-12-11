@@ -1,0 +1,46 @@
+{
+  "name": "Emilda Flossie",
+  "username": "rimose",
+  "email": "postmillennialism@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1983-11-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66422732490"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "37.57.143.57",
+      "GeoLoc": [
+        47.8517,
+        35.1171
+      ],
+      "Address": "206, \u0421\u043e\u0431\u043e\u0440\u043d\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0435, \u041a\u043e\u043c\u0443\u043d\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f, \u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0433\u0440\u043e\u043c\u0430\u0434\u0430, \u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 69040, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+67 688835995",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

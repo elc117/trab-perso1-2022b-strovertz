@@ -1,0 +1,46 @@
+{
+  "name": "Ibby Mot",
+  "username": "marksman",
+  "email": "tiler@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1970-9-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51490435913"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.59.239.239",
+      "GeoLoc": [
+        -1.2833,
+        36.8167
+      ],
+      "Address": "RUE104, Utalii Lane, Central Business District, Nairobi, 46464, Kenya",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+124 490412232",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

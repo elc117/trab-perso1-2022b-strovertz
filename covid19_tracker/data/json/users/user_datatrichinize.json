@@ -1,0 +1,46 @@
+{
+  "name": "Simona Jane",
+  "username": "trichinize",
+  "email": "dayflower@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1979-2-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51835606504"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "13.32.180.123",
+      "GeoLoc": [
+        38.9209,
+        -77.5039
+      ],
+      "Address": "43347, Defender Drive, South Riding, Loudoun County, Virginia, 20152, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+60 946770314",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

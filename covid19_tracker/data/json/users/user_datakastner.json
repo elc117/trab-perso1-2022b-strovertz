@@ -1,0 +1,46 @@
+{
+  "name": "Katlin Sing-Pin",
+  "username": "kastner",
+  "email": "tapestry@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1974-12-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89058863026"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.153.249.236",
+      "GeoLoc": [
+        38.9205,
+        -5.6698
+      ],
+      "Address": "Calle Urdidera, La Coronada, Badajoz, Extremadura, 06468, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+129 272827226",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

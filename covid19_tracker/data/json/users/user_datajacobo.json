@@ -1,0 +1,46 @@
+{
+  "name": "Caz Prissie",
+  "username": "jacobo",
+  "email": "alembic@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-6-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08320101549"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.46.122.133",
+      "GeoLoc": [
+        36.0649,
+        120.3804
+      ],
+      "Address": "A, \u65b0\u6d66\u8def, \u5e02\u5357\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266001, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+39 590058147",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

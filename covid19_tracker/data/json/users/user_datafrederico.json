@@ -1,0 +1,46 @@
+{
+  "name": "Donovan Raz",
+  "username": "frederico",
+  "email": "hintz@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1965-7-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "82021389901"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "15.107.100.186",
+      "GeoLoc": [
+        37.4334,
+        -122.1842
+      ],
+      "Address": "1400, Oak Creek Drive, Stanford, Palo Alto, Santa Clara County, California, 94025, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+16 411810733",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

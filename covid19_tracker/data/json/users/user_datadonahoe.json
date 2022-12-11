@@ -1,0 +1,46 @@
+{
+  "name": "Maighdiln Iyun",
+  "username": "donahoe",
+  "email": "samella@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1981-10-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78934640464"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "209.140.237.26",
+      "GeoLoc": [
+        42.7692,
+        -86.1164
+      ],
+      "Address": "Burger King, Michigan Avenue, Holland, Ottawa County, Michigan, 49423, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+36 675201901",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

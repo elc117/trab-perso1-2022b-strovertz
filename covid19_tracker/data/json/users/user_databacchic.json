@@ -1,0 +1,46 @@
+{
+  "name": "Foad Simona",
+  "username": "bacchic",
+  "email": "irradiant@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2001-3-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41560990678"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "194.138.47.213",
+      "GeoLoc": [
+        48.15,
+        11.5833
+      ],
+      "Address": "Ludwig-Maximilians-Universit\u00e4t, Kaulbachstra\u00dfe, Sch\u00f6nfeldvorstadt, Maxvorstadt, M\u00fcnchen, Bayern, 80539, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 823626040",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

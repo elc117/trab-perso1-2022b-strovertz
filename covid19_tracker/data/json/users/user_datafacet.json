@@ -1,0 +1,46 @@
+{
+  "name": "Dina Base",
+  "username": "facet",
+  "email": "extramural@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2004-6-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "23441759974"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "89.141.8.86",
+      "GeoLoc": [
+        43.5547,
+        -5.9248
+      ],
+      "Address": "La Luna Digital, 6, Calle Galiana, La Magdalena, Avil\u00e9s, Asturias / Asturies, 33402, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+125 581175864",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

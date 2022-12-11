@@ -1,0 +1,46 @@
+{
+  "name": "Danette Leanora",
+  "username": "plagiarism",
+  "email": "hessenassau@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1982-3-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65934584065"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "158.127.36.204",
+      "GeoLoc": [
+        60.1695,
+        24.9354
+      ],
+      "Address": "Danske Bank, Narinkkatori, Kamppi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomen aluehallintovirasto, Manner-Suomi, 00100, Suomi / Finland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+98 112329750",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

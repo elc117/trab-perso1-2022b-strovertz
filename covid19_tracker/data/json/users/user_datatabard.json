@@ -1,0 +1,46 @@
+{
+  "name": "Camila Blondie",
+  "username": "tabard",
+  "email": "orest@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1999-3-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77732947800"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "160.187.150.80",
+      "GeoLoc": [
+        -33.8678,
+        151.2073
+      ],
+      "Address": "Sydney General Post Office, 1, Martin Place, Quay Quarter, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 484173146",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

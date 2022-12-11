@@ -1,0 +1,46 @@
+{
+  "name": "Mia Arts",
+  "username": "ullrich",
+  "email": "hoahoactzin@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1979-4-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73351522401"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "111.108.81.100",
+      "GeoLoc": [
+        35.7206,
+        139.6634
+      ],
+      "Address": "\u6cbc\u888b\u4e00\u4e01\u76ee, \u4e2d\u91ce\u533a, \u6771\u4eac\u90fd, 165-0022, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+157 688244292",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Thor Asia",
+  "username": "hands",
+  "email": "galbraith@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1960-10-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "95407751160"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "114.130.2.254",
+      "GeoLoc": [
+        23.7104,
+        90.4074
+      ],
+      "Address": "Jahangir Tower, Patuatuli Road, \u09aa\u09be\u099f\u09c1\u09af\u09bc\u09be\u099f\u09c1\u09b2\u09bf, \u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ae\u09b9\u09be\u09a8\u0997\u09b0, \u09a2\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1100, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+11 726343320",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Fuzal Khurshid",
+  "username": "biflagellate",
+  "email": "erminois@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1992-3-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47944023840"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "20.109.128.238",
+      "GeoLoc": [
+        47.2343,
+        -119.8525
+      ],
+      "Address": "True Value Hardware, D Street Southeast, Quincy, Grant County, Washington, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+69 297634680",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

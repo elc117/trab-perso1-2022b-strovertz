@@ -1,0 +1,46 @@
+{
+  "name": "Laurene Joe",
+  "username": "felid",
+  "email": "slovene@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1968-9-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77729049163"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "113.159.74.124",
+      "GeoLoc": [
+        35.691,
+        139.7679
+      ],
+      "Address": "\u5185\u795e\u7530\u4e8c\u4e01\u76ee, \u5185\u795e\u7530, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 101-0047, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 578831683",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

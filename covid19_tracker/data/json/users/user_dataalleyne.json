@@ -1,0 +1,46 @@
+{
+  "name": "Rosella Efdal",
+  "username": "alleyne",
+  "email": "plumcot@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1983-4-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19736706907"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.132.123.98",
+      "GeoLoc": [
+        30.6667,
+        104.0667
+      ],
+      "Address": "\u9673\u9ebb\u5a46\u8c46\u8150(\u7e3d\u5e97), \u4e1c\u534e\u95e8\u8857, \u9f13\u697c\u793e\u533a, \u897f\u5fa1\u6cb3\u8857\u9053, \u9752\u7f8a\u533a, \u6210\u90fd\u5e02, \u56db\u5ddd\u7701, 610015, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+72 743028619",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

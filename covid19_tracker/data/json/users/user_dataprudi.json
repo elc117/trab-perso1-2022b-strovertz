@@ -1,0 +1,46 @@
+{
+  "name": "Vick Nashir",
+  "username": "prudi",
+  "email": "puttergill@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-10-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17424607634"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "95.210.111.116",
+      "GeoLoc": [
+        45.0705,
+        7.6868
+      ],
+      "Address": "Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+57 461048039",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

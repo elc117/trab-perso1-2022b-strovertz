@@ -1,0 +1,46 @@
+{
+  "name": "Rasla Kariotta",
+  "username": "forepeak",
+  "email": "nobukonoby@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1970-11-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84963676818"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.194.37.198",
+      "GeoLoc": [
+        33.7489,
+        -84.3872
+      ],
+      "Address": "Martin Luther King Jr., Capitol Avenue Southeast, Georgia State, Atlanta, Fulton County, Georgia, 30303, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+4 111510363",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

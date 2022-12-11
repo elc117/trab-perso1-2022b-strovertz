@@ -1,0 +1,46 @@
+{
+  "name": "Sid Erich",
+  "username": "durkee",
+  "email": "byington@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2001-11-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08797269700"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "133.55.215.224",
+      "GeoLoc": [
+        36.7683,
+        137.1257
+      ],
+      "Address": "\u5c04\u6c34\u753a\u4e8c\u4e01\u76ee, \u5c04\u6c34\u5e02, \u5bcc\u5c71\u770c, 933-0222, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 484051333",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

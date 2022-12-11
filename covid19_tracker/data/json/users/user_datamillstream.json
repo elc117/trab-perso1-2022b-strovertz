@@ -1,0 +1,46 @@
+{
+  "name": "Hanja Binnie",
+  "username": "millstream",
+  "email": "savino@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2004-5-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29731459456"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "200.208.83.9",
+      "GeoLoc": [
+        -3.1019,
+        -60.025
+      ],
+      "Address": "Chapada, Manaus, Regi\u00e3o Geogr\u00e1fica Imediata de Manaus, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Manaus, Amazonas, Regi\u00e3o Norte, 69000-000, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 666534255",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

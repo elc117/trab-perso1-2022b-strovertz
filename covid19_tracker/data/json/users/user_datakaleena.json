@@ -1,0 +1,46 @@
+{
+  "name": "Selia Nonie",
+  "username": "kaleena",
+  "email": "variolite@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-3-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "09634775365"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.2.71.207",
+      "GeoLoc": [
+        38.9014,
+        -77.0504
+      ],
+      "Address": "George Washington University Hospital, 900, 23rd Street Northwest, The West End, George Washington University, Washington, District of Columbia, 20037, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 345374980",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

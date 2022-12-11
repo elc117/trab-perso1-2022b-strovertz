@@ -1,0 +1,46 @@
+{
+  "name": "Laurel Donn",
+  "username": "geriatric",
+  "email": "spout@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1990-12-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08867623915"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "31.126.231.125",
+      "GeoLoc": [
+        52.0592,
+        1.1555
+      ],
+      "Address": "Tower Ramparts, Stoke, Ipswich, Suffolk, England, IP1 3BY, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+21 442871257",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

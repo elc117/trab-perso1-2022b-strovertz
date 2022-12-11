@@ -1,0 +1,46 @@
+{
+  "name": "Joleen Shutterbug",
+  "username": "roxannaroxanne",
+  "email": "ageless@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1997-10-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61099881897"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.44.99.59",
+      "GeoLoc": [
+        46.224,
+        6.1062
+      ],
+      "Address": "25, Chemin de-Joinville, Cointrin, Meyrin, Gen\u00e8ve, 1216, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+17 974366417",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

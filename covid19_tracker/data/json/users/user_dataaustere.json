@@ -1,0 +1,46 @@
+{
+  "name": "Kanya Neille",
+  "username": "austere",
+  "email": "veriee@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1969-5-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18155316734"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.129.254.173",
+      "GeoLoc": [
+        34.0522,
+        -118.2437
+      ],
+      "Address": "Los Angeles Police Department Headquarters, South Spring Street, Historic Core District, Downtown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90012, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+94 432464280",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

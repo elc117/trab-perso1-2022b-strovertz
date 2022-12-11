@@ -1,0 +1,46 @@
+{
+  "name": "Harriott Gelya",
+  "username": "truehearted",
+  "email": "druggist@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1962-9-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28626940530"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "58.117.116.10",
+      "GeoLoc": [
+        39.9075,
+        116.3972
+      ],
+      "Address": "\u7687\u53f2\u5bac, \u5357\u6c60\u5b50\u5927\u8857, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+6 180432473",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

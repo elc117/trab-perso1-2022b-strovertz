@@ -1,0 +1,46 @@
+{
+  "name": "Gabbie Chryste",
+  "username": "kinata",
+  "email": "volney@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1965-6-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02393887474"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.92.190.185",
+      "GeoLoc": [
+        30.0626,
+        31.2497
+      ],
+      "Address": "\u0634\u0627\u0631\u0639 \u0631\u0645\u0633\u064a\u0633, \u0627\u0644\u0642\u0628\u064a\u0633\u0649, \u0627\u0644\u0633\u0643\u0627\u0643\u064a\u0646\u064a, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 11577, \u0645\u0635\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+168 362597084",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

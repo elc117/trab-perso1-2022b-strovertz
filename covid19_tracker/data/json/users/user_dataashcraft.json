@@ -1,0 +1,46 @@
+{
+  "name": "Carmel Constantin",
+  "username": "ashcraft",
+  "email": "nore@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1978-8-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36463370444"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.12.253.230",
+      "GeoLoc": [
+        35.6763,
+        139.8632
+      ],
+      "Address": "\u5b87\u559c\u7530\u753a, \u6c5f\u6238\u5ddd\u533a, \u6771\u4eac\u90fd, 134-0081, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 625878309",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

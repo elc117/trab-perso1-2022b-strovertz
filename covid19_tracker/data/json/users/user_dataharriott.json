@@ -1,0 +1,46 @@
+{
+  "name": "Satyajit Hojjat",
+  "username": "harriott",
+  "email": "giana@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-2-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53465833279"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.240.142.36",
+      "GeoLoc": [
+        -11.8472,
+        -40.7914
+      ],
+      "Address": "Travessa Josefa S Oliveira, Tapiramut\u00e1, Regi\u00e3o Geogr\u00e1fica Imediata de Jacobina, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Feira de Santana, Bahia, Regi\u00e3o Nordeste, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+48 873805909",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

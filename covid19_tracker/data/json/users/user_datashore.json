@@ -1,0 +1,46 @@
+{
+  "name": "Franco Giang",
+  "username": "shore",
+  "email": "cerium@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1979-2-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06740065420"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.161.255.12",
+      "GeoLoc": [
+        47.5614,
+        -122.1552
+      ],
+      "Address": "4650, 139th Avenue Southeast, Somerset, Bellevue, King County, Washington, 98006, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+91 612113016",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

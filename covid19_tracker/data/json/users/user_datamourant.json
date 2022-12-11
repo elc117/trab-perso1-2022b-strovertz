@@ -1,0 +1,46 @@
+{
+  "name": "Geety Mark",
+  "username": "mourant",
+  "email": "nadda@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1973-9-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73648209906"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "216.86.77.241",
+      "GeoLoc": [
+        42.9275,
+        -83.6299
+      ],
+      "Address": "Hallmark Insurance Agency, 11506, South Saginaw Road, Grand Blanc, Genesee County, Michigan, 48439, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+20 126508118",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

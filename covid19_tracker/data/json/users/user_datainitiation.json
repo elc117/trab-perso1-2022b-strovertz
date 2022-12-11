@@ -1,0 +1,46 @@
+{
+  "name": "Focus Jamison",
+  "username": "initiation",
+  "email": "contradiction@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2005-5-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54741758761"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.196.151.181",
+      "GeoLoc": [
+        46.7457,
+        23.4937
+      ],
+      "Address": "Strada Avram Iancu, Flore\u0219ti, Zona Metropolitan\u0103 Cluj, Cluj, 407280, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+148 515033612",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

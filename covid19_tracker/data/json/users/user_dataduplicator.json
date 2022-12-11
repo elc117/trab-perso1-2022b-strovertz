@@ -1,0 +1,46 @@
+{
+  "name": "Jaan Yolande",
+  "username": "duplicator",
+  "email": "lollis@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1998-1-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48495433168"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.69.238.176",
+      "GeoLoc": [
+        1.2897,
+        103.8501
+      ],
+      "Address": "High Street Centre, 1, North Bridge Road, Civic District, Downtown Core, Singapore, Central, 179094, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+3 227611970",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

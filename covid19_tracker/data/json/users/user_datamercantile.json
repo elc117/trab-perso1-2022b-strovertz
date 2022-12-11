@@ -1,0 +1,46 @@
+{
+  "name": "Rigoberto Celestia",
+  "username": "mercantile",
+  "email": "perfectionist@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1971-3-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19801381680"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "116.168.2.73",
+      "GeoLoc": [
+        43.801,
+        87.6005
+      ],
+      "Address": "Tasty noodles for 15-16 yuan, \u516c\u56ed\u5317\u8857, \u9752\u677e\u82d1\u793e\u533a, \u626c\u5b50\u6c5f\u8def\u8857\u9053, \u6c99\u4f9d\u5df4\u514b\u533a, \u4e4c\u9c81\u6728\u9f50\u5e02, \u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a, 830000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+85 270242751",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Micah Betsy",
+  "username": "attempt",
+  "email": "quinquepartite@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1975-2-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91309656835"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.19.225.180",
+      "GeoLoc": [
+        -20.2638,
+        57.4791
+      ],
+      "Address": "Tagore Avenue, Morcellement Saint-Jean, Saint-Jean, Quatre Bornes, Plaines Wilhems, Outer islands of Mauritius, 72208, Mauritius / Maurice",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+137 702569779",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

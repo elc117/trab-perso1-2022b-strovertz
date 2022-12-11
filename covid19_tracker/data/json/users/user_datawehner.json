@@ -1,0 +1,46 @@
+{
+  "name": "Aloysia Sharone",
+  "username": "wehner",
+  "email": "suppress@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2001-11-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08762233742"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "87.31.255.254",
+      "GeoLoc": [
+        41.8919,
+        12.5113
+      ],
+      "Address": "Il Glicine di Pia, Via Luigi Luzzatti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 764071947",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

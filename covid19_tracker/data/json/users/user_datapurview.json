@@ -1,0 +1,46 @@
+{
+  "name": "Juieta Asan",
+  "username": "purview",
+  "email": "phelgen@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1984-2-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "58314245704"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "25.248.86.246",
+      "GeoLoc": [
+        51.5085,
+        -0.1257
+      ],
+      "Address": "Jigsaw, 449, Strand, Seven Dials, Covent Garden, London, Greater London, England, WC2R 0QU, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+7 381034756",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

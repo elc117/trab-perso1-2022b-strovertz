@@ -1,0 +1,46 @@
+{
+  "name": "Kakalina Camala",
+  "username": "hairdo",
+  "email": "centripetal@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1988-1-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39891621790"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "148.120.220.154",
+      "GeoLoc": [
+        59.9005,
+        10.6245
+      ],
+      "Address": "13, Odd Nansens vei, Fornebu, B\u00e6rum, Viken, 1360, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 826610924",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

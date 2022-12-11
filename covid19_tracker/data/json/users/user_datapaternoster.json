@@ -1,0 +1,46 @@
+{
+  "name": "Kjell Rae",
+  "username": "paternoster",
+  "email": "monet@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1987-6-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "92733399306"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "192.37.132.242",
+      "GeoLoc": [
+        47.5767,
+        7.5947
+      ],
+      "Address": "WKL-685, Wiesenstrasse, Klybeck, Basel, Basel-Stadt, 4057, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+163 524143356",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

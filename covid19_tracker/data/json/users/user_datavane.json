@@ -1,0 +1,46 @@
+{
+  "name": "Andra Kai-Ming",
+  "username": "vane",
+  "email": "dineric@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1966-6-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46690851907"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "153.32.40.148",
+      "GeoLoc": [
+        37.3391,
+        -121.9016
+      ],
+      "Address": "399, Old West Julian Street, Little Italy, Japantown, San Jose, Santa Clara County, California, 95110, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+11 506719401",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

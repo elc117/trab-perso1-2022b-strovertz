@@ -1,0 +1,46 @@
+{
+  "name": "Irice Jaynie",
+  "username": "recreation",
+  "email": "ending@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1960-12-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31033677914"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.66.190.217",
+      "GeoLoc": [
+        30.2971,
+        -97.8181
+      ],
+      "Address": "1215, Yaupon Valley Road, Ledgeway, West Lake Hills, Travis County, Texas, 78746, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+106 313041754",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

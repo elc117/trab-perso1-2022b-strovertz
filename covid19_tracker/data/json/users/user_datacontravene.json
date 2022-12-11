@@ -1,0 +1,46 @@
+{
+  "name": "Gihan Kyle",
+  "username": "contravene",
+  "email": "preen@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1998-4-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29313805120"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.251.113.222",
+      "GeoLoc": [
+        49.9,
+        2.3
+      ],
+      "Address": "LG2A (Laboratoire de Glycochimie, des Antimicrobiens et des Agroressources), 10, Rue Baudelocque, Amiens, Somme, Hauts-de-France, France m\u00e9tropolitaine, 80000, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+168 792567123",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

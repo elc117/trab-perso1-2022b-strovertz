@@ -1,0 +1,46 @@
+{
+  "name": "Parviz Stock",
+  "username": "jeneejenei",
+  "email": "holdall@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1981-1-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66273215723"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.233.196.132",
+      "GeoLoc": [
+        49.1166,
+        10.7597
+      ],
+      "Address": "Buchhandlung Fischer, 35a, Hensoltstra\u00dfe, Schlungenhof, Gunzenhausen, Landkreis Wei\u00dfenburg-Gunzenhausen, Bayern, 91710, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+1 331703842",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

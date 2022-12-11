@@ -1,0 +1,46 @@
+{
+  "name": "Alberta Cark",
+  "username": "sclar",
+  "email": "tildi@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-11-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27539942932"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "220.249.194.227",
+      "GeoLoc": [
+        23.1167,
+        113.25
+      ],
+      "Address": "\u5929\u6210\u8def, \u4eba\u6c11\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510130, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+134 302036259",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

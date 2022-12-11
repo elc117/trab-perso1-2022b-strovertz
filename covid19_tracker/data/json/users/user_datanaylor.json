@@ -1,0 +1,46 @@
+{
+  "name": "Sheeree Ihor",
+  "username": "naylor",
+  "email": "ross@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1971-12-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26869002533"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.178.188.121",
+      "GeoLoc": [
+        48.1776,
+        11.5169
+      ],
+      "Address": "33, Nanga-Parbat-Stra\u00dfe, Moosach-Bahnhof, Moosach, M\u00fcnchen, Bayern, 80992, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 635554007",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Golda Evan",
+  "username": "bettis",
+  "email": "danielledaniels@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2000-3-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "58158248284"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.218.212.101",
+      "GeoLoc": [
+        45.8399,
+        -119.7006
+      ],
+      "Address": "Boardman Post Office, Boardman Avenue Northeast, Boardman, Morrow County, Oregon, 97818, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+176 604349204",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

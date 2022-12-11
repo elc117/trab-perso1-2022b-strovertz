@@ -1,0 +1,46 @@
+{
+  "name": "Carter Eolanda",
+  "username": "decani",
+  "email": "mellow@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-9-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "85104008576"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "157.82.225.24",
+      "GeoLoc": [
+        35.8622,
+        139.9773
+      ],
+      "Address": "\u67cf\u516d\u4e01\u76ee, \u67cf\u5e02, \u5343\u8449\u770c, 277-0005, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+49 969235751",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

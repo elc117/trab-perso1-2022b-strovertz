@@ -1,0 +1,46 @@
+{
+  "name": "Power Lineth",
+  "username": "dorthea",
+  "email": "keystone@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1997-2-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "62670591892"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "181.193.114.164",
+      "GeoLoc": [
+        9.9289,
+        -83.6621
+      ],
+      "Address": "Calle La Calera, Azul, \u00c1nimas, El Mora, La Isabel, Cant\u00f3n Turrialba, Provincia Cartago, 30511, Costa Rica",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+23 380249262",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

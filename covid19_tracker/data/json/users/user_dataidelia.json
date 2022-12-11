@@ -1,0 +1,46 @@
+{
+  "name": "Engbert Erlene",
+  "username": "idelia",
+  "email": "obliging@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1968-5-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29703447180"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "23.202.238.150",
+      "GeoLoc": [
+        7.0084,
+        100.4767
+      ],
+      "Address": "\u0e2b\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48, \u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e32\u0e23, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e07\u0e02\u0e25\u0e32, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+71 785001297",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

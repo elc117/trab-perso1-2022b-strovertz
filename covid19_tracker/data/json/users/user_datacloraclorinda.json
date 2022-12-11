@@ -1,0 +1,46 @@
+{
+  "name": "Farrand Doris",
+  "username": "cloraclorinda",
+  "email": "dunedin@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1981-11-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "93093219540"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "68.239.12.14",
+      "GeoLoc": [
+        42.3584,
+        -71.0598
+      ],
+      "Address": "Kings Chapel Burying Ground, Tremont Street, Downtown Crossing, Downtown Boston, Boston, Suffolk County, Massachusetts, 02203, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+115 930925790",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

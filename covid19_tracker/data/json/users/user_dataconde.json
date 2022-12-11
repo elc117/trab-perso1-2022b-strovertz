@@ -1,0 +1,46 @@
+{
+  "name": "Lainey Octavia",
+  "username": "conde",
+  "email": "cattle@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1980-10-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41004008880"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "36.111.55.31",
+      "GeoLoc": [
+        30.2936,
+        120.1614
+      ],
+      "Address": "\u6d59\u6c5f\u5de5\u4e1a\u5927\u5b66(\u671d\u6656\u6821\u533a), 18\u53f7, \u6f6e\u738b\u8def, \u671d\u6656\u516d\u5c0f\u533a, \u671d\u6656\u8857\u9053, \u62f1\u5885\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310014, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+65 300855200",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

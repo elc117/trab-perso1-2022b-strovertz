@@ -1,0 +1,46 @@
+{
+  "name": "Eugenie Marybelle",
+  "username": "lucilla",
+  "email": "wandawander@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1962-3-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40441688225"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "79.151.176.89",
+      "GeoLoc": [
+        38.0131,
+        -1.1196
+      ],
+      "Address": "Barrio del Puente de la Muleta, Zarandona, Pedan\u00eda de Zarandona, Murcia, \u00c1rea Metropolitana de Murcia, Regi\u00f3n de Murcia, 30007, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+131 660474241",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

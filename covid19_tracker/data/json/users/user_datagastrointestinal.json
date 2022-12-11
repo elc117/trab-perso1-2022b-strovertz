@@ -1,0 +1,46 @@
+{
+  "name": "Lana Lilas",
+  "username": "gastrointestinal",
+  "email": "pea@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1981-10-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "67565425834"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "142.58.22.215",
+      "GeoLoc": [
+        49.2664,
+        -122.9526
+      ],
+      "Address": "Sutliff Street, Burnaby, Metro Vancouver Regional District, British Columbia, V5A 2S3, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+194 790578037",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Laraine Alejandrina",
+  "username": "holbrooke",
+  "email": "dejecta@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1994-8-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91253730300"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "101.4.43.129",
+      "GeoLoc": [
+        34.7578,
+        113.6486
+      ],
+      "Address": "\u897f\u9648\u5e84\u524d\u8857, \u4e8c\u4e03\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450002, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+42 719205230",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

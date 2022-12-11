@@ -1,0 +1,46 @@
+{
+  "name": "Marta Vimi",
+  "username": "romeu",
+  "email": "hairline@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1965-9-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40921493282"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "43.96.140.76",
+      "GeoLoc": [
+        1.2897,
+        103.8501
+      ],
+      "Address": "High Street Centre, 1, North Bridge Road, Civic District, Downtown Core, Singapore, Central, 179094, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+160 618669723",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Evie Mil",
+  "username": "xerophyte",
+  "email": "hipparch@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1983-10-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "05512564005"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "73.107.218.80",
+      "GeoLoc": [
+        26.5629,
+        -81.9495
+      ],
+      "Address": "South Cape Towne Center, Cape Coral Parkway East, Cape Coral, Lee County, Florida, 33904, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 908146155",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

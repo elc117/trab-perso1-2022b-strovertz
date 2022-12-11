@@ -1,0 +1,46 @@
+{
+  "name": "Farah Newell",
+  "username": "skees",
+  "email": "humble@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1992-7-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "21007002352"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "77.169.178.185",
+      "GeoLoc": [
+        52.1447,
+        5.3701
+      ],
+      "Address": "11, Vondellaan, De Berg-Zuid, Amersfoort, Utrecht, Nederland, 3818 WN, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+120 364474971",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}
