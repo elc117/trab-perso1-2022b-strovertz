@@ -1,0 +1,46 @@
+{
+  "name": "Elbertine Fwpas",
+  "username": "wavelet",
+  "email": "hun@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1983-10-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53806487464"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "190.107.183.93",
+      "GeoLoc": [
+        -12.0535,
+        -77.098
+      ],
+      "Address": "Avenida \u00d3scar Raimundo Benavides, Tarapac\u00e1, Callao, Lima Metropolitana, Callao, 06011, Per\u00fa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+59 846224236",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

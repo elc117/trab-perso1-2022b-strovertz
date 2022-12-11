@@ -1,0 +1,46 @@
+{
+  "name": "Syl Carlie",
+  "username": "harrell",
+  "email": "baluchi@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1988-7-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "63099124702"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "184.166.109.95",
+      "GeoLoc": [
+        39.0761,
+        -108.5451
+      ],
+      "Address": "Lincoln Park Golf Course, Mantlo Circle, Grand Junction, Mesa County, Colorado, 81501, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+4 420491106",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

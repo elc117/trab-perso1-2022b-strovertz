@@ -1,0 +1,46 @@
+{
+  "name": "Kirsti Gwenny",
+  "username": "kinetics",
+  "email": "succussion@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-5-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40575653531"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "33.72.175.208",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+186 960078820",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

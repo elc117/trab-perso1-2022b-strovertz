@@ -1,0 +1,46 @@
+{
+  "name": "Darby Esther",
+  "username": "understand",
+  "email": "earnest@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1987-10-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "09175762099"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "199.27.247.155",
+      "GeoLoc": [
+        26.125,
+        -80.267
+      ],
+      "Address": "321, Northwest 87th Road, Plantation, Broward County, Florida, 33324, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 894152587",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

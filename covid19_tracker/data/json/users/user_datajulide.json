@@ -1,0 +1,46 @@
+{
+  "name": "Synful Haruko",
+  "username": "julide",
+  "email": "amundsen@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1970-11-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11282753762"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.117.58.241",
+      "GeoLoc": [
+        39.9143,
+        116.3861
+      ],
+      "Address": "\u57ce\u589910, \u6545\u5bab\u897f\u95e8\u5916, \u897f\u957f\u5b89\u8857\u8857\u9053, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+106 227053159",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

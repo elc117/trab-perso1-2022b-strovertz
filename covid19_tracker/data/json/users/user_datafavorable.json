@@ -1,0 +1,46 @@
+{
+  "name": "Valeria Annaliese",
+  "username": "favorable",
+  "email": "cavil@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1979-4-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17347445108"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.65.146.110",
+      "GeoLoc": [
+        40.7085,
+        -74.0106
+      ],
+      "Address": "Equitable Building, 120, Broadway, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10003, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+77 646364956",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

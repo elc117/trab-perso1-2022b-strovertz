@@ -1,0 +1,46 @@
+{
+  "name": "Hartley Norman",
+  "username": "gloaming",
+  "email": "underthecounter@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-6-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24125151741"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "48.145.92.196",
+      "GeoLoc": [
+        40.7369,
+        -74.172
+      ],
+      "Address": "Prudential Plaza Building, Bank Street, Teachers Village, Newark, Essex County, New Jersey, 07102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+133 806819020",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

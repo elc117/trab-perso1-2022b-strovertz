@@ -1,0 +1,46 @@
+{
+  "name": "Gladys Laura",
+  "username": "exposure",
+  "email": "limitary@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1961-1-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11732716005"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "196.19.208.216",
+      "GeoLoc": [
+        39.1027,
+        -94.5778
+      ],
+      "Address": "454, East 10th Street, Central Downtown, Central Business District KC, Downtown Kansas City, Kansas City, Jackson County, Missouri, 64116, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+106 195868051",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

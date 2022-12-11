@@ -1,0 +1,46 @@
+{
+  "name": "Zola Elsbeth",
+  "username": "seersucker",
+  "email": "runway@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2004-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75718749558"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "49.217.233.244",
+      "GeoLoc": [
+        24.144,
+        120.6844
+      ],
+      "Address": "\u6e56\u5fc3\u4ead, \u4e2d\u5c71\u6a4b, \u65b0\u8208\u91cc, \u5317\u5340, \u81fa\u4e2d\u5e02, 404, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+80 898530243",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

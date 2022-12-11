@@ -1,0 +1,46 @@
+{
+  "name": "Tom Dpnlab",
+  "username": "dispel",
+  "email": "snob@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2004-11-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "05680215411"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.69.238.176",
+      "GeoLoc": [
+        1.34712,
+        103.68
+      ],
+      "Address": "Nanyang Technological University, 50, Nanyang Avenue, Western Water Catchment, Singapore, Southwest, 639798, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+195 921336829",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

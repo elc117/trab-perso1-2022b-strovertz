@@ -1,0 +1,46 @@
+{
+  "name": "Loralyn Cleopatra",
+  "username": "aloud",
+  "email": "eldreda@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2001-12-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38213315189"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.196.210.39",
+      "GeoLoc": [
+        35.6895,
+        139.692
+      ],
+      "Address": "\u6771\u4eac\u90fd\u5e81, \u5357\u901a\u308a, \u897f\u65b0\u5bbf\u4e8c\u4e01\u76ee, \u65b0\u5bbf\u533a, \u6771\u4eac\u90fd, 163-8001, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 294869974",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

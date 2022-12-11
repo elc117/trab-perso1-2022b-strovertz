@@ -1,0 +1,46 @@
+{
+  "name": "Dave Sarath",
+  "username": "madgemadhouse",
+  "email": "shaveling@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1971-10-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "32039529713"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "210.1.233.72",
+      "GeoLoc": [
+        -20.1609,
+        57.5012
+      ],
+      "Address": "Central Market, Port Louis \u2013 The North Motorway, William Newton, Plaine Verte, Port Louis, Outer islands of Mauritius, 11307, Mauritius / Maurice",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+73 506105776",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

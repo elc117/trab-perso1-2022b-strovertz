@@ -1,0 +1,46 @@
+{
+  "name": "Yokan Dia-Edin",
+  "username": "accompanyist",
+  "email": "alla@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-7-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18281840803"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.12.161.219",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+92 602124365",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

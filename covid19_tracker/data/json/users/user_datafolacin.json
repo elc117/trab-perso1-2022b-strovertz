@@ -1,0 +1,46 @@
+{
+  "name": "Karl Malaysia",
+  "username": "folacin",
+  "email": "oxidimetry@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1972-3-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31634076508"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "45.52.209.62",
+      "GeoLoc": [
+        36.1304,
+        -109.6037
+      ],
+      "Address": "Chinle / Ch\u02bc\u00edn\u00edl\u012f\u0301, Chinle Agency / Ch\u02bc\u00ed\u0144l\u012f\u0301 Bi\u0142 Hahoodzo biyi\u02bcdi, Apache County, Arizona, 87503, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+131 352473829",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

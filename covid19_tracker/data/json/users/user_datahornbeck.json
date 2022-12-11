@@ -1,0 +1,46 @@
+{
+  "name": "Linn Chung",
+  "username": "hornbeck",
+  "email": "depository@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1964-6-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28613933513"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.12.161.219",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 461785231",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

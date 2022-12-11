@@ -1,0 +1,46 @@
+{
+  "name": "Jennee Kiet",
+  "username": "candie",
+  "email": "mineralogy@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1970-8-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75252369682"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "46.77.38.167",
+      "GeoLoc": [
+        52.4064,
+        16.9252
+      ],
+      "Address": "\u015awi\u0119ty Marcin, Stare Miasto, Pozna\u0144, wojew\u00f3dztwo wielkopolskie, 61-814, Polska",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+88 784477230",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

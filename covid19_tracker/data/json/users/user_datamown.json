@@ -1,0 +1,46 @@
+{
+  "name": "Euphemia Harper",
+  "username": "mown",
+  "email": "karalynn@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1975-2-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37221919046"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "17.105.165.24",
+      "GeoLoc": [
+        30.2672,
+        -97.7431
+      ],
+      "Address": "501, Congress Avenue, Downtown, Austin, Travis County, Texas, 78701, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+65 298290185",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Lula Dara",
+  "username": "goy",
+  "email": "update@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1987-6-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "32348110830"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.132.123.98",
+      "GeoLoc": [
+        30.2638,
+        102.805
+      ],
+      "Address": "\u4e2d\u575d, \u5b9d\u5174\u53bf, \u96c5\u5b89\u5e02, \u56db\u5ddd\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 742194854",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

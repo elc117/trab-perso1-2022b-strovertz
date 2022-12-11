@@ -1,0 +1,46 @@
+{
+  "name": "Lary Mehdi",
+  "username": "roughhew",
+  "email": "quillen@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1982-2-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70933447639"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "90.240.87.5",
+      "GeoLoc": [
+        53.4821,
+        -2.5103
+      ],
+      "Address": "United Utilities Leigh, Greenfold Way, Leigh Business Park, Leigh, Wigan, Greater Manchester, England, WN7 3XT, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 272360430",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

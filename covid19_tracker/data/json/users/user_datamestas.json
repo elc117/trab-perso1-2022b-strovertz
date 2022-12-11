@@ -1,0 +1,46 @@
+{
+  "name": "Ciel Georgeanna",
+  "username": "mestas",
+  "email": "gyrostatics@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1994-9-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "09626490403"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "168.19.73.37",
+      "GeoLoc": [
+        31.5791,
+        -84.2138
+      ],
+      "Address": "Albany State University (West Campus), 2400, Gillionville Road, Albany, Dougherty County, Georgia, 31707, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+172 201204295",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

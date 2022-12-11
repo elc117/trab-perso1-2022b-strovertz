@@ -1,0 +1,46 @@
+{
+  "name": "Jillie Marlena",
+  "username": "monger",
+  "email": "edea@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2005-10-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89647820623"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "117.109.200.82",
+      "GeoLoc": [
+        34.6879,
+        135.8144
+      ],
+      "Address": "\u829d\u8fbb\u753a\u4e09\u4e01\u76ee, \u5948\u826f\u5e02, \u5948\u826f\u770c, 630-8113, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+184 299893066",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

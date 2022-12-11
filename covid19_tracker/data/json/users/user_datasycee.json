@@ -1,0 +1,46 @@
+{
+  "name": "Jenda Bryce",
+  "username": "sycee",
+  "email": "eight@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1989-10-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61790120080"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "14.173.135.51",
+      "GeoLoc": [
+        10.8326,
+        106.6581
+      ],
+      "Address": "Ph\u01b0\u1eddng 10, Ph\u01b0\u1eddng 15, Qu\u1eadn T\u00e2n B\u00ecnh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh, 71409, Vi\u1ec7t Nam",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+109 611355542",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

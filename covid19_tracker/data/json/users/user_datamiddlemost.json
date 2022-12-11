@@ -1,0 +1,46 @@
+{
+  "name": "Raju Lysy",
+  "username": "middlemost",
+  "email": "hebel@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2005-2-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12760395065"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "117.207.102.233",
+      "GeoLoc": [
+        11.6602,
+        78.1532
+      ],
+      "Address": "Gandhi Stadium, Salem - Omalur Road, FORT, Salem, Salem District, Tamil Nadu, 636001, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 273057432",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

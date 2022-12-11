@@ -1,0 +1,46 @@
+{
+  "name": "Noelani Winni",
+  "username": "racecourse",
+  "email": "iconoclasm@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1965-10-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54728339300"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "2.64.78.174",
+      "GeoLoc": [
+        59.3351,
+        18.0139
+      ],
+      "Address": "Trafikf\u00f6rvaltningen, Kellgrensgatan, Hornsberg, Stadshagen, Kungsholmens stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 112 18, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+1 191848855",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

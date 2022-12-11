@@ -1,0 +1,46 @@
+{
+  "name": "Carilyn Kristin",
+  "username": "adriannaadrianne",
+  "email": "sever@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1999-5-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "63769489608"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.162.42.249",
+      "GeoLoc": [
+        39.7709,
+        -86.1585
+      ],
+      "Address": "AT&T Building, 220, North Meridian Street, Indianapolis, Marion, Indiana, 46204, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+103 467705525",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

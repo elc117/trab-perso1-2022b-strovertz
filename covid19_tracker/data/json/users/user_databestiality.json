@@ -1,0 +1,46 @@
+{
+  "name": "Aleece Alexis",
+  "username": "bestiality",
+  "email": "congressional@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2000-5-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50696038927"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "160.210.56.223",
+      "GeoLoc": [
+        64.1405,
+        -21.9261
+      ],
+      "Address": "5, Eir\u00edksgata, Austurb\u00e6r, Mi\u00f0borg, Reykjav\u00edkurborg, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 101, \u00cdsland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+8 786167275",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Cathlene Benedikta",
+  "username": "chiffon",
+  "email": "alodee@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1984-6-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76764007918"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "20.50.141.168",
+      "GeoLoc": [
+        52.3667,
+        4.9
+      ],
+      "Address": "192M, Amstel, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 AG, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+181 219909608",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

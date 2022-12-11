@@ -1,0 +1,46 @@
+{
+  "name": "Felita Ari",
+  "username": "geordie",
+  "email": "incorporeal@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1967-9-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "43485526576"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "154.232.98.190",
+      "GeoLoc": [
+        5.41613,
+        -4.0159
+      ],
+      "Address": "Anador, Abobo, Abidjan, C\u00f4te d\u2019Ivoire",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+166 122247776",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

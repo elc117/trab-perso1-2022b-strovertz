@@ -1,0 +1,46 @@
+{
+  "name": "Empdb Kathi",
+  "username": "abukir",
+  "email": "symbolism@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1975-5-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "22045554015"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "72.0.42.181",
+      "GeoLoc": [
+        33.0691,
+        -106.0075
+      ],
+      "Address": "Mesa Estates Court, Otero County, New Mexico, 88352, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 864311907",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

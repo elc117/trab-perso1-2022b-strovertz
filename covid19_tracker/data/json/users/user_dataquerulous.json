@@ -1,0 +1,46 @@
+{
+  "name": "Gertie Sukhwant",
+  "username": "querulous",
+  "email": "akerley@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1990-4-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28537085944"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "119.190.126.56",
+      "GeoLoc": [
+        36.8539,
+        119.394
+      ],
+      "Address": "\u5929\u6c34\u8def\u8f85\u8def, \u5927\u6e7e\u793e\u533a, \u594e\u805a\u8857\u9053, \u660c\u9091\u5e02, \u6f4d\u574a\u5e02, \u5c71\u4e1c\u7701, 261300, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 221498245",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

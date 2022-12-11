@@ -1,0 +1,46 @@
+{
+  "name": "Neala Zofia",
+  "username": "kozlowski",
+  "email": "voigt@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2004-4-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78848214355"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.75.227.255",
+      "GeoLoc": [
+        35.7201,
+        139.7439
+      ],
+      "Address": "\u5c0f\u77f3\u5ddd\u690d\u7269\u5712, \u767d\u5c71\u901a\u308a, \u767d\u5c71\u56db\u4e01\u76ee, \u6587\u4eac\u533a, \u6771\u4eac\u90fd, 112-0001, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+63 494337081",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

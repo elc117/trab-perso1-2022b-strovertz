@@ -1,0 +1,46 @@
+{
+  "name": "Amara Shailendra",
+  "username": "creatural",
+  "email": "cockfight@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-10-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "35215081450"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "143.197.97.176",
+      "GeoLoc": [
+        34.0495,
+        -117.264
+      ],
+      "Address": "Loma Linda University, Campus Street, Loma Linda, CAL Fire San Bernardino Unit, CAL Fire Southern Region, California, 92350, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+169 849447238",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

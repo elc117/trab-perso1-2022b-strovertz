@@ -1,0 +1,46 @@
+{
+  "name": "Fast Selia",
+  "username": "djakarta",
+  "email": "tercet@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1966-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "04382685710"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.0.94.231",
+      "GeoLoc": [
+        -18.6767,
+        -40.5551
+      ],
+      "Address": "Vila Pav\u00e3o, Regi\u00e3o Geogr\u00e1fica Imediata de Nova Ven\u00e9cia, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Colatina, Esp\u00edrito Santo, Regi\u00e3o Sudeste, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+130 807510840",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

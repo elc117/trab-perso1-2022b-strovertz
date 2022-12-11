@@ -1,0 +1,46 @@
+{
+  "name": "Lucy Detlef",
+  "username": "rate",
+  "email": "harry@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1994-7-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36315672272"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "99.210.24.167",
+      "GeoLoc": [
+        43.693,
+        -79.8365
+      ],
+      "Address": "78, El Camino Way, Brampton, Peel Region, Golden Horseshoe, Ontario, L7A 0X5, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+98 562919977",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

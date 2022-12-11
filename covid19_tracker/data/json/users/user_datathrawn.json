@@ -1,0 +1,46 @@
+{
+  "name": "Avedis Hally",
+  "username": "thrawn",
+  "email": "motile@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1993-5-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "44096360570"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "222.66.245.251",
+      "GeoLoc": [
+        31.2304,
+        121.474
+      ],
+      "Address": "\u5927\u4e16\u754c, \u897f\u85cf\u5357\u8def, \u5916\u6ee9\u8857\u9053, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200021, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+92 653651633",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Annie Salli",
+  "username": "miocene",
+  "email": "haletta@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2000-4-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "74048699008"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "28.203.244.182",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 555555515",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

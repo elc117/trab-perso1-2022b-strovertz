@@ -1,0 +1,46 @@
+{
+  "name": "Lucie Amelie",
+  "username": "inarticulate",
+  "email": "whitehot@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1988-4-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27659244655"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "185.163.198.161",
+      "GeoLoc": [
+        56.1537,
+        10.2119
+      ],
+      "Address": "3, \u00c5boulevarden, Midtbyen, Aarhus \u00d8, Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 135915625",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

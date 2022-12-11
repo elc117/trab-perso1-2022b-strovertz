@@ -1,0 +1,46 @@
+{
+  "name": "Jean-Normand Janis",
+  "username": "prophylactic",
+  "email": "dossier@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1972-1-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27018656389"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.53.130.229",
+      "GeoLoc": [
+        -20.7635,
+        -46.6187
+      ],
+      "Address": "Passos, Regi\u00e3o Geogr\u00e1fica Imediata de Passos, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Varginha, Minas Gerais, Regi\u00e3o Sudeste, 37901-238, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+15 831984644",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

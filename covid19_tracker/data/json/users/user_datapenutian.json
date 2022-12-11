@@ -1,0 +1,46 @@
+{
+  "name": "Zulfikar Jasmin",
+  "username": "penutian",
+  "email": "tychon@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1991-10-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41401479545"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "184.196.186.179",
+      "GeoLoc": [
+        37.958,
+        -121.2876
+      ],
+      "Address": "372, East Fremont Street, Stockton, San Joaquin County, California, 95202, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 279477404",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

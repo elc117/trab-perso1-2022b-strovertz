@@ -1,0 +1,46 @@
+{
+  "name": "Kara Elbertine",
+  "username": "begrudge",
+  "email": "barmecidal@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-11-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02919287575"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "183.85.112.80",
+      "GeoLoc": [
+        39.9042,
+        116.407
+      ],
+      "Address": "\u53f2\u5bb6\u793e\u533a, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+102 880417300",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

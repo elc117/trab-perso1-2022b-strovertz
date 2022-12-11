@@ -1,0 +1,46 @@
+{
+  "name": "Andy Pollyanna",
+  "username": "carpenter",
+  "email": "denti@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1985-8-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "23069195857"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.196.151.181",
+      "GeoLoc": [
+        46.7657,
+        23.5943
+      ],
+      "Address": "Cimitirul Central, Strada Zaharia B\u00e2rsan, Andrei Mure\u0219anu, Cluj-Napoca, Zona Metropolitan\u0103 Cluj, Cluj, 400193, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+25 807287543",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

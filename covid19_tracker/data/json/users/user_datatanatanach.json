@@ -1,0 +1,46 @@
+{
+  "name": "Rolf Merrily",
+  "username": "tanatanach",
+  "email": "visage@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1987-2-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68700784087"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "161.203.38.226",
+      "GeoLoc": [
+        38.8989,
+        -77.0182
+      ],
+      "Address": "Government Accountability Office, 441, G Street Northwest, Washington, District of Columbia, 20548, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+36 994950352",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

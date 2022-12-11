@@ -1,0 +1,46 @@
+{
+  "name": "Biswajit Biplab",
+  "username": "cutler",
+  "email": "diversity@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1982-11-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55283439330"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "50.231.76.226",
+      "GeoLoc": [
+        30.0821,
+        -81.5471
+      ],
+      "Address": "Longleaf Pine Parkway, Saint Johns County, Florida, 32259, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+123 921837361",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Opal Jena",
+  "username": "matinee",
+  "email": "varicose@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1980-5-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24416360304"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "164.25.117.170",
+      "GeoLoc": [
+        52.0231,
+        8.53375
+      ],
+      "Address": "2, Jahnplatz, Mitte, Bielefeld, Nordrhein-Westfalen, 33602, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+172 206078785",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

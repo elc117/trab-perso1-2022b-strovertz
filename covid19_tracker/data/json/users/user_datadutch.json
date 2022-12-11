@@ -1,0 +1,46 @@
+{
+  "name": "Latrena Ninnette",
+  "username": "dutch",
+  "email": "hibbs@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1978-8-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02137317621"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "75.158.23.137",
+      "GeoLoc": [
+        51.0857,
+        -114.0234
+      ],
+      "Address": "McCall Lake Golf Club, McKnight Boulevard NE, North Airways, Calgary, Alberta, T2E 8A5, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+96 564353282",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

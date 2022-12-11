@@ -1,0 +1,46 @@
+{
+  "name": "Kristien Adah",
+  "username": "nut",
+  "email": "probably@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1970-10-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56032578062"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.240.143.114",
+      "GeoLoc": [
+        40.3175,
+        -74.6293
+      ],
+      "Address": "5, Vaughn Drive, West Windsor, Mercer County, New Jersey, 08540, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+186 720345242",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

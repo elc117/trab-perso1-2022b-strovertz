@@ -1,0 +1,46 @@
+{
+  "name": "Ramona Ramona",
+  "username": "dewyeyed",
+  "email": "loser@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1983-12-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27087675001"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "37.152.208.126",
+      "GeoLoc": [
+        52.2445,
+        0.7186
+      ],
+      "Address": "Abbey Ruins, Shirehall Way, Bury St Edmunds, West Suffolk, Suffolk, England, IP33 1RX, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+31 139343047",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

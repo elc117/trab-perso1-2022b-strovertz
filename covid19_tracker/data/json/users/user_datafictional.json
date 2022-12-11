@@ -1,0 +1,46 @@
+{
+  "name": "Anky Carlos",
+  "username": "fictional",
+  "email": "tierratiersten@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1978-2-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11543143083"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "61.96.86.74",
+      "GeoLoc": [
+        37.4863,
+        126.892
+      ],
+      "Address": "\ub4dc\ub9bc\ub9c8\ud06c\uc6d0 \ub370\uc774\ud130\uc13c\ud130, 61, \ub514\uc9c0\ud138\ub85c31\uae38, \uad6c\ub85c\ub514\uc9c0\ud138\ub2e8\uc9c0, \uad6c\ub85c\uad6c, \uc11c\uc6b8, 08375, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 502654980",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

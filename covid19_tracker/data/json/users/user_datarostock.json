@@ -1,0 +1,46 @@
+{
+  "name": "Skiclub Shara",
+  "username": "rostock",
+  "email": "perpend@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1968-7-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "99006320285"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "80.140.35.79",
+      "GeoLoc": [
+        51.2672,
+        6.5497
+      ],
+      "Address": "Parkstr./ B\u00fctzgeshof, Parkstra\u00dfe, Wekeln, Willich, Kreis Viersen, Nordrhein-Westfalen, 47877, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+69 308329701",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Prem Zsazsa",
+  "username": "aeschines",
+  "email": "circumscribe@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1973-4-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40578787938"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "46.77.38.167",
+      "GeoLoc": [
+        52.4064,
+        16.9252
+      ],
+      "Address": "\u015awi\u0119ty Marcin, Stare Miasto, Pozna\u0144, wojew\u00f3dztwo wielkopolskie, 61-814, Polska",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+61 437537613",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

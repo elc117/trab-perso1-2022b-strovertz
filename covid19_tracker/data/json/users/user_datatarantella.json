@@ -1,0 +1,46 @@
+{
+  "name": "Cornela Brent",
+  "username": "tarantella",
+  "email": "labors@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1963-12-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "94457240540"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.58.30.189",
+      "GeoLoc": [
+        35.5189,
+        -97.5354
+      ],
+      "Address": "1443, Northwest 46th Street, Oklahoma City, Oklahoma County, Oklahoma, 73118, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+87 132694239",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

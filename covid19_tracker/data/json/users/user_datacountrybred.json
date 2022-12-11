@@ -1,0 +1,46 @@
+{
+  "name": "Hideki Gahn",
+  "username": "countrybred",
+  "email": "hoffarth@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1964-5-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37010572577"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "43.228.140.157",
+      "GeoLoc": [
+        28.6542,
+        77.2373
+      ],
+      "Address": "Red Fort, Mahatma Gandhi Marg, Chandni Chowk, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110003, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+59 129006570",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

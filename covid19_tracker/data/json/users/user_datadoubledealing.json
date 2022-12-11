@@ -1,0 +1,46 @@
+{
+  "name": "Follick Cheryl",
+  "username": "doubledealing",
+  "email": "variolite@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1960-3-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97789671561"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "15.107.100.186",
+      "GeoLoc": [
+        37.4146,
+        -122.146
+      ],
+      "Address": "3200, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+164 384541153",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

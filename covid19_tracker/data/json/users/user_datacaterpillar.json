@@ -1,0 +1,46 @@
+{
+  "name": "Mary-Pat Mesut",
+  "username": "caterpillar",
+  "email": "lubow@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2003-4-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91656960699"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "66.255.162.160",
+      "GeoLoc": [
+        39.9446,
+        -74.9526
+      ],
+      "Address": "377, Fellowship Road, East Gate Centre, Mount Laurel Township, Burlington County, New Jersey, 08057, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+101 220396016",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

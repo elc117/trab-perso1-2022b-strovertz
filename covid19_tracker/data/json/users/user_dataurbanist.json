@@ -1,0 +1,46 @@
+{
+  "name": "Rochelle Rois",
+  "username": "urbanist",
+  "email": "ludewig@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1986-5-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06009326052"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "197.218.52.18",
+      "GeoLoc": [
+        -25.9648,
+        32.5639
+      ],
+      "Address": "Av. Mohamed Siad Barre, Alto Ma\u00e9 \"B\", Distrito Municipal de KaMpfumo, Cidade de Maputo, 0101-02, Mo\u00e7ambique",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+166 202613256",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

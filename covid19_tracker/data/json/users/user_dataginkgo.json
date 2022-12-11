@@ -1,0 +1,46 @@
+{
+  "name": "Drucill Mella",
+  "username": "ginkgo",
+  "email": "enviable@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1993-6-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31599815338"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "120.76.154.16",
+      "GeoLoc": [
+        22.5559,
+        114.0577
+      ],
+      "Address": "\u6df1\u5733\u7ecf\u6d4e\u7279\u533a\u5efa\u7acb\u4e09\u5341\u5468\u5e74\u7eaa\u5ff5\u56ed, \u7ea2\u8354\u8def, \u798f\u4e2d\u793e\u533a, \u83b2\u82b1\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+16 593724725",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Feliza Marv",
+  "username": "ette",
+  "email": "sample@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1967-10-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81236601114"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.197.70.27",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+65 972367857",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

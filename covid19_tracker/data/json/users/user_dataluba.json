@@ -1,0 +1,46 @@
+{
+  "name": "Horacio Stormi",
+  "username": "luba",
+  "email": "groove@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-2-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37459781371"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "173.200.188.158",
+      "GeoLoc": [
+        37.7749,
+        -122.419
+      ],
+      "Address": "Bay Wheels, South Van Ness Avenue, Hayes Valley, San Francisco, CAL Fire Northern Region, California, 94102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+81 336064369",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

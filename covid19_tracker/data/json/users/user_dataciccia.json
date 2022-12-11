@@ -1,0 +1,46 @@
+{
+  "name": "Jen Sabine",
+  "username": "ciccia",
+  "email": "schlessel@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2000-4-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46401828803"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "68.132.41.57",
+      "GeoLoc": [
+        40.8681,
+        -73.4094
+      ],
+      "Address": "13, Hilaire Drive, Huntington, Town of Huntington, Suffolk County, New York, 11743, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+23 149970127",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

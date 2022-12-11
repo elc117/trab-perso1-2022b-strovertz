@@ -1,0 +1,46 @@
+{
+  "name": "Meena Jocelyn",
+  "username": "lawmaker",
+  "email": "shayla@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1977-1-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96699335367"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.113.112.96",
+      "GeoLoc": [
+        37.3322,
+        -122.011
+      ],
+      "Address": "Apple Park, 1, Apple Park Way, Cupertino, Santa Clara County, California, 94087, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+109 552319962",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

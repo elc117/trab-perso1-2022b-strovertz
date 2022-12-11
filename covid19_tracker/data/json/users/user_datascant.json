@@ -1,0 +1,46 @@
+{
+  "name": "Elysee Michael-Morgan",
+  "username": "scant",
+  "email": "sammy@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1961-4-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46718643475"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "161.163.14.208",
+      "GeoLoc": [
+        36.3653,
+        -94.2176
+      ],
+      "Address": "Walmart Home Office, Southwest F Street, Bentonville, Benton County, Arkansas, 72712, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+18 922846268",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

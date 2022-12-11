@@ -1,0 +1,46 @@
+{
+  "name": "Marylynn Marilyn",
+  "username": "adolpho",
+  "email": "grosberg@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-10-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49955914009"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "79.151.176.89",
+      "GeoLoc": [
+        37.9921,
+        -1.1201
+      ],
+      "Address": "Parque canino Jard\u00edn de las 3 Copas - ZECA, Calle Alonso de Ojeda, La Flota, Murcia, \u00c1rea Metropolitana de Murcia, Regi\u00f3n de Murcia, 30007, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+38 909521324",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

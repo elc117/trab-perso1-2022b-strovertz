@@ -1,0 +1,46 @@
+{
+  "name": "Felix Terra",
+  "username": "gadwall",
+  "email": "bubbler@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1975-11-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "15474528540"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "213.222.148.113",
+      "GeoLoc": [
+        47.5636,
+        19.0947
+      ],
+      "Address": "65-67, Erzs\u00e9bet utca, \u00dajpesti lak\u00f3telep, \u00dajpest, IV. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1041, Magyarorsz\u00e1g",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+85 664238067",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

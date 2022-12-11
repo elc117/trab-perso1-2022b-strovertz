@@ -1,0 +1,46 @@
+{
+  "name": "Carlis Verina",
+  "username": "autotype",
+  "email": "museology@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1991-11-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "93626003230"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "192.37.132.242",
+      "GeoLoc": [
+        47.5596,
+        7.58858
+      ],
+      "Address": "Eisengasse, Altstadt Grossbasel, Basel, Basel-Stadt, 4089, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+44 366887183",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

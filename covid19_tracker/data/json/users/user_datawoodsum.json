@@ -1,0 +1,46 @@
+{
+  "name": "Terrie Kyrstin",
+  "username": "woodsum",
+  "email": "banks@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1965-7-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28031175250"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "58.235.245.4",
+      "GeoLoc": [
+        37.561,
+        126.995
+      ],
+      "Address": "\ud1b5\uc601\uad74\ubc25, \ud1f4\uacc4\ub85c, \ud544\ub3d9, \uc911\uad6c, \uc11c\uc6b8, 04626, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+34 487424472",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Trix Conway",
+  "username": "precedence",
+  "email": "platitudinous@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1978-7-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "69289413409"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.249.90.229",
+      "GeoLoc": [
+        -19.0233,
+        -48.3348
+      ],
+      "Address": "Miraporanga, Uberl\u00e2ndia, Regi\u00e3o Geogr\u00e1fica Imediata de Uberl\u00e2ndia, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uberl\u00e2ndia, Minas Gerais, Regi\u00e3o Sudeste, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 306757525",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

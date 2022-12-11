@@ -1,0 +1,46 @@
+{
+  "name": "Sofie Yolande",
+  "username": "unplug",
+  "email": "longinus@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1966-12-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "44033779558"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.52.221.52",
+      "GeoLoc": [
+        54.9091,
+        9.7836
+      ],
+      "Address": "S\u00f8nderborg Havn, Brogade, S\u00f8nderborg, S\u00f8nderborg Kommune, Region Syddanmark, 6400, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+60 383903978",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

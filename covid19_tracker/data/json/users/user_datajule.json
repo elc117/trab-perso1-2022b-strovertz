@@ -1,0 +1,46 @@
+{
+  "name": "Orly Merlin",
+  "username": "jule",
+  "email": "audy@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1979-4-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30207069719"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.149.209.3",
+      "GeoLoc": [
+        51.5598,
+        -0.0096
+      ],
+      "Address": "Minus One House, Lyttelton Road, Temple Mills, London Borough of Waltham Forest, London, Greater London, England, E10 5NQ, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+42 650563663",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

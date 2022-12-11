@@ -1,0 +1,46 @@
+{
+  "name": "Charmine Arlena",
+  "username": "doeskin",
+  "email": "watcher@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1972-9-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08084538829"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "13.49.32.85",
+      "GeoLoc": [
+        59.3293,
+        18.0686
+      ],
+      "Address": "Gustav II Adolf, Gustav Adolfs Torg, Klara, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Stockholms kommun, Stockholms l\u00e4n, 103 21, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+39 588480831",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Wray Hartley",
+  "username": "fujimoto",
+  "email": "sammiesammons@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-7-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29577852696"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "104.145.92.88",
+      "GeoLoc": [
+        32.5919,
+        -85.5203
+      ],
+      "Address": "Webster Crossing, Auburn, Lee County, Alabama, 36832, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+141 118923797",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

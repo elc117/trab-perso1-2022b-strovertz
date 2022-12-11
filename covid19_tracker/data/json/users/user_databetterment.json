@@ -1,0 +1,46 @@
+{
+  "name": "Colin Milena",
+  "username": "betterment",
+  "email": "barnyard@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1974-10-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "72242777971"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "13.182.37.144",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+66 910063352",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

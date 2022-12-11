@@ -1,0 +1,46 @@
+{
+  "name": "Vidya Jenn",
+  "username": "wadleigh",
+  "email": "french@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1991-1-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81547735201"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.73.96.240",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+98 372178950",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

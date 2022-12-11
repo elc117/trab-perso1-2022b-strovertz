@@ -1,0 +1,46 @@
+{
+  "name": "Hareton Nananne",
+  "username": "metritis",
+  "email": "jimjams@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1967-11-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50795022824"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.115.24.1",
+      "GeoLoc": [
+        49.0956,
+        8.49
+      ],
+      "Address": "L 560, Sp\u00f6ck, Stutensee, Landkreis Karlsruhe, Baden-W\u00fcrttemberg, 76297, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+181 219002402",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

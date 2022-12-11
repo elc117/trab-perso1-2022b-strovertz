@@ -1,0 +1,46 @@
+{
+  "name": "Marthena Allx",
+  "username": "ministerial",
+  "email": "jarmon@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1978-3-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91503415376"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "150.23.81.71",
+      "GeoLoc": [
+        35.6906,
+        139.77
+      ],
+      "Address": "\u82b1\u592a\u90ce, \u795e\u7530\u99c5\u897f\u53e3\u901a\u308a, \u5185\u795e\u7530\u4e09\u4e01\u76ee, \u5185\u795e\u7530, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0035, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+34 835395598",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

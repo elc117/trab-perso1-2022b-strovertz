@@ -1,0 +1,46 @@
+{
+  "name": "Loren Gwynne",
+  "username": "shlomo",
+  "email": "hibbitts@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1964-2-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73949999558"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.234.149.54",
+      "GeoLoc": [
+        35.141,
+        -106.711
+      ],
+      "Address": "4969, Unser Boulevard Northwest, Albuquerque, Bernalillo County, New Mexico, 87120, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+74 752276119",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

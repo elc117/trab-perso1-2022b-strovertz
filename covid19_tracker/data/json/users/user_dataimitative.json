@@ -1,0 +1,46 @@
+{
+  "name": "Walter Pauletta",
+  "username": "imitative",
+  "email": "exhalation@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1980-6-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17971371152"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "77.169.178.185",
+      "GeoLoc": [
+        52.1539,
+        5.4083
+      ],
+      "Address": "Ringweg-Randenbroek, Randenbroek, Amersfoort, Utrecht, Nederland, 3816 LD, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+71 829233115",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

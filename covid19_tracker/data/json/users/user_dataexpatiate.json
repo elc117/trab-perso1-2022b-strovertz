@@ -1,0 +1,46 @@
+{
+  "name": "Valaree Donni",
+  "username": "expatiate",
+  "email": "obla@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1966-6-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80340806400"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.155.192.68",
+      "GeoLoc": [
+        37.3688,
+        -122.036
+      ],
+      "Address": "El Camino Real & South Mathilda Avenue, West El Camino Real, Sunnyvale, Santa Clara County, California, 94807, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+148 262618922",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Betteann Nerissa",
+  "username": "sanctus",
+  "email": "chesney@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2002-3-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26997895425"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "59.187.84.8",
+      "GeoLoc": [
+        37.3884,
+        126.936
+      ],
+      "Address": "\uc804\ud30c\ub85c24\ubc88\uae38, \ub9cc\uc548\uad6c, \uc548\uc591\uc2dc, \uacbd\uae30\ub3c4, 14087, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+33 413264360",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Evan Mirabel",
+  "username": "norris",
+  "email": "dreg@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1969-10-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37437657562"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.234.149.54",
+      "GeoLoc": [
+        35.141,
+        -106.711
+      ],
+      "Address": "4969, Unser Boulevard Northwest, Albuquerque, Bernalillo County, New Mexico, 87120, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+45 397326011",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

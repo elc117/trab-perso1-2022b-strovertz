@@ -1,0 +1,46 @@
+{
+  "name": "Cameron Shane",
+  "username": "whiteman",
+  "email": "antichrist@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1985-2-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "35755158835"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "204.93.105.94",
+      "GeoLoc": [
+        35.0278,
+        -85.1461
+      ],
+      "Address": "Goodwin Road, Drake Forest, Chattanooga, Hamilton County, Tennessee, 37421, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+147 330117047",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

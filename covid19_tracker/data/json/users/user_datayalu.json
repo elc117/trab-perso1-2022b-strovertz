@@ -1,0 +1,46 @@
+{
+  "name": "Gretchen Moon",
+  "username": "yalu",
+  "email": "nonanonage@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2005-8-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "74619042056"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.46.122.133",
+      "GeoLoc": [
+        35.894,
+        117.925
+      ],
+      "Address": "\u8001\u83ab\u65fa\u6751, \u6cf0\u5b89\u5e02, \u5c71\u4e1c\u7701, 271000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+159 587076383",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

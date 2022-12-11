@@ -1,0 +1,46 @@
+{
+  "name": "Randie Berna",
+  "username": "termitarium",
+  "email": "reverberatory@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1994-11-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "34604684910"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "166.120.58.87",
+      "GeoLoc": [
+        -33.9633,
+        151.134
+      ],
+      "Address": "St George House, 4-16, Montgomery Street, Kogarah, St George, Sydney, Georges River Council, New South Wales, 2217, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+28 836160760",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

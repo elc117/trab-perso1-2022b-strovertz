@@ -1,0 +1,46 @@
+{
+  "name": "Jacquelynn Jaime",
+  "username": "airmail",
+  "email": "dabney@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1984-5-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91066035644"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.58.61.193",
+      "GeoLoc": [
+        46.5554,
+        15.6465
+      ],
+      "Address": "Medicinska fakulteta, 8, Taborska ulica, Lent, Magdalena, Maribor, 2000, Slovenija",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+40 688922867",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

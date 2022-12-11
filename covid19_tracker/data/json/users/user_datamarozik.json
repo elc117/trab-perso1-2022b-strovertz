@@ -1,0 +1,46 @@
+{
+  "name": "Roseline Vallie",
+  "username": "marozik",
+  "email": "tarragon@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1993-3-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "79903297009"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "45.125.218.4",
+      "GeoLoc": [
+        22.3964,
+        114.109
+      ],
+      "Address": "\u5ddd\u9f8d Chuen Lung, \u5ddd\u9f8d\u6751, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+120 768000717",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

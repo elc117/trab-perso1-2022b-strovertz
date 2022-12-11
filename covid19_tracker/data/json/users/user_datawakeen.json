@@ -1,0 +1,46 @@
+{
+  "name": "Deri Muffin",
+  "username": "wakeen",
+  "email": "northern@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1998-1-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18176596779"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.185.140.169",
+      "GeoLoc": [
+        40.7608,
+        -111.891
+      ],
+      "Address": "Array Salon, South Main Street, Salt Lake City, Salt Lake County, Utah, 84101, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+65 611229160",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

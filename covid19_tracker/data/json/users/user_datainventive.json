@@ -1,0 +1,46 @@
+{
+  "name": "Darryl Augustin",
+  "username": "inventive",
+  "email": "nye@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1990-1-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37979481747"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "109.175.77.24",
+      "GeoLoc": [
+        43.847,
+        18.3856
+      ],
+      "Address": "Pomo\u0107ni teren Grbavica, Zvorni\u010dka, Grbavica II, Op\u0107ina Novo Sarajevo, Grad Sarajevo, Kanton Sarajevo, Federacija Bosne i Hercegovine, 71000, Bosna i Hercegovina / \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 751361462",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

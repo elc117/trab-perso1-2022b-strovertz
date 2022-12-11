@@ -1,0 +1,46 @@
+{
+  "name": "Lorenzo Robert",
+  "username": "howes",
+  "email": "tenebrous@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1982-8-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "05844102479"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.0.94.231",
+      "GeoLoc": [
+        -18.6767,
+        -40.5551
+      ],
+      "Address": "Vila Pav\u00e3o, Regi\u00e3o Geogr\u00e1fica Imediata de Nova Ven\u00e9cia, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Colatina, Esp\u00edrito Santo, Regi\u00e3o Sudeste, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+102 167959608",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Arleta Marriet",
+  "username": "magdalenmagdalena",
+  "email": "rhoea@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1978-6-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37713085262"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "213.137.185.175",
+      "GeoLoc": [
+        53.3339,
+        -6.2271
+      ],
+      "Address": "75, Lansdowne Road, Pembroke West B ED, Dublin, County Dublin, Leinster, D04 FP65, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+63 722119326",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

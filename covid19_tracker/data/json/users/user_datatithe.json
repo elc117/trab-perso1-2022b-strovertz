@@ -1,0 +1,46 @@
+{
+  "name": "Celyne Alysia",
+  "username": "tithe",
+  "email": "honduras@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1968-7-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "92679215095"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "13.49.32.85",
+      "GeoLoc": [
+        59.3293,
+        18.0686
+      ],
+      "Address": "Gustav II Adolf, Gustav Adolfs Torg, Klara, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Stockholms kommun, Stockholms l\u00e4n, 103 21, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+167 576743552",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

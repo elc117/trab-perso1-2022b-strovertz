@@ -1,0 +1,46 @@
+{
+  "name": "Emp Merridie",
+  "username": "chauncey",
+  "email": "hypoglossal@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1967-7-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "74686461634"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.138.236.224",
+      "GeoLoc": [
+        19.3463,
+        -98.1694
+      ],
+      "Address": "Calle Melchor Ocampo, Amaxac de Guerrero, Tlaxcala, 90620, M\u00e9xico",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+161 677435415",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

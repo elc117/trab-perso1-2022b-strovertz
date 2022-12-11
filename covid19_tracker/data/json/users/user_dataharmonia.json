@@ -1,0 +1,46 @@
+{
+  "name": "Sharone Farhan",
+  "username": "harmonia",
+  "email": "lamelli@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1969-3-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51129937747"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "46.235.80.177",
+      "GeoLoc": [
+        43.222,
+        76.8512
+      ],
+      "Address": "19, 3-\u0439 \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d, \u0410\u0443\u044d\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043b\u043c\u0430\u0442\u044b, 050036, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+54 700413631",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

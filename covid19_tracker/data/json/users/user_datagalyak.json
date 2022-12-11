@@ -1,0 +1,46 @@
+{
+  "name": "Sibelle Bettine",
+  "username": "galyak",
+  "email": "tankage@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1994-2-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80208742751"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "185.163.198.161",
+      "GeoLoc": [
+        56.1537,
+        10.2119
+      ],
+      "Address": "3, \u00c5boulevarden, Midtbyen, Aarhus \u00d8, Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+18 960576778",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

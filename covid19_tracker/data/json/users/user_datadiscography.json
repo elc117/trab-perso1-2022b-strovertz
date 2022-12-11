@@ -1,0 +1,46 @@
+{
+  "name": "Vicuong Sono",
+  "username": "discography",
+  "email": "aftercare@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1968-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83634055588"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "97.244.203.49",
+      "GeoLoc": [
+        40.7357,
+        -74.1724
+      ],
+      "Address": "171, Market Street, Teachers Village, Newark, Essex County, New Jersey, 07102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+94 621392924",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

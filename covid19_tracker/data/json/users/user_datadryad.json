@@ -1,0 +1,46 @@
+{
+  "name": "Loralyn Donald",
+  "username": "dryad",
+  "email": "dolorisdolorita@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1979-8-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "33716293172"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.146.221.211",
+      "GeoLoc": [
+        38.9547,
+        -77.4043
+      ],
+      "Address": "Amazon Web Services, 13200, Woodland Park Road, Herndon, Fairfax County, Virginia, 20172, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 863131399",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

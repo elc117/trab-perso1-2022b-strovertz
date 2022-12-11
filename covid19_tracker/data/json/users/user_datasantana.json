@@ -1,0 +1,46 @@
+{
+  "name": "Kouji Aprilette",
+  "username": "santana",
+  "email": "blamable@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1994-4-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50153872616"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.150.150.189",
+      "GeoLoc": [
+        -1.3344,
+        -47.5107
+      ],
+      "Address": "S\u00e3o Paulo, Santa Maria do Par\u00e1, Regi\u00e3o Geogr\u00e1fica Imediata de Castanhal, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Castanhal, Par\u00e1, Regi\u00e3o Norte, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+126 729867637",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

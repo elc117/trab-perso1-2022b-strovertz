@@ -1,0 +1,46 @@
+{
+  "name": "Daile Leonore",
+  "username": "disembodied",
+  "email": "revell@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1974-12-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "34206844364"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "41.221.8.103",
+      "GeoLoc": [
+        -26.3811,
+        27.8376
+      ],
+      "Address": "Johannesburg Ward 121, City of Johannesburg Metropolitan Municipality, Gauteng, 1829, South Africa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+19 902797039",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

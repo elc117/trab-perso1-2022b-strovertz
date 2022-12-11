@@ -1,0 +1,46 @@
+{
+  "name": "Berny Gerianne",
+  "username": "haemagglutinate",
+  "email": "wistful@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2000-7-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "90008837929"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.151.83.73",
+      "GeoLoc": [
+        29.7312,
+        -95.4394
+      ],
+      "Address": "Twenty Greenway Plaza, 20, Cummins Street, Greenway / Upper Kirby, Houston, Harris County, Texas, 77046, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+162 356477490",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Aleta Vahe",
+  "username": "chuckwalla",
+  "email": "stint@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1993-2-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47638432657"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.120.144.32",
+      "GeoLoc": [
+        45.4518,
+        28.0522
+      ],
+      "Address": "Statuia lui George Enescu, Strada Domneasc\u0103, Azaclau, Gala\u021bi, 800201, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+5 122737538",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rohit Kiki",
+  "username": "indentation",
+  "email": "erudition@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1964-9-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "90418398798"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "143.239.244.38",
+      "GeoLoc": [
+        51.8948,
+        -8.49396
+      ],
+      "Address": "Western Road, Mardyke, Cork, County Cork, Munster, T12 K8AF, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+14 946865514",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

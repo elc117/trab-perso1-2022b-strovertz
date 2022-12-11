@@ -1,0 +1,46 @@
+{
+  "name": "Buford Philly",
+  "username": "piddling",
+  "email": "shealy@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1985-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46156774483"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.160.41.30",
+      "GeoLoc": [
+        48.8566,
+        2.35222
+      ],
+      "Address": "H\u00f4tel de Ville, Place de l'H\u00f4tel de Ville, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75004, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+9 912530225",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

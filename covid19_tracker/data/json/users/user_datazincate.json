@@ -1,0 +1,46 @@
+{
+  "name": "Jill Krinda",
+  "username": "zincate",
+  "email": "capacity@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1967-7-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "07371279964"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "45.125.218.4",
+      "GeoLoc": [
+        22.3964,
+        114.109
+      ],
+      "Address": "\u5ddd\u9f8d Chuen Lung, \u5ddd\u9f8d\u6751, \u8343\u7063\u5340 Tsuen Wan District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 487786626",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

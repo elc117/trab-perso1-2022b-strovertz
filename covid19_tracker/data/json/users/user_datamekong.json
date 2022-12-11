@@ -1,0 +1,46 @@
+{
+  "name": "Adara Marylee",
+  "username": "mekong",
+  "email": "bunyabunya@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1989-12-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "57362740000"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "124.45.218.119",
+      "GeoLoc": [
+        35.4343,
+        139.6466
+      ],
+      "Address": "\u6a2a\u6d5c\u6e2f\u90f5\u4fbf\u5c40 \u30dd\u30b9\u30c8\u756a\u53f7 4-2, \u672c\u7267\u901a\u308a, \u9ea6\u7530\u753a\u4e00\u4e01\u76ee, \u4e2d\u533a, \u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c, 231-0017, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+37 721241558",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Brandise Iteam",
+  "username": "viola",
+  "email": "sphenogram@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1989-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37133580799"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "154.28.35.8",
+      "GeoLoc": [
+        35.2316,
+        -80.8428
+      ],
+      "Address": "382, North Pine Street, Fourth Ward, Uptown, Charlotte, Mecklenburg County, North Carolina, 28202, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+5 686210918",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Brietta Ellyn",
+  "username": "pourboire",
+  "email": "cranial@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1995-1-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12820924484"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "113.251.163.222",
+      "GeoLoc": [
+        29.5689,
+        106.5577
+      ],
+      "Address": "\u5609\u9675\u6c5f\u6ee8\u6c5f\u8def, \u5927\u6eaa\u6c9f\u8857\u9053, \u6e1d\u4e2d\u533a, \u91cd\u5e86\u5e02\u4e3b\u57ce\u90fd\u5e02\u533a, \u91cd\u5e86\u5e02, 400000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 352331693",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

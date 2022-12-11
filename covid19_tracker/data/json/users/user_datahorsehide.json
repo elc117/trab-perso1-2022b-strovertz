@@ -1,0 +1,46 @@
+{
+  "name": "Tuesday Boer",
+  "username": "horsehide",
+  "email": "disassociate@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1966-7-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "98946695900"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.99.100.154",
+      "GeoLoc": [
+        43.7031,
+        -79.7169
+      ],
+      "Address": "Rogers, 8200, Dixie Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 1V4, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+36 117806498",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

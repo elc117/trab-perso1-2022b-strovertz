@@ -1,0 +1,46 @@
+{
+  "name": "Reena Katha",
+  "username": "attraction",
+  "email": "yugoslavia@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1969-8-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18289100744"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "116.168.2.73",
+      "GeoLoc": [
+        39.9204,
+        116.358
+      ],
+      "Address": "\u6052\u5965\u4e2d\u5fc3, \u5927\u9ebb\u7ebf\u80e1\u540c, \u91d1\u878d\u8857\u8857\u9053, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+186 515494712",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

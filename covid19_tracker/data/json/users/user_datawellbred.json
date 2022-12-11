@@ -1,0 +1,46 @@
+{
+  "name": "Vinod Wallis",
+  "username": "wellbred",
+  "email": "remembrancer@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1988-2-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77870682306"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "163.136.28.65",
+      "GeoLoc": [
+        35.6435,
+        139.6816
+      ],
+      "Address": "\u4e16\u7530\u8c37\u516c\u5712, \u6771\u5c71\u3044\u3061\u3087\u3046\u901a\u308a, \u4e0b\u99ac\u4e8c\u4e01\u76ee, \u6c60\u5c3b\u4e8c\u4e01\u76ee, \u4e16\u7530\u8c37\u533a, \u6771\u4eac\u90fd, 154-0001, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+130 520246890",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

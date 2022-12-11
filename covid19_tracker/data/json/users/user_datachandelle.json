@@ -1,0 +1,46 @@
+{
+  "name": "Celesta Reine",
+  "username": "chandelle",
+  "email": "solfeggio@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1982-12-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61704580030"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "185.251.207.186",
+      "GeoLoc": [
+        40.4168,
+        -3.70379
+      ],
+      "Address": "Fuentes gemelas, Puerta del Sol, Barrio de los Austrias, Sol, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 525449678",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Linnie Pension",
+  "username": "brumley",
+  "email": "rigidify@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1983-12-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36964184201"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "124.154.184.82",
+      "GeoLoc": [
+        34.6837,
+        135.5236
+      ],
+      "Address": "\u5357\u5916\u5800, \u7b39\u306e\u5c0f\u5f84, \u5927\u962a\u57ce, \u4e2d\u592e\u533a, \u5927\u962a\u5e02, \u5927\u962a\u5e9c, 540-0002, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+162 241840753",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

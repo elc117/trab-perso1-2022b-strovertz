@@ -1,0 +1,46 @@
+{
+  "name": "Veronica Terrell",
+  "username": "lenoir",
+  "email": "tankage@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1993-5-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55942412561"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "117.121.85.219",
+      "GeoLoc": [
+        39.9042,
+        116.407
+      ],
+      "Address": "\u53f2\u5bb6\u793e\u533a, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100010, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 365665288",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

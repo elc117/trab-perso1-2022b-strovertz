@@ -1,0 +1,46 @@
+{
+  "name": "Livvyy Deane",
+  "username": "dolorisdolorita",
+  "email": "hazelwood@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1960-6-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48778596670"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "203.144.17.3",
+      "GeoLoc": [
+        -27.9708,
+        153.4107
+      ],
+      "Address": "Athol Paterson Carpark, Suter Street, Southport, Gold Coast City, Queensland, 4215, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+148 412377391",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

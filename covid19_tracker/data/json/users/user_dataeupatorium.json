@@ -1,0 +1,46 @@
+{
+  "name": "Felix Lrc",
+  "username": "eupatorium",
+  "email": "colubrine@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2005-9-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "85953453337"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.131.181.237",
+      "GeoLoc": [
+        41.5883,
+        -93.6276
+      ],
+      "Address": "Principal Corporate 1, 711, High Street, Downtown, Des Moines, Polk County, Iowa, 50309, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+22 543475242",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

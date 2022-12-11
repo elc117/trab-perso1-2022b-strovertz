@@ -1,0 +1,46 @@
+{
+  "name": "Bunny Ronny",
+  "username": "alamo",
+  "email": "paramilitary@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1971-2-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46847196343"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "108.150.122.21",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+9 146363503",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Joyan Nopi",
+  "username": "sahaptin",
+  "email": "dy@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1995-4-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50741548712"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.220.122.26",
+      "GeoLoc": [
+        48.3904,
+        -4.48608
+      ],
+      "Address": "Parking Libert\u00e9, Place de la Libert\u00e9, Coat ar Gu\u00e9ven, Centre Ville, Brest, Finist\u00e8re, Bretagne, France m\u00e9tropolitaine, 29200, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+66 726661825",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

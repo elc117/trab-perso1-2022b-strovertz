@@ -1,0 +1,46 @@
+{
+  "name": "Shaughan Nurettin",
+  "username": "mariannmarianna",
+  "email": "eckhart@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1973-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "45690399523"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "222.126.250.251",
+      "GeoLoc": [
+        39.9143,
+        116.3861
+      ],
+      "Address": "\u57ce\u589910, \u6545\u5bab\u897f\u95e8\u5916, \u897f\u957f\u5b89\u8857\u8857\u9053, \u4e1c\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+151 365363676",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

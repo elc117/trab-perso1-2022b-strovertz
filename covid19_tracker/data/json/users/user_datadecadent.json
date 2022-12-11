@@ -1,0 +1,46 @@
+{
+  "name": "Tallou Lanita",
+  "username": "decadent",
+  "email": "schaerbeek@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1969-7-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "13967573923"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "189.116.215.216",
+      "GeoLoc": [
+        -22.9201,
+        -43.0811
+      ],
+      "Address": "Trilha para o Santo Ign\u00e1cio, S\u00e3o Francisco, Regi\u00e3o Praias da Ba\u00eda, Niter\u00f3i, Regi\u00e3o Geogr\u00e1fica Imediata do Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Rio de Janeiro, Rio de Janeiro, Regi\u00e3o Sudeste, 34365-170, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+37 974484918",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mersey Jayesh",
+  "username": "lymphosarcoma",
+  "email": "roxanaroxane@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1989-3-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "95738921895"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "99.175.84.241",
+      "GeoLoc": [
+        41.5654,
+        -87.7228
+      ],
+      "Address": "179th Street, Country Club Hills, Bremen Township, Cook County, Illinois, 60478, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+30 454890744",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

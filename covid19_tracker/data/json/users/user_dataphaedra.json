@@ -1,0 +1,46 @@
+{
+  "name": "Julietta Andreas",
+  "username": "phaedra",
+  "email": "bewilder@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-1-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02276170883"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "68.184.21.83",
+      "GeoLoc": [
+        41.7684,
+        -72.2032
+      ],
+      "Address": "Holt\u2013Kinney Woods, Storrs Road, Mansfield Center Historic District, Spring Hill, Mansfield, Tolland County, Connecticut, 06268, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+20 395769094",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Hank Letitia",
+  "username": "sunfast",
+  "email": "lactobacillus@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1987-9-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76801291424"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "185.251.207.186",
+      "GeoLoc": [
+        40.4168,
+        -3.70379
+      ],
+      "Address": "Fuentes gemelas, Puerta del Sol, Barrio de los Austrias, Sol, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+147 939882776",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Koray Lelah",
+  "username": "pomology",
+  "email": "plicate@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2000-6-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36030739328"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "88.174.13.198",
+      "GeoLoc": [
+        48.0409,
+        -1.70729
+      ],
+      "Address": "Chartres-de-Bretagne, Rue de Bourgogne, Le Patis Cholet, Chartres-de-Bretagne, Rennes, Ille-et-Vilaine, Bretagne, France m\u00e9tropolitaine, 35131, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+28 785059606",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

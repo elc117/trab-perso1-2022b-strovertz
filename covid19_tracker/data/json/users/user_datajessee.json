@@ -1,0 +1,46 @@
+{
+  "name": "Tamar Thang",
+  "username": "jessee",
+  "email": "redbreast@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1991-8-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55038740995"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.233.196.132",
+      "GeoLoc": [
+        49.4521,
+        11.0767
+      ],
+      "Address": "Parkhaus Adlerstra\u00dfe, 4-8, Adlerstra\u00dfe, Altstadt, St. Lorenz, N\u00fcrnberg, Bayern, 90403, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+139 685357826",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

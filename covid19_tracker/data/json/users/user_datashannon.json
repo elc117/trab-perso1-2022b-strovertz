@@ -1,0 +1,46 @@
+{
+  "name": "Yussuf Jenson",
+  "username": "shannon",
+  "email": "caridadcarie@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1976-3-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97138800720"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.99.100.154",
+      "GeoLoc": [
+        43.7031,
+        -79.7169
+      ],
+      "Address": "Rogers, 8200, Dixie Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 1V4, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+20 823153379",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

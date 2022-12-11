@@ -1,0 +1,46 @@
+{
+  "name": "Duc Elane",
+  "username": "craps",
+  "email": "waterbuck@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1964-3-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "67868304200"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "145.210.217.233",
+      "GeoLoc": [
+        52.0907,
+        5.12142
+      ],
+      "Address": "Domtoren, Domplein, Binnenstad, Utrecht, Nederland, 3512 JG, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+146 416833444",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

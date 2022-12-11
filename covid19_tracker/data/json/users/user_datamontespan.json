@@ -1,0 +1,46 @@
+{
+  "name": "Lamar Vmcord",
+  "username": "montespan",
+  "email": "baer@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1985-3-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "82906590240"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "176.71.148.195",
+      "GeoLoc": [
+        59.3287,
+        18.0717
+      ],
+      "Address": "Str\u00f6mgatan, Klara, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 103 21, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+179 209953826",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

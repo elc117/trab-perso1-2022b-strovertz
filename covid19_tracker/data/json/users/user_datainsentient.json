@@ -1,0 +1,46 @@
+{
+  "name": "Jeannette Ruben",
+  "username": "insentient",
+  "email": "marbleize@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1965-5-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "58829124150"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.195.52.107",
+      "GeoLoc": [
+        9.99814,
+        -84.1198
+      ],
+      "Address": "Scotiabank, Avenida William H. Taft, San Vicente, Los \u00c1ngeles, Heredia, Cant\u00f3n Heredia, Provincia Heredia, 40101, Costa Rica",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+73 258547586",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

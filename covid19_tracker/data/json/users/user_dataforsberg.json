@@ -1,0 +1,46 @@
+{
+  "name": "Stephanie Els",
+  "username": "forsberg",
+  "email": "turco@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1995-6-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26034391890"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "181.9.175.129",
+      "GeoLoc": [
+        -32.9518,
+        -60.6839
+      ],
+      "Address": "1902, R\u00edo de Janeiro, Cinco Esquinas, Distrito Oeste, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, S2003, Argentina",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+114 725924477",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

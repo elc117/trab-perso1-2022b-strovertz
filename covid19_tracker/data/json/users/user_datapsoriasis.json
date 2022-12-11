@@ -1,0 +1,46 @@
+{
+  "name": "Yavuz Gateway",
+  "username": "psoriasis",
+  "email": "anaerobic@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1985-6-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31732130922"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "9.133.227.76",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+87 293117879",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

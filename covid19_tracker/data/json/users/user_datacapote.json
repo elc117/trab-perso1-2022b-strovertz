@@ -1,0 +1,46 @@
+{
+  "name": "Natascha Davine",
+  "username": "capote",
+  "email": "monson@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1970-6-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30916718875"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.255.85.63",
+      "GeoLoc": [
+        50.6228,
+        3.06062
+      ],
+      "Address": "Lav'Artois, Rue de Wazemmes, Wazemmes, Lille-Moulins, Lille, Nord, Hauts-de-France, France m\u00e9tropolitaine, 59046, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+46 818468054",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

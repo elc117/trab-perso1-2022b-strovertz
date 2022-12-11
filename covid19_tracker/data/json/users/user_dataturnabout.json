@@ -1,0 +1,46 @@
+{
+  "name": "Harold Iolande",
+  "username": "turnabout",
+  "email": "psalmbook@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1968-11-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51305707150"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "195.154.87.113",
+      "GeoLoc": [
+        48.8714,
+        2.32141
+      ],
+      "Address": "Iliad - Free - Centrapel, Rue de la Ville l'\u00c9v\u00eaque, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+139 608603222",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

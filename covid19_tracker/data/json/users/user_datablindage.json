@@ -1,0 +1,46 @@
+{
+  "name": "Lira Latisha",
+  "username": "blindage",
+  "email": "regin@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-3-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66476152106"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.113.23.92",
+      "GeoLoc": [
+        27.9575,
+        -82.5359
+      ],
+      "Address": "3505, East Frontage Road, Tampa, Hillsborough County, Florida, 33607, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+41 792122396",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

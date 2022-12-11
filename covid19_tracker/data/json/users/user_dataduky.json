@@ -1,0 +1,46 @@
+{
+  "name": "Marieann Katerina",
+  "username": "duky",
+  "email": "manzano@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1994-7-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "04221378204"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "80.96.174.40",
+      "GeoLoc": [
+        44.4626,
+        26.0737
+      ],
+      "Address": "Institutul Na\u021bional de Cercetare-Dezvoltare \u00een Informatic\u0103, 8-10, Bulevardul Mare\u0219al Alexandru Averescu, Aviatorilor, Sector 1, Municipiul Bucure\u0219ti, 011455, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+28 994235796",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

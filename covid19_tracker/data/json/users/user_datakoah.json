@@ -1,0 +1,46 @@
+{
+  "name": "Essam Rosemarie",
+  "username": "koah",
+  "email": "infantile@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1978-1-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47988893858"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.107.208.39",
+      "GeoLoc": [
+        37.3688,
+        -122.036
+      ],
+      "Address": "El Camino Real & South Mathilda Avenue, West El Camino Real, Sunnyvale, Santa Clara County, California, 94807, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+88 547561150",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

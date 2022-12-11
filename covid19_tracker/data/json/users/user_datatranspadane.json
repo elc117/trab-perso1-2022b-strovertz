@@ -1,0 +1,46 @@
+{
+  "name": "Silvana Georgeta",
+  "username": "transpadane",
+  "email": "policlinic@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1972-8-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46494735436"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "167.146.211.159",
+      "GeoLoc": [
+        37.6974,
+        -121.933
+      ],
+      "Address": "5918, Stoneridge Mall Road, Pleasanton, Alameda County, California, 94588, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+50 854687820",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

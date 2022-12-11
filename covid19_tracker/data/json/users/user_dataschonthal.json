@@ -1,0 +1,46 @@
+{
+  "name": "Jinny Wini",
+  "username": "schonthal",
+  "email": "semeiology@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1985-7-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "15254574704"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "54.214.165.149",
+      "GeoLoc": [
+        45.5235,
+        -122.676
+      ],
+      "Address": "Silver Dollar, 19, Northwest 5th Avenue, Chinatown, Old Town, Portland, Multnomah County, Oregon, 97209, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+126 192560509",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

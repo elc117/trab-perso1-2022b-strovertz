@@ -1,0 +1,46 @@
+{
+  "name": "Helaine Anne-marie",
+  "username": "hyacinthhyacintha",
+  "email": "con@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1963-9-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38424185153"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "74.79.238.76",
+      "GeoLoc": [
+        42.7369,
+        -76.4006
+      ],
+      "Address": "2500, Jugg Street, Wilson Corners, Town of Moravia, Cayuga County, New York, 13118, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+26 780753149",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

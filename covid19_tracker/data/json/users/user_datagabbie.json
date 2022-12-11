@@ -1,0 +1,46 @@
+{
+  "name": "Erle Allan",
+  "username": "gabbie",
+  "email": "whiffler@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1980-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65581949964"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "174.110.185.243",
+      "GeoLoc": [
+        34.7599,
+        -79.4673
+      ],
+      "Address": "Johns Road, Hammon Heights, Laurinburg, Scotland County, North Carolina, 28352, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+32 352402796",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

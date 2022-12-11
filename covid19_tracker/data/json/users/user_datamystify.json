@@ -1,0 +1,46 @@
+{
+  "name": "Mikaela Ramanamurthy",
+  "username": "mystify",
+  "email": "ordinarily@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1976-2-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89277095350"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "124.210.253.15",
+      "GeoLoc": [
+        34.6937,
+        135.502
+      ],
+      "Address": "\u5927\u962a\u5e02\u5f79\u6240, \u4e2d\u4e4b\u5cf6\u901a, \u4e2d\u4e4b\u5cf6\u4e00\u4e01\u76ee, \u5317\u533a, \u5927\u962a\u5e02, \u5927\u962a\u5e9c, 530-8201, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 332701019",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

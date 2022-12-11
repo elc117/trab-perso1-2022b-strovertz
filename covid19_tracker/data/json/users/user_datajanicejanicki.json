@@ -1,0 +1,46 @@
+{
+  "name": "Lettie Sara-ann",
+  "username": "janicejanicki",
+  "email": "mozellamozelle@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1974-1-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "72616097656"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.93.242.207",
+      "GeoLoc": [
+        34.0028,
+        -84.5817
+      ],
+      "Address": "Roberts Boulevard Northwest, Cobb County, Georgia, 30144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 554682372",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

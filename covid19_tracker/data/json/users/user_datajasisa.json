@@ -1,0 +1,46 @@
+{
+  "name": "Deniece Vickie",
+  "username": "jasisa",
+  "email": "bagwell@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2001-3-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78301856386"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.80.130.68",
+      "GeoLoc": [
+        55.6482,
+        12.5436
+      ],
+      "Address": "telenor, Frederikskaj, Sluseholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+188 420041337",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Chantal Iwona",
+  "username": "foretime",
+  "email": "waste@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1977-3-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24268730516"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "43.188.234.250",
+      "GeoLoc": [
+        39.9786,
+        116.302
+      ],
+      "Address": "\u5f69\u548c\u574a\u8def, \u7a3b\u9999\u56ed\u5317\u793e\u533a, \u6d77\u6dc0\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100872, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+90 454563374",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

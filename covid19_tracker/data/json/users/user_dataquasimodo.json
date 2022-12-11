@@ -1,0 +1,46 @@
+{
+  "name": "Lenette Rebeca",
+  "username": "quasimodo",
+  "email": "hagbut@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1984-3-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "87060824910"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "35.245.199.57",
+      "GeoLoc": [
+        38.9071,
+        -77.0368
+      ],
+      "Address": "Scott Circle Northwest, Washington, District of Columbia, 20036, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+132 189692677",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

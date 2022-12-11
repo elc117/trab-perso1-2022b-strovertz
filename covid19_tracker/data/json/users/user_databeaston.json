@@ -1,0 +1,46 @@
+{
+  "name": "Doll Kylie",
+  "username": "beaston",
+  "email": "thant@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1974-10-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19883207557"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.56.232.189",
+      "GeoLoc": [
+        32.9363,
+        -96.8231
+      ],
+      "Address": "14001, Dallas Parkway, Farmers Branch, Dallas County, Texas, 75244, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+37 353175329",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

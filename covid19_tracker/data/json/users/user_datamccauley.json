@@ -1,0 +1,46 @@
+{
+  "name": "Armin Karolina",
+  "username": "mccauley",
+  "email": "olnton@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1967-3-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "86835264616"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "66.255.162.160",
+      "GeoLoc": [
+        39.9446,
+        -74.9526
+      ],
+      "Address": "377, Fellowship Road, East Gate Centre, Mount Laurel Township, Burlington County, New Jersey, 08057, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+169 413225448",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

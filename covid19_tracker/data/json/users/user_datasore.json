@@ -1,0 +1,46 @@
+{
+  "name": "Tech Tawnya",
+  "username": "sore",
+  "email": "jainism@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1999-2-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "32581370807"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "165.251.120.164",
+      "GeoLoc": [
+        40.5482,
+        -74.4807
+      ],
+      "Address": "Knightsbridge Road, Possumtown, Piscataway Township, Middlesex County, New Jersey, 08854, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+128 170017472",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

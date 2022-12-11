@@ -1,0 +1,46 @@
+{
+  "name": "Sickle Arabel",
+  "username": "powell",
+  "email": "nevski@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2002-5-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "33841775764"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "170.178.27.254",
+      "GeoLoc": [
+        41.4953,
+        -73.151
+      ],
+      "Address": "199, Benson Road, Middlebury, New Haven County, Connecticut, 06762, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+176 483878748",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

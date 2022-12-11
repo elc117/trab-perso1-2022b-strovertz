@@ -1,0 +1,46 @@
+{
+  "name": "Randi Florencia",
+  "username": "vookles",
+  "email": "exegetics@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1970-6-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "22640495453"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "121.182.15.53",
+      "GeoLoc": [
+        35.8283,
+        128.5152
+      ],
+      "Address": "\uc131\uc11c\ub3d9\ub85c, \uc6d4\uc1312\ub3d9, \uc6d4\uc131\ub3d9, \ub2ec\uc11c\uad6c, \ub300\uad6c, 42699, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+51 331481888",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

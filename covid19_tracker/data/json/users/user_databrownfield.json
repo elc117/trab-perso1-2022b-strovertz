@@ -1,0 +1,46 @@
+{
+  "name": "Georgeanne Kanu",
+  "username": "brownfield",
+  "email": "stilted@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2002-9-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76689579441"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "7.177.210.158",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+4 580053919",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

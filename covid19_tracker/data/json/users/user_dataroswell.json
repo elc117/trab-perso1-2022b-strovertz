@@ -1,0 +1,46 @@
+{
+  "name": "Reynold Edel",
+  "username": "roswell",
+  "email": "factotum@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1991-5-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "20684909510"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "176.135.98.160",
+      "GeoLoc": [
+        43.2951,
+        5.3861
+      ],
+      "Address": "Square Yves Montand, Place Jean Jaur\u00e8s, Le Camas, 5e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 13000, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+33 655978088",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

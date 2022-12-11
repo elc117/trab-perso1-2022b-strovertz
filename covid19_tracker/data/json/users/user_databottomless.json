@@ -1,0 +1,46 @@
+{
+  "name": "Nasser Allyson",
+  "username": "bottomless",
+  "email": "sponsor@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1971-4-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76062612617"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "148.144.177.170",
+      "GeoLoc": [
+        41.0329,
+        -73.769
+      ],
+      "Address": "William Street, City of White Plains, Westchester County, New York, 10601, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+171 370094360",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Aloisia Rickey",
+  "username": "pich",
+  "email": "hyde@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1992-7-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50330010271"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "173.107.129.115",
+      "GeoLoc": [
+        25.7617,
+        -80.1918
+      ],
+      "Address": "1201, Brickell Avenue, Miami, Miami-Dade County, Florida, 33131, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 762024457",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bettye Vance",
+  "username": "cheeseburger",
+  "email": "sacred@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1970-2-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28341044099"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "75.136.10.99",
+      "GeoLoc": [
+        34.4825,
+        -85.3298
+      ],
+      "Address": "311, Pennington Drive, Chattooga County, Georgia, 30747, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+142 511516476",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

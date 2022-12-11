@@ -1,0 +1,46 @@
+{
+  "name": "Der Dulcinea",
+  "username": "oleomargarine",
+  "email": "private@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1994-4-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75977175639"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "200.35.159.104",
+      "GeoLoc": [
+        -33.4489,
+        -70.6693
+      ],
+      "Address": "17, Virginia Opazo, Barrio Rep\u00fablica, Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 8370968, Chile",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+152 525904003",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

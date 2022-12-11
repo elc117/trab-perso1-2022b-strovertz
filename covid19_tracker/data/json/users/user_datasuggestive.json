@@ -1,0 +1,46 @@
+{
+  "name": "Zahara Los",
+  "username": "suggestive",
+  "email": "wilsonwilt@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "2002-2-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "25181116620"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "160.76.59.29",
+      "GeoLoc": [
+        41.3218,
+        -96.0213
+      ],
+      "Address": "CHI Health Immanuel, 6901, North 72nd Street, Omaha, Douglas County, Nebraska, 68122, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+117 154296493",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

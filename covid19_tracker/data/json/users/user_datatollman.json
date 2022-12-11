@@ -1,0 +1,46 @@
+{
+  "name": "Wallis Mccauley",
+  "username": "tollman",
+  "email": "vento@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1987-9-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56285382808"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.156.30.252",
+      "GeoLoc": [
+        47.3686,
+        8.53918
+      ],
+      "Address": "Eidgenoss, Tiefenh\u00f6fe, City, Kreis 1, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8022, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 726179405",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bebe Sidone",
+  "username": "weaks",
+  "email": "discussion@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "2003-8-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46264761397"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "35.40.247.231",
+      "GeoLoc": [
+        42.9668,
+        -85.8866
+      ],
+      "Address": "Grand Valley State University- Allendale, Campus View Apartments, Georgetown Township, Ottawa County, Michigan, 49401, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+178 389587263",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

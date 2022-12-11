@@ -1,0 +1,46 @@
+{
+  "name": "Fifi Tanya",
+  "username": "brummell",
+  "email": "oversexed@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1997-1-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51737359618"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.206.251.0",
+      "GeoLoc": [
+        39.0438,
+        -77.4874
+      ],
+      "Address": "Carolina Brothers BBQ, 20702, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 557506191",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Karly Dottie",
+  "username": "claret",
+  "email": "laevo@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1973-1-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70532529308"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "188.249.191.220",
+      "GeoLoc": [
+        24.6869,
+        46.7224
+      ],
+      "Address": "\u0627\u0644\u0625\u0645\u0627\u0645 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0628\u0646 \u062b\u0646\u064a\u0627\u0646 \u0622\u0644 \u0633\u0639\u0648\u062f, \u0627\u0644\u0636\u0628\u0627\u0637, \u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0645\u0644\u0632, \u0627\u0644\u0645\u0627\u0644\u0632, \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u0627\u0636, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636, 11525, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 283235431",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

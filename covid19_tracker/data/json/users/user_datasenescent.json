@@ -1,0 +1,46 @@
+{
+  "name": "Mer Natassja",
+  "username": "senescent",
+  "email": "unutterable@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1983-3-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "90728529076"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "120.97.167.160",
+      "GeoLoc": [
+        24.9493,
+        121.337
+      ],
+      "Address": "\u516b\u5fb7\u8def, \u5c16\u5c71\u91cc, \u9daf\u6b4c\u5340, \u4e8c\u6a4b, \u65b0\u5317\u5e02, 23942, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+75 178400244",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

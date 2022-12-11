@@ -1,0 +1,46 @@
+{
+  "name": "Angy Zeb",
+  "username": "bypass",
+  "email": "nardi@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1996-2-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03976222526"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "60.132.206.124",
+      "GeoLoc": [
+        35.6629,
+        139.761
+      ],
+      "Address": "\u6771\u4eac\u6c50\u7559\u30d3\u30eb\u30c7\u30a3\u30f3\u30b0, \u6c50\u7559\u99c5\u524d\u6b69\u9053\u6a4b, \u6c50\u7559SIO-SITE, \u6e2f\u533a, \u6771\u4eac\u90fd, 105-7302, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+112 773357751",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

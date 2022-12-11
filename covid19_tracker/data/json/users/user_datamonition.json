@@ -1,0 +1,46 @@
+{
+  "name": "Orden Jaymee",
+  "username": "monition",
+  "email": "purvis@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1983-8-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53821578556"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "53.137.13.182",
+      "GeoLoc": [
+        48.7863,
+        9.23807
+      ],
+      "Address": "Geb. 128, 128, Kessel Stra\u00dfe, Benzviertel, Untert\u00fcrkheim, Stuttgart, Baden-W\u00fcrttemberg, 70327, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 353126524",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

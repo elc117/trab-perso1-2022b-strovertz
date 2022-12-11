@@ -1,0 +1,46 @@
+{
+  "name": "Seema Thaddeus",
+  "username": "reviewer",
+  "email": "hatteras@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1972-9-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "69812872264"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "106.112.122.7",
+      "GeoLoc": [
+        37.8957,
+        114.904
+      ],
+      "Address": "\u8d2f\u5e84\u6751, \u6cb3\u5317\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+147 590508371",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

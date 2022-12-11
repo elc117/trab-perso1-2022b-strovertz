@@ -1,0 +1,46 @@
+{
+  "name": "Amye Fadi",
+  "username": "iene",
+  "email": "fulbright@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1997-6-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29975921515"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "141.97.189.68",
+      "GeoLoc": [
+        52.3112,
+        -1.93768
+      ],
+      "Address": "Heart of Worcestershire College - Alliance House Campus, Fishing Line Road, Riverside, Redditch, Worcestershire, England, B97 6EE, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+72 862896277",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

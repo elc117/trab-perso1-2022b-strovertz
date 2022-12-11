@@ -1,0 +1,46 @@
+{
+  "name": "Mary-Jo Sarajane",
+  "username": "mercurochrome",
+  "email": "blameful@fakemail.com",
+  "gender": "male",
+  "person_id": 121,
+  "birthdate": "1990-2-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84183799791"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "22.87.199.226",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+59 161934299",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

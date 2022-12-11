@@ -1,0 +1,46 @@
+{
+  "name": "Sharl Roxie",
+  "username": "swimming",
+  "email": "beckiebeckley@fakemail.com",
+  "gender": "female",
+  "person_id": 121,
+  "birthdate": "1964-4-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11687999023"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "194.138.47.213",
+      "GeoLoc": [
+        48.09,
+        11.6492
+      ],
+      "Address": "45 / Fichtenhaus, E Parkway, Siemens AG, Neuperlach, Ramersdorf-Perlach, M\u00fcnchen, Bayern, 81739, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+80 738443740",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}
