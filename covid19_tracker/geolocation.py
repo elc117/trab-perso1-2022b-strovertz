@@ -3,9 +3,9 @@ from geopy.geocoders import Nominatim
 import geocoder
 import csv
 
-def get_location():
+def get_location(ip):
 
-    f = geocoder.ip("2804:7f6:8087:6301::1")
+    f = geocoder.ip(ip)
 
     myAddress = f.latlng
     
@@ -15,4 +15,4 @@ def get_address(lati, longi):
     geolocator = Nominatim(user_agent="my_request")
     location = geolocator.reverse((lati, longi))
     print(location)
-    return location
+    return str(location)

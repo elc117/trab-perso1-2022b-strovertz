@@ -17,10 +17,27 @@ def rand_user():
         username = random.choice(user_list)
     return username
 
+def rand_ipAddress():
+    with open("data/wordlists/ip.txt", "r") as file:
+        allText = file.read()
+        ip_list = list(map(str, allText.split()))
+        ip = random.choice(ip_list)
+    return ip
+
 def gender():
     opt  = ["male", "female"]
     gender = random.choice(opt)
     return gender
+
+def covid_status():
+    opt  = ["Positive", "Negative"]
+    status = random.choice(opt)
+    return status
+
+def vaccination_status():
+    opt  = ["1 Dose", "None", "2 Doses", "3 Doses", "4 Doses"]
+    status = random.choice(opt)
+    return status
 
 def get_lat(lat):
     dec_lat = random.random()/100
