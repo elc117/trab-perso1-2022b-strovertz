@@ -3,7 +3,7 @@ from json_gen_fn import *
 from geolocation import *
 class Person:
     
-    def __init__(self, Address, ip):
+    def __init__(self, Address, ip, i):
         self.name = rand_name()
         self.email = rand_email()
         self.gender = gender()
@@ -13,17 +13,19 @@ class Person:
         self.user = rand_user()
         self.address = Address
         self.ipAddress = ip
+        self.person_id = i
         self.covid = covid_status()
         self.vaccination = vaccination_status()
         
     
 def user_dump(persona):
+    #cria um dicionario, salva em Json no PC e retorna o dicionario para ser salvo em uma lista de dicionarios
     user_infos = {    
     "name": persona.name,
     "username": persona.user,
     "email": persona.email,
     "gender": persona.gender,
-    "person_id": 121,
+    "person_id": persona.person_id,
     "birthdate": persona.birthday,
     "documents": [
         {
@@ -66,3 +68,5 @@ def user_dump(persona):
     with open("data/json/users/user_data" + persona.user +".json", "w") as outfile:
         outfile.write(my_json)
     print(type(my_json))
+    
+    return my_json
