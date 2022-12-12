@@ -1,22 +1,23 @@
 from urllib.request import urlopen
 from geopy.geocoders import Nominatim
+from geopy.distance import geodesic
 import geopy.distance
 import geocoder
 import csv
 
 infection_list = []
 
-def infection_distance(coord_geo):
+def infection_distance(coord_geo, matrix_adjacencia):
     for i in range(len(coord_geo)):
-        for j in range(i+1, len(coord_geo)):
-            distance = geopy.distance.geodesic(coord_geo[i], coord_geo[j]).km
-            
-            if distance < 5000:
-                infection_list.append(True)
-            else:
-                infection_list.append(False)
-    print(infection_list)            
-    
+        for j in range(len(coord_geo)):
+            # Usamos a função geodesic da biblioteca Geopy para calcular a distância entre os pontos
+            distance = geodesic(coord_geo[i], coord_geo[j]).kilometers
+            # Verificamos se a distância é menor que 500 km
+            if distance < 500:
+                # Se for, armazenamos "true" na matriz de adjacência
+                matrix_adjacencia[i][j] = True
+    return matrix_adjacencia            
+        
 
 #tem 2 funcoes pq existe um limite de requisições que podem ser feitas por dia em cada API
 #Então caso atinja o limite, basta utilizar a outra função
