@@ -4,9 +4,9 @@ import folium
 
 coord_geo = []
 dicionarios = []
+dicionario = {}
 
 def set_markup(mapa, location, user):
-
     popupe = "User" + str(user.user) + "\n" + "Nome: " + str(user.name) + "\n Born: " + str(user.birthday) + "\n Covid Status: " + str(user.covid) + "\n Vaccination Status: " + str(user.vaccination)
     folium.Marker([location[0], location[1]], popup = popupe).add_to(mapa)
     return mapa   
@@ -33,20 +33,37 @@ def matrix_create():
     adjacency_matrix = infection_distance(coord_geo, adjacency_matrix)
     return adjacency_matrix
 
+def user_create(lat_lon, ip, i):
+    user = Person(lat_lon, ip, i)
+    dicionario = user_dump(user)
+    dicionarios = adicionar_dicionario(dicionario)
+    insere_coord(lat_lon)
+    return user
+
+#As api de consulta tem um limite de consulta diario, entao para evitar alguns problemas, vamos utilizar
+#2 apis diferentes para fazermos um "reverse" a partir do IP fornecido e encontrarmos as coordenadas do nosso "usuario encovidado"
+def load_balancer(ip):
+    opt  = ["0","1"]
+    function = random.choice(opt)
+    loc = []
+    if function:
+        loc = get_location(ip)
+    else:
+        loc = get_location2(ip)
+    return loc
+
 def main():
     my_location = [-29.6894956, -53.811126]
-    dicionario = {}
     for i in range(10):
         ip = rand_ipAddress()
-        lat_lon = get_location(ip)
+        lat_lon = load_balancer(ip)
         mapa = create_map(my_location)
         if len(lat_lon) < 1: continue
-        #Esses prins tão só pra ter algo pra ver no terminal enquanto processa os dados kkk
+        
+        #Esses prints tão só pra ter algo pra ver no terminal enquanto processa os dados kkk
         print_test(lat_lon)
-        user = Person(lat_lon, ip, i)
-        dicionario = user_dump(user)
-        dicionarios = adicionar_dicionario(dicionario)
-        insere_coord(lat_lon)
+        
+        user = user_create(lat_lon, ip, i)
         mapa = set_markup(mapa, lat_lon, user)
         
     adjacency_matrix = matrix_create()
