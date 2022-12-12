@@ -52,6 +52,19 @@ def load_balancer(ip):
         loc = get_location2(ip)
     return loc
 
+def print_matrix(adjacency_matrix):
+    linhas = len(adjacency_matrix)
+    colunas = len(adjacency_matrix[0])
+
+    for i in range(linhas):
+        for j in range(colunas):
+            if(j == colunas - 1):
+                print("%d" %adjacency_matrix[i][j])
+            else:
+                print("%d" %adjacency_matrix[i][j], end = " ")
+    print()
+        
+
 def main():
     my_location = [-29.6894956, -53.811126]
     for i in range(10):
@@ -67,8 +80,8 @@ def main():
         mapa = set_markup(mapa, lat_lon, user)
         
     adjacency_matrix = matrix_create()
-    print(adjacency_matrix)  
-    print(dicionarios)
+    print_matrix(adjacency_matrix)  
+    #print(dicionarios)
 
     mapa.save("map/my_map1.html")
     

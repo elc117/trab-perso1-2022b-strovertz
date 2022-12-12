@@ -1,19 +1,19 @@
 from urllib.request import urlopen
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
-import geopy.distance
 import geocoder
-import csv
 
 infection_list = []
 
+#Como iria demorar muito pra criar algo como 100000 de pessoas, preferi aumentar o range de infecção, então caso alguém se encontre a 5000 km ou menos
+#de distância de um infectado, ele sera considerado como possível infectado e adicionado na matriz de adjacencia
 def infection_distance(coord_geo, matrix_adjacencia):
     for i in range(len(coord_geo)):
         for j in range(len(coord_geo)):
-            # Usamos a função geodesic da biblioteca Geopy para calcular a distância entre os pontos
+            # Função geodesic da biblioteca Geopy para calcular a distância entre os pontos
             distance = geodesic(coord_geo[i], coord_geo[j]).kilometers
-            # Verificamos se a distância é menor que 500 km
-            if distance < 500:
+            # Verificamos se a distância é menor que 5000 km
+            if distance < 5000:
                 # Se for, armazenamos "true" na matriz de adjacência
                 matrix_adjacencia[i][j] = True
     return matrix_adjacencia            
