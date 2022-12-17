@@ -155,6 +155,13 @@ A aplicação tem como objetivo mapear pessoas geradas de forma randomica infect
     [^3] https://medium.com/diogommartins/concorr%C3%AAncia-e-paralelismo-threads-m%C3%BAltiplos-processos-e-asyncio-parte-2-8e539c59a16a
     [^4] https://insightlab.ufc.br/8-bibliotecas-de-deep-learning-mais-usadas-em-python
     [^5] https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+    [^6] https://geopy.readthedocs.io/en/stable/
+    [^7] https://python-visualization.github.io/folium/
+    [^8] https://www.bigdatacloud.com/docs/api/ip-address-geolocation-api
+
+### JSON:
+    [^x] https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/intro-to-JSON/
+
 
 ## Extras:
 Playlist motivacional: https://open.spotify.com/playlist/6wRDAHW2NYw5eB6BCLny6W?si=50114f48c3ce4815
