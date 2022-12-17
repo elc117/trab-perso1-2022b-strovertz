@@ -157,7 +157,7 @@ A aplicação tem como objetivo mapear pessoas geradas de forma randomica infect
     [^5] https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
     [^6] https://geopy.readthedocs.io/en/stable/
     [^7] https://python-visualization.github.io/folium/
-    [^8] https://www.bigdatacloud.com/docs/api/ip-address-geolocation-api
+    [^8] https://ip-api.com/docs/api:json
 
 ### JSON:
     [^x] https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/intro-to-JSON/
