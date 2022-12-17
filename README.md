@@ -109,7 +109,7 @@ Após o processamento das camadas de imagem, a aplicação imprime a perca nas i
 
 ## Função run_model( )
 
-```
+```Python
 def run_model(class_names):
     
     model = models.load_model('image_classifier.model')
