@@ -61,7 +61,7 @@ def main():
 ```
 O código carrega datasets da biblioteca citada e plota a imagem como 32x32, e divide por 255 para converter as cores RGB (265 cores, numero de valores inteiros interpretados), para uma escala de 0 a 1, para facilitar. Então exemplos de imagens que serão forncidas são exibidas na tela. <br>
 ![image](https://user-images.githubusercontent.com/74078237/208256500-8c8bc297-1ade-4936-ae54-6acd533c9485.png)<br>
-Repare que ao colocarmos o mouse sobre alguma das imagens, temos o aplicativo exibe no canto inferior direito algumas informações sobre as camadas de cores e posição do pixel sobreposto pelo mouse relativa a uma escala 32x32. 
+Repare que ao colocarmos o mouse sobre alguma das imagens, temos o aplicativo exibe no canto inferior direito algumas informações sobre as camadas de cores e posição do pixel sobreposto pelo mouse relativa a uma escala 32x32. <br>
 ![image](https://user-images.githubusercontent.com/74078237/208256587-62ce8df6-0577-4fba-bf04-32b917c473bb.png)
 
 
@@ -108,6 +108,44 @@ Esta função é responsável por receber as imagens e labels para treinamento e
 Após o processamento das camadas de imagem, a aplicação imprime a perca nas imagens (% de pixels que não contribuiram com o aprendizado) e a precisão que nesse caso define que a cada 100 fotos distintas, X% serão rotuladas corretamente. Em seguida o modelo de aprendizagem é exportado para a pasta definida.
 
 ## Função run_model( )
+
+```
+def run_model(class_names):
+    
+    model = models.load_model('image_classifier.model')
+    #Observações: A foto precisa ter resolução 32x32 |
+    # 1:1 Aspect Ratio pois as imagens fornecidas para a IA 
+    # treinar pelo dataset estão nessa qualidade
+    img = cv.imread('img/pers.jpg')
+    img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
+
+    plt.imshow(img, cmap=plt.cm.binary)
+    prediction = model.predict(np.array([img]) / 255)
+
+    index = np.argmax(prediction)
+    print(f"Prediction is {class_names[index]}")
+
+    plt.show()
+```
+A função carrega o modelo de aprendizado construido anteriormente e puxa uma imagem local do computador, com resolução 32x32, exibe a foto converte os pixels da imagem para uma escala entre 0 e 1. Então o algoritmo de utiliza dos das redes neurais para rotular a imagem de acordo com o modelo de aprendizado de máquina.
+
+## O que deu errado?
+
+Desisti de seguir neste trabalho por problemas na execução dos algoritmos que desencadearam algumas motivações pessoais. 
+
+Para que eu possa obter mais precisão ao analisar uma imagem local é preciso fornecer um lote grande de imagens diversas com diferentes bibliotecas, não apenas a cifar100. Porém a capacidade computacional da qual disponho hoje me limita a blocos de aprendizagem com 625 imagens cada, um numero pequeno para exigir que resutlados precisos sejam apresentados. Desse modo, toda vez que tento apresentar uma imagem de uma mulher para o software, ele me retorna "Bird", similar ao apresentar um Cavalo, que a IA identifica como "Deer". Segue exemplo:
+![image](https://user-images.githubusercontent.com/74078237/208257465-c82add22-3189-4b37-a309-eb337ac68198.png)<br>
+Tentei aumentar o numero de Epochs, porém o resultado não foi tão bem sucedido. O que complicou avançar com o trabalho, pois eu iria entregar resultados imprecisos e a próxima etapa seria executada de maneira errada. O próximo passo da construção do trabalho seria coletar informações mais específicas da imagem e trabalhar com POO e construtores, armazenando dados e criando pessoas/animais com base no que foi identificado pela IA em um grupo de imagens locais. Ex.: Apresento um humano, ela atribui informações geradas de forma randomica utilizando outros arquivos com funções para construir uma pessoa completa, com cpf, email, nome, geolocalização, etc. Caso um animal fosse identificado, ele seria atribuido a algum dos humanos criados. 
+
+Desejo trabalhar com IA de forma mais avançada no futuro, então preferi investir em outro trabalho, para que as frustrações de um modelo de aprendizagem falho resultante de uma falta de tempo para estudar mais a fundo os modelos existentes e outras formas de construção de redes neurais não impactassem negativamente em futuras expriências.
+
+# Mapeamento de infectados com covid-19
+
+## Descrição e Objetivo:
+
+A aplicação tem como objetivo mapear pessoas geradas de forma randomica infectadas ou não com covid 19, e marcar as informações em um mapa HTML interativo utilizando bibliotecas do Python definindo as pessoas a partir de construtores e utilizando JSON para representar os dados estruturados. Ex.:
+![image](https://user-images.githubusercontent.com/74078237/208263306-19bff62a-2e9e-473a-8bc9-d094208f1c79.png) <br>
+
 
 ## Algumas Referências:
     
