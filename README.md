@@ -24,7 +24,7 @@ Objetivos específicos:
 * OpenCV
 * OS
 
-#Desenvolvimento: Trabalho 1 - Marchine Learning; Resultado - Falha 
+# Desenvolvimento: Trabalho 1 - Marchine Learning; Resultado - Falha 
 
 Utilizando de técnicas de convolução, tentei desenvolver uma IA a partir da biblioteca tensorflow, que é voltada para o aprendizado de máquina e comptuação numerica. O protótipo inicial se baseou na construção de uma aplicação que recebesse uma fonte biblioteca de dados cifar10 e cifar100 (https://www.cs.toronto.edu/~kriz/cifar.html), que utiliza de Superclasses e classes para o treinamento da IA.<br>
 <sub>Exemplo de biblioteca de Imagens Cifar</sub>
@@ -71,9 +71,34 @@ O código carrega datasets da biblioteca citada e plota a imagem como 32x32, e d
 ```
 Caso a pasta não exista, a aplicação puxa uma função responsável por criar um modelo de aprendizagem.
 
-##Função Create Model:
+## Função Create Model:
+```Python
+def create_model(training_images, training_labels, testing_images, testing_labels):   
+    
+    model = models.Sequential()
+    #Especifica o tamanho e a quantidade de canais
+    model.add(layers.Conv2D(32, (3,3), activation='relu', input_shape=(32,32,3)))
+    # Rsponsavel por diminuir o poder computacional necessario para processar nossos "dados"
+    model.add(layers.MaxPooling2D((2,2)))
+    model.add(layers.Conv2D(64, (3,3), activation='relu'))
+    model.add(layers.MaxPooling2D((2,2)))
+    model.add(layers.Conv2D(64, (3,3), activation='relu'))
+    model.add(layers.Flatten())
+    model.add(layers.Dense(64, activation='relu'))
+    model.add(layers.Dense(100, activation='softmax'))
 
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
+    model.fit(training_images, training_labels, epochs=20, validation_data=(testing_images, testing_labels))
+
+    loss, accuracy = model.evaluate(testing_images, testing_labels)
+    print(f"Loss: {loss}")
+    print(f"Accuracy: {accuracy}")
+
+    model.save('image_classifier.model')
+```
+Esta função é responsável por receber as imagens e labels para treinamento e teste. As imagens são processadas numa qualidade 32x32 (Aspect 1:1), em camadas RGB separadas, utilizando modelo de convolução e específicações para otimizar o a computação necessária para o processamento. Para não alongar tanto o README, uma explicação didática de como funciona o aprendizado por convolução pode ser encontrando na referência 5. <br>
+Após o processamento das camadas de imagem, a aplicação imprime a perca nas imagens (% de pixels que não contribuiram com o aprendizado) e a precisão que nesse caso define que a cada 100 fotos distintas, X% serão rotuladas corretamente.
 
 
 
