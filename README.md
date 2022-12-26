@@ -246,10 +246,35 @@ def user_dump(persona):
 
 ## Gerando Mapa:
 
-Após cada pessoa ser gerada, as coodenadas obtidas e armanzenadas, o 
+Após as coodenadas serem obtidas a partir do IP atribuido para a pessoa X, executamos o seguinte algoritmo:
 
+1. Cria um mapa vazio e insere as minhas coordenadas geográficas e define o icone como "home" da cor Verde;
 
-## Algumas Referências:
+E Para cada pessoa em um grupo de 1000, faz o seguinte: 
+
+2. Gera Pessoa;
+3. Exporta Json Com os dados da Pessoa;
+4. Cria uma marcação no mapa: <br>
+ 4.1 Se a Pessoa estiver positivada com Covid 19 cria uma marcação com um icone de perígo biológico e cria um raio de infecção.<br>
+ 4.2 Caso a pessoa esteja negativada, apenas criamos a marcação no mapa com o PinPoint azul, conforme configuração default da biblioteca.
+5. Se todas as pessoas foram criadas, salva o mapa em formato HTML em map/my_map1.html;
+6. C ria uma matriz de adajcencia para armazenar as pessoas infectadas;
+7. Exporta a matriz para um TXT;
+8. Salva pessoa em um dicionário;
+9. Salva o Dicionário em uma Lista de dicionarios;
+
+## Resultados
+
+Ao fim da execução devemos ter o seguinte mapa interativo: <br>
+![image](https://user-images.githubusercontent.com/74078237/209564914-263b2018-3101-420d-97c7-d36de0271329.png)
+<br>
+Ao dar zoom o raio de infecção será adaptado para o valor mais próximo da realidade. Ex.:<br>
+![image](https://user-images.githubusercontent.com/74078237/209564964-9ebd33d7-8855-4952-a5ea-f0602d4fecd4.png)
+<br>
+Ao clicar sobre uma marcação de pessoa infectada ou não infectada, devemos ter a seguinte exposição:<br>
+![image](https://user-images.githubusercontent.com/74078237/209565055-0ffe5e0a-cf18-42a2-82e9-200bd998157e.png)<br>
+
+## Referências:
     
 ### Python:
     [^1] https://docs.python.org/pt-br/3/library/concurrency.html
