@@ -146,6 +146,108 @@ Desejo trabalhar com IA de forma mais avançada no futuro, então preferi invest
 A aplicação tem como objetivo mapear pessoas geradas de forma randomica infectadas ou não com covid 19, e marcar as informações em um mapa HTML interativo utilizando bibliotecas do Python definindo as pessoas a partir de construtores e utilizando JSON para representar os dados estruturados. Ex.:
 ![image](https://user-images.githubusercontent.com/74078237/208263306-19bff62a-2e9e-473a-8bc9-d094208f1c79.png) <br>
 
+# Construção do App:
+
+Para construir a aplicação utilizei algumas bibliotecas do Python, como GeoPy para trabalhar com as geolocalizações, Folium para o Modelo HTML do Mapa, Urllib e Geocoder para fazer as requisições e coletar a geolocalização via IP e CPF_Generator para apicar o algortimo de geração de cpf e gerar um cpf aleatório para cada uma das pessoas criadas.
+
+## Criando uma Pessoa
+
+Para criar uma nova pessoa infectada ou não, importo as funções do arquivo json_gen_fn.py, onde os nomes, usuários e ipAddress são escolhidos de uma wordList (data/wordlist/*.txt) de forma randômica, geramos no máximo 1.000 usuários, pois gerei apenas mil endereços de IP para nossa wordlist, e alguns no momento da checagem de localização podem retornar falha, desse modo, podemos chegar a ter apenas 850 usuários cadastrados no nosso mapa. As demais informações também são geradas de forma randomica, como genero, status do covid e status de vacinação. Ex.:
+```py
+
+def gender():
+    return random.choice(["male", "female"])
+
+def covid_status():
+    return random.choice(["Positive", "Negative"])
+
+def vaccination_status():
+    return random.choice(["1 Dose", "None", "2 Doses", "3 Doses", "4 Doses"])
+
+```
+
+Essas informações são utilizadas pela classe Person, que é responsável por gerar erssa pessoa:
+
+```py
+class Person:
+    
+    def __init__(self, Address, ip, i):
+        self.name = rand_name()
+        self.email = rand_email()
+        self.gender = gender()
+        self.birthday = birthday()
+        self.cpf = cpf_gen()
+        self.cellphone = cellphone()
+        self.user = rand_user()
+        self.address = Address
+        self.ipAddress = ip
+        self.person_id = i
+        self.covid = covid_status()
+        self.vaccination = vaccination_status()
+ ```
+
+Para termos um maior controle sobre nossos usuários, exportamos para arquivos únicos com a função user_dump, que recebe uma persona, exporta para JSON, e retorna o Json para armezar num dicionário, cada dicionário é armazenado numa lista de dicionários, para o caso de ser necessária alguma consulta posterior. Ex.:
+
+```py
+def user_dump(persona):
+    #cria um dicionario, salva em Json no PC e retorna o dicionario para ser 
+    #salvo em uma lista de dicionarios
+    user_infos = {    
+    "name": persona.name,
+    "username": persona.user,
+    "email": persona.email,
+    "gender": persona.gender,
+    "person_id": persona.person_id,
+    "birthdate": persona.birthday,
+    "documents": [
+        {
+        "doctype": "CPF",
+        "rand_cpfnumber": persona.cpf
+        }
+    ],
+    "Covid19": [
+        {
+        "Status": persona.covid,
+        "Vaccination Status": persona.vaccination
+        }
+    ],
+    "address": [
+        {
+        "IpAddress": persona.ipAddress,
+        "GeoLoc": persona.address,
+        "Address": get_address(persona.address[0], persona.address[1]),
+        "city": "Williamsburg Street",
+        "address_number": 257,
+        "country_residence": "Saint Lucia",
+        "province": "Virginia",
+        "street": "Laurelton",
+        "zip": 26492
+        }
+    ],
+    "contacts": [
+        {
+        "phones": [
+            {
+            "phone_number": persona.cellphone,
+            "type": "cellphone"
+            }
+            ]
+        }
+        ]
+    }
+
+    my_json = json.dumps(user_infos, indent=2)
+    with open("data/json/users/user_data" + persona.user +".json", "w") as outfile:
+        outfile.write(my_json)
+    print(type(my_json))
+    
+    return my_json
+```
+
+## Gerando Mapa:
+
+Após cada pessoa ser gerada, as coodenadas obtidas e armanzenadas, o 
+
 
 ## Algumas Referências:
     
