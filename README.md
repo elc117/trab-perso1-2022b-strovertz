@@ -280,7 +280,7 @@ Ao clicar sobre uma marcação de pessoa infectada ou não infectada, devemos te
 
 Pretendia utilizar a matriz de adjacencia para calcular a distância entre 1 ponto e outro utilizando o geopy e marcar como possível infectado, mas pra isso eu precisaria processar novamente todos os possíveis infectados e apagar a marcação deles no mapa e recriar, já que não existe a opção de editar marcação.
 
-## Diciconários:
+## Dicionários:
 
 Pretendia utilizar melhor os dicionários, como acabaram dificultando um pouco, preferi apenas exportar os dados para Json, fica mais fácil de trabalhar assim.
 
