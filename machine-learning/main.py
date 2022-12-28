@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 import os
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 from tensorflow.keras import datasets, layers, models
 
 def get_class():
@@ -31,12 +31,15 @@ def create_model(training_images, training_labels, testing_images, testing_label
     print(f"Accuracy: {accuracy}")
 
     model.save('image_classifier.model')
+    
 
 def run_model(class_names):
     
     model = models.load_model('image_classifier.model')
-    #Observações: A foto precisa ter resolução 32x32 | 1:1 Aspect Ratio pois as imagens fornecidas para a IA treinar pelo dataset estão nessa qualidade
-    img = cv.imread('img/pers.jpg')
+    #Observações: A foto precisa ter resolução 32x32 |
+    # 1:1 Aspect Ratio pois as imagens fornecidas para a IA 
+    # treinar pelo dataset estão nessa qualidade
+    img = cv.imread('img/person2.jpg')
     img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
 
     plt.imshow(img, cmap=plt.cm.binary)
@@ -50,7 +53,7 @@ def run_model(class_names):
 def main():
     #Carrega um dataset com 100 classes, incluindo crianças, gatos, castelos, etc 
     (training_images, training_labels), (testing_images, testing_labels) = datasets.cifar100.load_data()
-    #Os pixels podem variar de 0 a 255, porém fica mais comodo trabalhar com uma escala de 0 a 1, então dividindo por 255 encaixamos os pixels dentro dessa nossa escala
+    #Os pixels podem variar de 0 a 255, porém fica mais comôdo trabalhar com uma escala de 0 a 1, então dividindo por 255 encaixamos os pixels dentro dessa nossa escala
     training_images, testing_images = training_images / 255, testing_images/ 255
     class_names = get_class()
     

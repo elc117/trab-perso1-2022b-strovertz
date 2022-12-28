@@ -25,19 +25,13 @@ def rand_ipAddress():
     return ip
 
 def gender():
-    opt  = ["male", "female"]
-    gender = random.choice(opt)
-    return gender
+    return random.choice(["male", "female"])
 
 def covid_status():
-    opt  = ["Positive", "Negative"]
-    status = random.choice(opt)
-    return status
+    return random.choice(["Positive", "Negative"])
 
 def vaccination_status():
-    opt  = ["1 Dose", "None", "2 Doses", "3 Doses", "4 Doses"]
-    status = random.choice(opt)
-    return status
+    return random.choice(["1 Dose", "None", "2 Doses", "3 Doses", "4 Doses"])
 
 def get_lat(lat):
     dec_lat = random.random()/100

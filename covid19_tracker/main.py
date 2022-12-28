@@ -1,7 +1,6 @@
 from geolocation import *
 from person import *
 import folium
-import numpy
 
 #dicionarios é uma lista que contem todos os dicionarios, ou melhor, os usuários. 
 coord_geo = []
@@ -66,15 +65,15 @@ def print_matrix(adjacency_matrix):
     linhas = len(adjacency_matrix)
     colunas = len(adjacency_matrix[0])
     #vou salvar apenas pra caso precise consultar algum específico pra verificar a as adjacencias, 
-    #quando eu  aplicar uma matriz 1000x1000 vai ficar mais dificil de visualizar pelo prompt
+    #quando eu  aplicar uma matriz 1000x1000 vai ficar mais dificil de visualizar pelo prompt, então comentei os prints
     file = open("data/adjacency_matrix.txt", "w+")
     for i in range(linhas):
         for j in range(colunas):
             if(j == colunas - 1):
-                print("%d" %adjacency_matrix[i][j])
+                #print("%d" %adjacency_matrix[i][j])
                 file.write(str(adjacency_matrix[i][j]))
             else:
-                print("%d" %adjacency_matrix[i][j], end = " ")
+                #print("%d" %adjacency_matrix[i][j], end = " ")
                 file.write(str(adjacency_matrix[i][j]))
         file.write('\n')
         
@@ -83,7 +82,7 @@ def print_matrix(adjacency_matrix):
 def dict_list_dump():
     with open("data/json/users/all_usr.json", "w", encoding ='utf8') as outfile:
         json.dump(dicionarios, outfile, indent=4, sort_keys=True)
-        outfile.close()
+        outfile.close() 
 
 def matrix_actions():
     adjacency_matrix = matrix_create()
@@ -103,7 +102,6 @@ def first_action():
         mapa = set_markup(mapa, lat_lon, user)
     mapa.save("map/my_map1.html")
     matrix_actions()
-    #return mapa
 
 def main():
     first_action()
