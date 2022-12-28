@@ -274,6 +274,16 @@ Ao dar zoom o raio de infecção será adaptado para o valor mais próximo da re
 Ao clicar sobre uma marcação de pessoa infectada ou não infectada, devemos ter a seguinte exposição:<br>
 ![image](https://user-images.githubusercontent.com/74078237/209565055-0ffe5e0a-cf18-42a2-82e9-200bd998157e.png)<br>
 
+# Dificuldades:
+
+## Raio de Infecção:
+
+Pretendia utilizar a matriz de adjacencia para calcular a distância entre 1 ponto e outro utilizando o geopy e marcar como possível infectado, mas pra isso eu precisaria processar novamente todos os possíveis infectados e apagar a marcação deles no mapa e recriar, já que não existe a opção de editar marcação.
+
+## Diciconários:
+
+Pretendia utilizar melhor os dicionários, como acabaram dificultando um pouco, preferi apenas exportar os dados para Json, fica mais fácil de trabalhar assim.
+
 ## Referências:
     
 ### Python:
