@@ -284,6 +284,11 @@ Pretendia utilizar a matriz de adjacencia para calcular a distância entre 1 pon
 
 Pretendia utilizar melhor os dicionários, como acabaram dificultando um pouco, preferi apenas exportar os dados para Json, fica mais fácil de trabalhar assim.
 
+## Marcações sobrepostas:
+
+Eu estava gerando aleatoriamente uma coordenada X e uma coordenada Y para a geolocalização, porém alguns valores estavam correspondendo a pontos do oceano, então decidi trabalha com localização via IP. Contudo, dessa forma alguns valores acabam correspondendo ao mesmo local, ex.: vários valores do Brasil concentram-se em algumas torres de São Paulo.
+
+
 ## Referências:
     
 ### Python:
