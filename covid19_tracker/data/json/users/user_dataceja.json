@@ -1,0 +1,46 @@
+{
+  "name": "Evette Victor",
+  "username": "ceja",
+  "email": "hendel@fakemail.com",
+  "gender": "female",
+  "person_id": 65,
+  "birthdate": "1973-7-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "57544798160"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "14.28.26.68",
+      "GeoLoc": [
+        23.1181,
+        113.2539
+      ],
+      "Address": "\u5e7f\u5dde\u5e02\u7b2c\u4e09\u4e2d\u5b66, \u5927\u65b0\u8def, \u4eba\u6c11\u8857\u9053, \u8d8a\u79c0\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510115, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 214924705",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

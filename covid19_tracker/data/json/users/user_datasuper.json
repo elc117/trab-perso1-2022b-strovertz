@@ -1,0 +1,46 @@
+{
+  "name": "Kalindi Cecco",
+  "username": "super",
+  "email": "sardonyx@fakemail.com",
+  "gender": "female",
+  "person_id": 281,
+  "birthdate": "1997-6-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53096215634"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "118.77.154.67",
+      "GeoLoc": [
+        37.8706,
+        112.549
+      ],
+      "Address": "\u534a\u5761\u5357\u5df7, \u9f13\u697c\u8857\u9053, \u674f\u82b1\u5cad\u533a, \u592a\u539f\u5e02, \u5c71\u897f\u7701, 030002, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+135 405411559",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

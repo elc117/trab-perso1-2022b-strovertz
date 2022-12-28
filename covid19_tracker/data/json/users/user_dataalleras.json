@@ -1,0 +1,46 @@
+{
+  "name": "Minerva Leeanne",
+  "username": "alleras",
+  "email": "khrushchev@fakemail.com",
+  "gender": "male",
+  "person_id": 975,
+  "birthdate": "1963-8-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36079751674"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "120.179.122.125",
+      "GeoLoc": [
+        -6.18,
+        106.821
+      ],
+      "Address": "Kantor Pusat PT Indosat, 21, Jalan Medan Merdeka Barat, RW 04, Gambir, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10110, Indonesia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 197819407",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

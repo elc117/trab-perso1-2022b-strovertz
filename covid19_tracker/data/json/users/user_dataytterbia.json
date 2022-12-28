@@ -1,0 +1,46 @@
+{
+  "name": "Bonnee Alphonso",
+  "username": "ytterbia",
+  "email": "evieevil@fakemail.com",
+  "gender": "male",
+  "person_id": 250,
+  "birthdate": "1996-10-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91793315302"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.125.90.153",
+      "GeoLoc": [
+        48.1773,
+        16.2456
+      ],
+      "Address": "Wiener-Blick-Weg, KG Auhof, Hietzing, Wien, 1130, \u00d6sterreich",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 320534355",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mara Gerardjan",
+  "username": "mccluskey",
+  "email": "rattoon@fakemail.com",
+  "gender": "male",
+  "person_id": 210,
+  "birthdate": "1960-12-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "63138627595"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "73.107.218.80",
+      "GeoLoc": [
+        26.5698,
+        -81.8695
+      ],
+      "Address": "Villas Elementary School, Leisure Lane, Lee County, Florida, 33907, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+25 662878410",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

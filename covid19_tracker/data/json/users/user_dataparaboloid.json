@@ -1,0 +1,46 @@
+{
+  "name": "Corri Rocio",
+  "username": "paraboloid",
+  "email": "cinchonize@fakemail.com",
+  "gender": "male",
+  "person_id": 137,
+  "birthdate": "1990-6-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "20624085600"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.58.145.30",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+165 351660030",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

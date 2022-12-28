@@ -1,0 +1,46 @@
+{
+  "name": "Basheer Jake",
+  "username": "lightface",
+  "email": "montfort@fakemail.com",
+  "gender": "female",
+  "person_id": 154,
+  "birthdate": "1991-11-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "67909078900"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.250.254.16",
+      "GeoLoc": [
+        38.8635,
+        -77.3322
+      ],
+      "Address": "3920, Pender Drive, Fairfax County, Virginia, 22030, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 730413779",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

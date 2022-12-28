@@ -1,0 +1,46 @@
+{
+  "name": "Roda Khue",
+  "username": "peerage",
+  "email": "tieratierce@fakemail.com",
+  "gender": "male",
+  "person_id": 246,
+  "birthdate": "1981-7-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "09828392780"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "75.136.10.99",
+      "GeoLoc": [
+        34.4825,
+        -85.3298
+      ],
+      "Address": "311, Pennington Drive, Chattooga County, Georgia, 30747, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+63 115276920",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

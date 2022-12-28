@@ -1,0 +1,46 @@
+{
+  "name": "Sephira Nora",
+  "username": "hypozeuxis",
+  "email": "dorpat@fakemail.com",
+  "gender": "female",
+  "person_id": 563,
+  "birthdate": "1971-6-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65570917861"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "35.245.199.57",
+      "GeoLoc": [
+        38.9071,
+        -77.0368
+      ],
+      "Address": "Scott Circle Northwest, Washington, District of Columbia, 20036, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 338729763",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

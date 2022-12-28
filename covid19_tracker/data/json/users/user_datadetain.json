@@ -1,0 +1,46 @@
+{
+  "name": "Fanny Arline",
+  "username": "detain",
+  "email": "yokoyama@fakemail.com",
+  "gender": "female",
+  "person_id": 177,
+  "birthdate": "1984-3-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55037537983"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "20.222.159.30",
+      "GeoLoc": [
+        35.68,
+        139.77
+      ],
+      "Address": "\u6771\u4eac\u99c5\u516b\u91cd\u6d32\u53e3\u524d, \u516b\u91cd\u6d32\u901a\u308a, \u4eac\u6a4b\u4e00\u4e01\u76ee, \u4e2d\u592e\u533a, \u6771\u4eac\u90fd, 100-6701, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+195 520761147",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

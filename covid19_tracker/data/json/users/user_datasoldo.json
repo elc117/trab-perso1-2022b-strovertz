@@ -1,0 +1,46 @@
+{
+  "name": "Imelda Janio",
+  "username": "soldo",
+  "email": "allograph@fakemail.com",
+  "gender": "male",
+  "person_id": 119,
+  "birthdate": "2004-10-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19900252420"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.138.236.224",
+      "GeoLoc": [
+        19.3463,
+        -98.1694
+      ],
+      "Address": "Calle Melchor Ocampo, Amaxac de Guerrero, Tlaxcala, 90620, M\u00e9xico",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 138056823",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

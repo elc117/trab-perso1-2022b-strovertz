@@ -1,0 +1,46 @@
+{
+  "name": "Ida Hanja",
+  "username": "selfindulgent",
+  "email": "sophey@fakemail.com",
+  "gender": "male",
+  "person_id": 912,
+  "birthdate": "1983-12-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41356196497"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "61.52.66.232",
+      "GeoLoc": [
+        34.7472,
+        113.625
+      ],
+      "Address": "\u4e8c\u4e03\u533a, \u90d1\u5dde\u5e02, \u6cb3\u5357\u7701, 450007, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+38 261293646",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

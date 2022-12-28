@@ -1,0 +1,46 @@
+{
+  "name": "Allan Samuel",
+  "username": "fillister",
+  "email": "immaterialism@fakemail.com",
+  "gender": "female",
+  "person_id": 733,
+  "birthdate": "1997-9-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78833272915"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "190.107.183.93",
+      "GeoLoc": [
+        -12.0535,
+        -77.098
+      ],
+      "Address": "Avenida \u00d3scar Raimundo Benavides, Tarapac\u00e1, Callao, Lima Metropolitana, Callao, 06011, Per\u00fa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+190 987705520",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

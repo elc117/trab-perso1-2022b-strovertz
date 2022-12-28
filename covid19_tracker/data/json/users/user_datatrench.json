@@ -1,0 +1,46 @@
+{
+  "name": "Shaibal Eudora",
+  "username": "trench",
+  "email": "homophonic@fakemail.com",
+  "gender": "female",
+  "person_id": 951,
+  "birthdate": "1979-7-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "89363506843"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "90.240.87.5",
+      "GeoLoc": [
+        53.4821,
+        -2.5103
+      ],
+      "Address": "United Utilities Leigh, Greenfold Way, Leigh Business Park, Leigh, Wigan, Greater Manchester, England, WN7 3XT, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+25 351043587",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

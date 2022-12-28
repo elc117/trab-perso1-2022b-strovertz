@@ -1,0 +1,46 @@
+{
+  "name": "Baha Wakako",
+  "username": "bunny",
+  "email": "vengeance@fakemail.com",
+  "gender": "male",
+  "person_id": 535,
+  "birthdate": "1963-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "00829973575"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "37.97.176.121",
+      "GeoLoc": [
+        52.3676,
+        4.90414
+      ],
+      "Address": "Jonas Dani\u00ebl Meijerplein, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 RH, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+23 185552017",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

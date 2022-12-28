@@ -1,0 +1,46 @@
+{
+  "name": "Maddi Dela",
+  "username": "irreclaimable",
+  "email": "sexpartite@fakemail.com",
+  "gender": "male",
+  "person_id": 717,
+  "birthdate": "1990-8-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76507530263"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.49.95.217",
+      "GeoLoc": [
+        37.422,
+        -122.084
+      ],
+      "Address": "Google Building 40, Amphitheatre Parkway, Mountain View, Santa Clara County, CAL Fire Northern Region, California, 94043, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+200 652538990",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

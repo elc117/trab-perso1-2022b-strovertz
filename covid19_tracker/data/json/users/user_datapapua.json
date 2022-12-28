@@ -1,0 +1,46 @@
+{
+  "name": "Marnia Frannie",
+  "username": "papua",
+  "email": "tremolite@fakemail.com",
+  "gender": "male",
+  "person_id": 829,
+  "birthdate": "1981-9-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "57115016070"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "39.68.158.201",
+      "GeoLoc": [
+        36.7069,
+        119.162
+      ],
+      "Address": "\u5c71\u4e1c\u755c\u7267\u517d\u533b\u804c\u4e1a\u5b66\u9662\u5317\u6821\u533a, \u80dc\u5229\u4e1c\u8857, \u9648\u5bb6\u793e\u533a, \u594e\u6587\u533a, \u6f4d\u574a\u5e02, \u5c71\u4e1c\u7701, 261061, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+136 906244726",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

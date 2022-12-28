@@ -1,0 +1,46 @@
+{
+  "name": "Hing-Fai Annick",
+  "username": "kapoor",
+  "email": "mamiemamma@fakemail.com",
+  "gender": "female",
+  "person_id": 423,
+  "birthdate": "1986-6-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56847598905"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.232.15.186",
+      "GeoLoc": [
+        48.739,
+        2.4859
+      ],
+      "Address": "Complexe Didier Pironi, Avenue Descartes, Limeil-Br\u00e9vannes, Cr\u00e9teil, Val-de-Marne, \u00cele-de-France, France m\u00e9tropolitaine, 94450, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+48 784854100",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

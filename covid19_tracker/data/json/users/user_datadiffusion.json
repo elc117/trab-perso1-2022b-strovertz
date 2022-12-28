@@ -1,0 +1,46 @@
+{
+  "name": "King-Haut Annabell",
+  "username": "diffusion",
+  "email": "lendlease@fakemail.com",
+  "gender": "female",
+  "person_id": 575,
+  "birthdate": "2002-11-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50871797895"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "166.158.44.129",
+      "GeoLoc": [
+        46.2835,
+        -96.0778
+      ],
+      "Address": "101, North Union Avenue, Downtown, Fergus Falls, Otter Tail County, Minnesota, 56537, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+56 482241667",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

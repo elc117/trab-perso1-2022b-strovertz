@@ -1,0 +1,46 @@
+{
+  "name": "Bethanne Admin",
+  "username": "maternal",
+  "email": "locklear@fakemail.com",
+  "gender": "female",
+  "person_id": 100,
+  "birthdate": "1989-9-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01123640041"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "35.187.223.225",
+      "GeoLoc": [
+        35.6761,
+        139.6503
+      ],
+      "Address": "\u548c\u6cc9\u4e8c\u4e01\u76ee, \u6749\u4e26\u533a, \u6771\u4eac\u90fd, 168-0063, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+19 480166903",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

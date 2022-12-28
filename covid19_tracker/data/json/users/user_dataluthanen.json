@@ -1,0 +1,46 @@
+{
+  "name": "Geety Henrie",
+  "username": "luthanen",
+  "email": "cellist@fakemail.com",
+  "gender": "male",
+  "person_id": 27,
+  "birthdate": "2000-9-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61328363490"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "48.89.111.241",
+      "GeoLoc": [
+        40.7369,
+        -74.172
+      ],
+      "Address": "Prudential Plaza Building, Bank Street, Teachers Village, Newark, Essex County, New Jersey, 07102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+133 951069537",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

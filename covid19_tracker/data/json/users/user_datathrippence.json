@@ -1,0 +1,46 @@
+{
+  "name": "Giana Vivien",
+  "username": "thrippence",
+  "email": "rolanderolando@fakemail.com",
+  "gender": "female",
+  "person_id": 761,
+  "birthdate": "1966-6-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "20639252087"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "89.253.103.134",
+      "GeoLoc": [
+        59.3591,
+        17.9948
+      ],
+      "Address": "Skytteholms IP, Huvudstagatan, Vasalund, R\u00e5sunda, Solna kommun, Stockholms l\u00e4n, 171 44, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 742360788",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

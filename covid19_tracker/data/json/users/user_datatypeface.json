@@ -1,0 +1,46 @@
+{
+  "name": "Georgia Monica",
+  "username": "typeface",
+  "email": "chenille@fakemail.com",
+  "gender": "female",
+  "person_id": 868,
+  "birthdate": "2004-1-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "94520038804"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "104.238.171.20",
+      "GeoLoc": [
+        51.5128,
+        -0.0638
+      ],
+      "Address": "4, Golding Street, St. George in the East, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, E1 2LN, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+34 380458975",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

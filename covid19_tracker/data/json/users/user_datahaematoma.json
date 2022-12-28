@@ -1,0 +1,46 @@
+{
+  "name": "Sabuson Erhard",
+  "username": "haematoma",
+  "email": "overcasting@fakemail.com",
+  "gender": "male",
+  "person_id": 565,
+  "birthdate": "2001-2-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37977574250"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "163.166.51.230",
+      "GeoLoc": [
+        51.5124,
+        -0.0087975
+      ],
+      "Address": "52-74, St Leonard's Road, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 0QU, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+101 449922438",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

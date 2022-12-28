@@ -1,0 +1,46 @@
+{
+  "name": "Fqa Amelina",
+  "username": "beatriz",
+  "email": "macri@fakemail.com",
+  "gender": "male",
+  "person_id": 314,
+  "birthdate": "1971-9-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24423710307"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "181.193.114.164",
+      "GeoLoc": [
+        9.9819,
+        -84.835
+      ],
+      "Address": "Calle 7, Puntarenas, Cant\u00f3n Puntarenas, Provincia Puntarenas, 60101, Costa Rica",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+73 323896357",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

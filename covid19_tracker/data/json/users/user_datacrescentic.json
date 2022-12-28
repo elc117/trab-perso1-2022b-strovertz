@@ -1,0 +1,46 @@
+{
+  "name": "Liane Cynthea",
+  "username": "crescentic",
+  "email": "jenicejeniece@fakemail.com",
+  "gender": "female",
+  "person_id": 57,
+  "birthdate": "1964-2-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "67409460350"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "215.36.233.215",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+172 168311008",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

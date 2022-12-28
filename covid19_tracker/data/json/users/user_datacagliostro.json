@@ -1,0 +1,46 @@
+{
+  "name": "Renate Paulita",
+  "username": "cagliostro",
+  "email": "vex@fakemail.com",
+  "gender": "female",
+  "person_id": 691,
+  "birthdate": "2000-5-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "86810700536"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "203.144.17.3",
+      "GeoLoc": [
+        -27.9708,
+        153.4107
+      ],
+      "Address": "Athol Paterson Carpark, High Street, Southport, Gold Coast City, Queensland, 4215, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+175 203794830",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Shahid Felton",
+  "username": "movable",
+  "email": "anking@fakemail.com",
+  "gender": "male",
+  "person_id": 654,
+  "birthdate": "1971-9-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52306738858"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "172.118.239.199",
+      "GeoLoc": [
+        33.9441,
+        -118.198
+      ],
+      "Address": "O'Reilly Auto Parts, 9775, Otis Street, South Gate, Los Angeles County, California, 90280, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+31 668169661",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

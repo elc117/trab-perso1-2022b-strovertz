@@ -1,0 +1,46 @@
+{
+  "name": "Jillian Bernhard",
+  "username": "olly",
+  "email": "bile@fakemail.com",
+  "gender": "male",
+  "person_id": 174,
+  "birthdate": "2004-11-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83754795198"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.204.67.164",
+      "GeoLoc": [
+        60.1699,
+        24.9384
+      ],
+      "Address": "Kaivokatu, Keskusta, Kluuvi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomen aluehallintovirasto, Manner-Suomi, 00099, Suomi / Finland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+154 136185231",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

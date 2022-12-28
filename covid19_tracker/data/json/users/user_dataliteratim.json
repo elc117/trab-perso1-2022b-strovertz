@@ -1,0 +1,46 @@
+{
+  "name": "Lena Action",
+  "username": "literatim",
+  "email": "load@fakemail.com",
+  "gender": "male",
+  "person_id": 519,
+  "birthdate": "1979-11-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "44218057850"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "203.6.131.194",
+      "GeoLoc": [
+        26.4837,
+        117.925
+      ],
+      "Address": "\u798f\u94f6\u9ad8\u901f;\u957f\u6df1\u9ad8\u901f, \u6c99\u53bf\u533a, \u4e09\u660e\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+60 989066596",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

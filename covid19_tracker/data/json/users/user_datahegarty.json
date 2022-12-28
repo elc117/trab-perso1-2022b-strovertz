@@ -1,0 +1,46 @@
+{
+  "name": "Tracy Newton",
+  "username": "hegarty",
+  "email": "hathcock@fakemail.com",
+  "gender": "female",
+  "person_id": 866,
+  "birthdate": "1991-2-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "98287283388"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "98.247.19.139",
+      "GeoLoc": [
+        48.6914,
+        -122.4133
+      ],
+      "Address": "I 5, South Bellingham, Bellingham, Whatcom County, Washington, 98229, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+161 197868285",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

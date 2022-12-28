@@ -1,0 +1,46 @@
+{
+  "name": "Dora Mariel",
+  "username": "janina",
+  "email": "intertwine@fakemail.com",
+  "gender": "female",
+  "person_id": 377,
+  "birthdate": "1964-10-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52683189508"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.209.122.244",
+      "GeoLoc": [
+        39.9769,
+        -74.1601
+      ],
+      "Address": "375, Kildare Drive, Twin Oaks, Berkeley Township, Toms River, Ocean County, New Jersey, 08753, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+193 480313411",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

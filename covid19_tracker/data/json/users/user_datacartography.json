@@ -1,0 +1,46 @@
+{
+  "name": "Aruna Jessy",
+  "username": "cartography",
+  "email": "elayne@fakemail.com",
+  "gender": "female",
+  "person_id": 158,
+  "birthdate": "1971-9-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "20723405271"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.103.251.11",
+      "GeoLoc": [
+        10.4653,
+        -73.2498
+      ],
+      "Address": "Estadio Armando Maestre Pavajeau, Carrera 15, Comuna 1, Per\u00edmetro Urbano Valledupar, Valledupar, Cesar, 200001, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+168 707654410",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

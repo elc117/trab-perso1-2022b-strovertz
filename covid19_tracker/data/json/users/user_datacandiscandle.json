@@ -1,0 +1,46 @@
+{
+  "name": "Saleem Shae",
+  "username": "candiscandle",
+  "email": "doubledecker@fakemail.com",
+  "gender": "female",
+  "person_id": 928,
+  "birthdate": "1999-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52138415546"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "38.249.29.156",
+      "GeoLoc": [
+        40.7128,
+        -74.006
+      ],
+      "Address": "New York City Hall, 260, Broadway, Lower Manhattan, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10000, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+17 729609728",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

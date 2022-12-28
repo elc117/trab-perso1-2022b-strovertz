@@ -1,0 +1,46 @@
+{
+  "name": "Yoko Gipsy",
+  "username": "silvanus",
+  "email": "judo@fakemail.com",
+  "gender": "male",
+  "person_id": 404,
+  "birthdate": "1977-2-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31795492899"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "138.131.49.74",
+      "GeoLoc": [
+        46.9975,
+        6.94729
+      ],
+      "Address": "CSEM, Rue Jaquet-Droz, Neuch\u00e2tel, 2002, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+19 811521741",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

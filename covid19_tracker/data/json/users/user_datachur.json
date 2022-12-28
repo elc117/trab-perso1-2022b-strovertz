@@ -1,0 +1,46 @@
+{
+  "name": "Alphen Seyfollah",
+  "username": "chur",
+  "email": "foch@fakemail.com",
+  "gender": "female",
+  "person_id": 170,
+  "birthdate": "1961-3-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "82497481660"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "88.140.68.174",
+      "GeoLoc": [
+        48.8534,
+        2.3488
+      ],
+      "Address": "Point z\u00e9ro des Routes de France, Parvis Notre-Dame - Place Jean-Paul II, Quartier Les \u00celes, Paris 4e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75004, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+57 602158337",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

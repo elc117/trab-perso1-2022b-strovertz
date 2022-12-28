@@ -1,0 +1,46 @@
+{
+  "name": "Zelma Vmcord",
+  "username": "amie",
+  "email": "duax@fakemail.com",
+  "gender": "female",
+  "person_id": 298,
+  "birthdate": "1980-6-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56612695951"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "200.194.163.158",
+      "GeoLoc": [
+        -22.511,
+        -43.1793
+      ],
+      "Address": "Lavanderia Itaipava, Rua 16 de Mar\u00e7o, Centro, Petr\u00f3polis, Regi\u00e3o Geogr\u00e1fica Imediata de Petr\u00f3polis, Regi\u00e3o Metropolitana do Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petr\u00f3polis, Rio de Janeiro, Regi\u00e3o Sudeste, 25685-330, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 533969787",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

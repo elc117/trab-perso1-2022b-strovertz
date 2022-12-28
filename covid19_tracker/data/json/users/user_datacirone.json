@@ -1,0 +1,46 @@
+{
+  "name": "Josefina Glennie",
+  "username": "cirone",
+  "email": "humanly@fakemail.com",
+  "gender": "male",
+  "person_id": 894,
+  "birthdate": "1966-6-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "60965928306"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "108.219.36.103",
+      "GeoLoc": [
+        38.1308,
+        -121.3345
+      ],
+      "Address": "16555, North Davis Road, San Joaquin County, California, 95242, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+94 586893919",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Trudey Emelda",
+  "username": "diatonic",
+  "email": "colas@fakemail.com",
+  "gender": "female",
+  "person_id": 95,
+  "birthdate": "1974-12-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73953940465"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "54.116.240.253",
+      "GeoLoc": [
+        37.5665,
+        126.978
+      ],
+      "Address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uccad, 110, \uc138\uc885\ub300\ub85c20\uae38, \uba85\ub3d9, \uc911\uad6c, \uc11c\uc6b8, 04523, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+174 206279296",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

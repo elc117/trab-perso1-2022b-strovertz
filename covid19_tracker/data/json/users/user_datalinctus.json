@@ -1,0 +1,46 @@
+{
+  "name": "Jacki Chong-Lai",
+  "username": "linctus",
+  "email": "wendiewendin@fakemail.com",
+  "gender": "male",
+  "person_id": 5,
+  "birthdate": "1999-2-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26172024884"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "115.176.127.191",
+      "GeoLoc": [
+        35.558,
+        139.713
+      ],
+      "Address": "\u5bcc\u58eb\u901a\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30b9\u30af\u30a8\u30a2, \u74b0\u516b\u901a\u308a, \u897f\u84b2\u7530\u516b\u4e01\u76ee, \u5927\u7530\u533a, \u6771\u4eac\u90fd, 144-8621, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 613330714",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

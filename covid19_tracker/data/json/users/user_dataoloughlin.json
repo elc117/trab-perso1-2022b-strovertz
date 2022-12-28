@@ -1,0 +1,46 @@
+{
+  "name": "Carlis Leonie",
+  "username": "oloughlin",
+  "email": "clevey@fakemail.com",
+  "gender": "female",
+  "person_id": 604,
+  "birthdate": "1967-6-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "28703809250"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "120.177.116.101",
+      "GeoLoc": [
+        -6.18,
+        106.821
+      ],
+      "Address": "Kantor Pusat PT Indosat, 21, Jalan Medan Merdeka Barat, RW 04, Gambir, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10110, Indonesia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+119 448987936",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

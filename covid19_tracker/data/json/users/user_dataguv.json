@@ -1,0 +1,46 @@
+{
+  "name": "Bekki Xiaomei",
+  "username": "guv",
+  "email": "calumny@fakemail.com",
+  "gender": "male",
+  "person_id": 915,
+  "birthdate": "1998-1-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27966794202"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "197.119.227.110",
+      "GeoLoc": [
+        36.0641,
+        5.0138
+      ],
+      "Address": "CW 1, Ain Melila Kbira, Sedrata, A\u00efn Tassera \u2d44\u2d49\u2d4f \u2d5c\u2d3b\u2d59\u2d54\u2d30 \u0639\u064a\u0646 \u062a\u0633\u0631\u0629, Da\u00efra Ras El Oued, Bordj Bou Arreridj \u2d31\u2d53\u2d54\u2d35 \u2d31\u2d53 \u2d44\u2d54\u2d49\u2d54\u2d49\u2d35 \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c, Alg\u00e9rie / \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 / \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+121 579403937",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

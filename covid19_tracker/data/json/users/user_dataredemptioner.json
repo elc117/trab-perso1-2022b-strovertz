@@ -1,0 +1,46 @@
+{
+  "name": "Danila Angel",
+  "username": "redemptioner",
+  "email": "tamalatamale@fakemail.com",
+  "gender": "male",
+  "person_id": 742,
+  "birthdate": "2003-11-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "35769788798"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "176.120.148.128",
+      "GeoLoc": [
+        48.6567,
+        6.13329
+      ],
+      "Address": "5, All\u00e9e de Saint-Cloud, Villers-l\u00e8s-Nancy, Nancy, Meurthe-et-Moselle, Grand Est, France m\u00e9tropolitaine, 54600, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 151680487",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

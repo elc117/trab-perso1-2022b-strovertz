@@ -1,0 +1,46 @@
+{
+  "name": "Aniko Cubicle",
+  "username": "eminence",
+  "email": "rutharuthann@fakemail.com",
+  "gender": "male",
+  "person_id": 378,
+  "birthdate": "1973-9-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02010988060"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "176.71.148.195",
+      "GeoLoc": [
+        59.3287,
+        18.0717
+      ],
+      "Address": "Str\u00f6mgatan, Klara, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Stockholm, Stockholms kommun, Stockholms l\u00e4n, 103 21, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+130 344041156",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

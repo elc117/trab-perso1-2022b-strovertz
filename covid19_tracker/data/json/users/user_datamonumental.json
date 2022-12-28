@@ -1,0 +1,46 @@
+{
+  "name": "Isis Clementia",
+  "username": "monumental",
+  "email": "wileywilfong@fakemail.com",
+  "gender": "female",
+  "person_id": 70,
+  "birthdate": "1986-4-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "69755397400"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.65.146.110",
+      "GeoLoc": [
+        40.7085,
+        -74.0106
+      ],
+      "Address": "Equitable Building, 120, Broadway, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10003, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+197 744318912",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

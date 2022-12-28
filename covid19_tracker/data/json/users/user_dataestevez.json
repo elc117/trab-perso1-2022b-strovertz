@@ -1,0 +1,46 @@
+{
+  "name": "Bendite Jessalyn",
+  "username": "estevez",
+  "email": "cere@fakemail.com",
+  "gender": "male",
+  "person_id": 302,
+  "birthdate": "1960-5-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "62753621039"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "90.240.87.5",
+      "GeoLoc": [
+        53.4821,
+        -2.5103
+      ],
+      "Address": "United Utilities Leigh, Greenfold Way, Leigh Business Park, Leigh, Wigan, Greater Manchester, England, WN7 3XT, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 983567392",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

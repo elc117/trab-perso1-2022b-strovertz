@@ -1,0 +1,46 @@
+{
+  "name": "Sella Bianca",
+  "username": "literature",
+  "email": "chantress@fakemail.com",
+  "gender": "female",
+  "person_id": 969,
+  "birthdate": "1991-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "98990889600"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "17.245.251.30",
+      "GeoLoc": [
+        37.3219,
+        -122.03
+      ],
+      "Address": "10144, Macadam Lane, Cupertino, Santa Clara County, California, 95014, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+13 814396456",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

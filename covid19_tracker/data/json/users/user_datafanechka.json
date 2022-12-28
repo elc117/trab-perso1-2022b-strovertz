@@ -1,0 +1,46 @@
+{
+  "name": "Corina Turkey",
+  "username": "fanechka",
+  "email": "chauncey@fakemail.com",
+  "gender": "male",
+  "person_id": 225,
+  "birthdate": "2003-3-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68683366910"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "180.2.56.15",
+      "GeoLoc": [
+        35.8292,
+        139.6789
+      ],
+      "Address": "\u91d1\u4e80\u5c71 \u6975\u697d\u5bfa\u4e09\u5b66\u9662, \u7a32\u8377\u8d8a\u901a\u308a, \u5317\u753a\u4e09\u4e01\u76ee, \u8568\u5e02, \u57fc\u7389\u770c, 335-0001, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+26 935877003",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Data Eamonn",
+  "username": "bergen",
+  "email": "chump@fakemail.com",
+  "gender": "male",
+  "person_id": 363,
+  "birthdate": "1963-12-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12423967055"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "41.221.8.103",
+      "GeoLoc": [
+        -26.3811,
+        27.8376
+      ],
+      "Address": "Johannesburg Ward 121, City of Johannesburg Metropolitan Municipality, Gauteng, 1829, South Africa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+80 806387107",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

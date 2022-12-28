@@ -1,0 +1,46 @@
+{
+  "name": "Zouheir Damaris",
+  "username": "bethune",
+  "email": "goulette@fakemail.com",
+  "gender": "male",
+  "person_id": 547,
+  "birthdate": "1960-5-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39120561709"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "66.0.194.157",
+      "GeoLoc": [
+        34.7872,
+        -92.3968
+      ],
+      "Address": "Woodland Heights, Little Rock, Pulaski County, Arkansas, 72212, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 979820438",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

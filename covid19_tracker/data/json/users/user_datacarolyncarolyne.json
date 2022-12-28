@@ -1,0 +1,46 @@
+{
+  "name": "Concettina Ren",
+  "username": "carolyncarolyne",
+  "email": "fitter@fakemail.com",
+  "gender": "female",
+  "person_id": 687,
+  "birthdate": "1976-5-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66986007760"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "104.207.119.56",
+      "GeoLoc": [
+        45.0334,
+        -93.2793
+      ],
+      "Address": "2, 36th Northeast Avenue, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 671274485",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

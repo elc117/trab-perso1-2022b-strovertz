@@ -1,0 +1,46 @@
+{
+  "name": "Gino Kari",
+  "username": "abatis",
+  "email": "nickynico@fakemail.com",
+  "gender": "male",
+  "person_id": 175,
+  "birthdate": "1977-2-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "79739484220"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.200.164.5",
+      "GeoLoc": [
+        10.0523,
+        -84.0914
+      ],
+      "Address": "Uvita, \u00c1ngeles, Cant\u00f3n San Rafael, Provincia Heredia, 40504, Costa Rica",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+14 641268020",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

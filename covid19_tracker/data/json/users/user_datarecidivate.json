@@ -1,0 +1,46 @@
+{
+  "name": "Mukul Malia",
+  "username": "recidivate",
+  "email": "imprest@fakemail.com",
+  "gender": "male",
+  "person_id": 515,
+  "birthdate": "1961-10-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73747105777"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "16.112.56.140",
+      "GeoLoc": [
+        37.4146,
+        -122.146
+      ],
+      "Address": "3200, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+43 774310891",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

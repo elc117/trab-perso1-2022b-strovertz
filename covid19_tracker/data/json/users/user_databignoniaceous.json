@@ -1,0 +1,46 @@
+{
+  "name": "Vivian Coila",
+  "username": "bignoniaceous",
+  "email": "antithesis@fakemail.com",
+  "gender": "female",
+  "person_id": 445,
+  "birthdate": "1974-8-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91307242448"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.153.249.236",
+      "GeoLoc": [
+        43.2953,
+        -5.6805
+      ],
+      "Address": "Parque Dorado, Sama, Llangr\u00e9u/Langreo, Asturias / Asturies, 33949, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+102 762610186",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

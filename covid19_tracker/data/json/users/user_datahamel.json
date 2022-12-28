@@ -1,0 +1,46 @@
+{
+  "name": "Choon-Lin Wilie",
+  "username": "hamel",
+  "email": "itinerate@fakemail.com",
+  "gender": "male",
+  "person_id": 718,
+  "birthdate": "1977-6-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "62883735590"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.136.126.107",
+      "GeoLoc": [
+        41.2619,
+        -95.8608
+      ],
+      "Address": "Saint Pauls Evangelical Country Church, West Broadway, Council Bluffs, Pottawattamie County, Iowa, 51502, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 587725356",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

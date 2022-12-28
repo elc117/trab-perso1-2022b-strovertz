@@ -1,0 +1,46 @@
+{
+  "name": "Jorge Elladine",
+  "username": "barmecidal",
+  "email": "hixson@fakemail.com",
+  "gender": "male",
+  "person_id": 462,
+  "birthdate": "1989-11-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73741203700"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "221.120.184.170",
+      "GeoLoc": [
+        22.4536,
+        114.188
+      ],
+      "Address": "\u7cbe\u5bc6\u88fd\u9020\u4e2d\u5fc3 Precision Manufacturing Centre, 3, \u5927\u559c\u8857 Dai Hei Street, \u5927\u57d4\u5275\u65b0\u5712 Tai Po INNOPARK, \u9cf3\u5712 Fung Yuen, \u5927\u57d4 Tai Po, \u5927\u57d4\u5340 Tai Po District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+134 594155485",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

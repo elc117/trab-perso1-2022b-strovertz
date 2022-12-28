@@ -1,0 +1,46 @@
+{
+  "name": "Marna Sohail",
+  "username": "pumpkinseed",
+  "email": "factoring@fakemail.com",
+  "gender": "male",
+  "person_id": 37,
+  "birthdate": "1981-6-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56647086200"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "106.232.56.77",
+      "GeoLoc": [
+        27.0875,
+        114.904
+      ],
+      "Address": "\u6cb9\u5e97\u6c5f, \u5409\u5dde\u533a, \u5409\u5b89\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+89 193162720",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Dotti Sarah",
+  "username": "glyceric",
+  "email": "fidel@fakemail.com",
+  "gender": "female",
+  "person_id": 656,
+  "birthdate": "1960-11-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50184242304"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "74.79.238.76",
+      "GeoLoc": [
+        42.7369,
+        -76.4006
+      ],
+      "Address": "2500, Jugg Street, Wilson Corners, Town of Moravia, Cayuga County, New York, 13118, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+42 837355592",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

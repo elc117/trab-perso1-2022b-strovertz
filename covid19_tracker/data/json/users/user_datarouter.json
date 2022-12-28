@@ -1,0 +1,46 @@
+{
+  "name": "Dasie Fernando",
+  "username": "router",
+  "email": "awful@fakemail.com",
+  "gender": "male",
+  "person_id": 817,
+  "birthdate": "1961-12-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77873079600"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "83.224.131.67",
+      "GeoLoc": [
+        45.5073,
+        10.7377
+      ],
+      "Address": "Park Cimitero, Via Mata, Lazise, Verona, Veneto, 37017, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 676811353",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Melek Judith",
+  "username": "vamp",
+  "email": "paulo@fakemail.com",
+  "gender": "male",
+  "person_id": 714,
+  "birthdate": "1991-3-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73625728591"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.184.16.103",
+      "GeoLoc": [
+        37.3382,
+        -121.886
+      ],
+      "Address": "San Jos\u00e9 Civic Plaza, Horace Mann, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+66 261050329",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

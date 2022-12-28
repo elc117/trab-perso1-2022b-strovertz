@@ -1,0 +1,46 @@
+{
+  "name": "Ariadne Consuela",
+  "username": "godfry",
+  "email": "kamat@fakemail.com",
+  "gender": "male",
+  "person_id": 216,
+  "birthdate": "1999-6-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47286132326"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "218.107.183.72",
+      "GeoLoc": [
+        39.9146,
+        116.358
+      ],
+      "Address": "\u91d1\u878d\u8857\u9152\u5e97\u516c\u5bd3, \u592a\u5e73\u6865\u5927\u8857, \u91d1\u878d\u8857\u8857\u9053, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 611356331",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

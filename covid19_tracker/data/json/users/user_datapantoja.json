@@ -1,0 +1,46 @@
+{
+  "name": "Dore Cornie",
+  "username": "pantoja",
+  "email": "lord@fakemail.com",
+  "gender": "male",
+  "person_id": 259,
+  "birthdate": "1978-8-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30451864751"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.34.13.224",
+      "GeoLoc": [
+        50.99,
+        6.964
+      ],
+      "Address": "181, Niehler Damm, Niehl, Nippes, K\u00f6ln, Nordrhein-Westfalen, 50735, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+89 857045060",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

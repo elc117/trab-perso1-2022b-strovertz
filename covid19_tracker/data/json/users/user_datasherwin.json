@@ -1,0 +1,46 @@
+{
+  "name": "Leticia Merci",
+  "username": "sherwin",
+  "email": "bick@fakemail.com",
+  "gender": "female",
+  "person_id": 935,
+  "birthdate": "1961-2-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "07846977440"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "199.98.219.84",
+      "GeoLoc": [
+        37.3382,
+        -121.886
+      ],
+      "Address": "San Jos\u00e9 Civic Plaza, Horace Mann, Japantown, San Jose, Santa Clara County, CAL Fire Northern Region, California, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+182 382703283",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

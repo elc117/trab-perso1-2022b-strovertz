@@ -1,0 +1,46 @@
+{
+  "name": "Roberto Valerye",
+  "username": "alderney",
+  "email": "haberdasher@fakemail.com",
+  "gender": "male",
+  "person_id": 129,
+  "birthdate": "1983-11-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "32809803560"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.196.151.181",
+      "GeoLoc": [
+        46.7657,
+        23.5943
+      ],
+      "Address": "Cimitirul Central, Strada Zaharia B\u00e2rsan, Andrei Mure\u0219anu, Cluj-Napoca, Zona Metropolitan\u0103 Cluj, Cluj, 400193, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+9 334340749",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

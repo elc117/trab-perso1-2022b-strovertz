@@ -1,0 +1,46 @@
+{
+  "name": "Koo Lee",
+  "username": "waltraudwaltz",
+  "email": "busy@fakemail.com",
+  "gender": "female",
+  "person_id": 249,
+  "birthdate": "1964-5-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80971353026"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "86.47.207.100",
+      "GeoLoc": [
+        53.3402,
+        -6.2712
+      ],
+      "Address": "Saint Patrick's well, Bull Alley Street, Wood Quay A ED, Dublin, County Dublin, Leinster, D08 V5Y4, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+123 188767189",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

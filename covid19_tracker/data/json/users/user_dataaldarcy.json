@@ -1,0 +1,46 @@
+{
+  "name": "Flore Griet",
+  "username": "aldarcy",
+  "email": "yoohoo@fakemail.com",
+  "gender": "male",
+  "person_id": 665,
+  "birthdate": "1960-4-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97777669044"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "164.25.117.170",
+      "GeoLoc": [
+        52.0231,
+        8.53375
+      ],
+      "Address": "2, Jahnplatz, Mitte, Bielefeld, Nordrhein-Westfalen, 33602, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 937977910",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

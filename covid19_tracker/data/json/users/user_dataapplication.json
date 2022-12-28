@@ -1,0 +1,46 @@
+{
+  "name": "Cosetta Daloris",
+  "username": "application",
+  "email": "tankage@fakemail.com",
+  "gender": "male",
+  "person_id": 0,
+  "birthdate": "1960-1-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17355397400"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.185.140.169",
+      "GeoLoc": [
+        40.7608,
+        -111.891
+      ],
+      "Address": "Array Salon, South Main Street, Salt Lake City, Salt Lake County, Utah, 84101, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+187 622072551",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

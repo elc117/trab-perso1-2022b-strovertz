@@ -1,0 +1,46 @@
+{
+  "name": "Rudolf Zarella",
+  "username": "ephesians",
+  "email": "biretta@fakemail.com",
+  "gender": "female",
+  "person_id": 199,
+  "birthdate": "1983-6-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11517278902"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "41.179.55.216",
+      "GeoLoc": [
+        30.0679,
+        31.0207
+      ],
+      "Address": "Smart Village, \u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0630\u0643\u064a\u0629, \u0627\u0644\u062c\u064a\u0632\u0629, 12577, \u0645\u0635\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+191 807225469",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

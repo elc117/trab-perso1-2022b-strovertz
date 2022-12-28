@@ -1,0 +1,46 @@
+{
+  "name": "Adorne Brandais",
+  "username": "canal",
+  "email": "consist@fakemail.com",
+  "gender": "female",
+  "person_id": 160,
+  "birthdate": "1978-5-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "43024956000"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "148.120.220.154",
+      "GeoLoc": [
+        59.9004,
+        10.6301
+      ],
+      "Address": "Telenor, Snar\u00f8yveien, Fornebu, B\u00e6rum, Viken, 1366, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+14 193759584",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

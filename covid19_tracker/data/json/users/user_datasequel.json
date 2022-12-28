@@ -1,0 +1,46 @@
+{
+  "name": "Jashvant Shiv",
+  "username": "sequel",
+  "email": "treble@fakemail.com",
+  "gender": "male",
+  "person_id": 729,
+  "birthdate": "2000-11-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96112388944"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.52.192.238",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 116889343",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

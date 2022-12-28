@@ -1,0 +1,46 @@
+{
+  "name": "Kimberli Selva",
+  "username": "faker",
+  "email": "disrepute@fakemail.com",
+  "gender": "female",
+  "person_id": 499,
+  "birthdate": "1986-5-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37684905724"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "200.21.32.21",
+      "GeoLoc": [
+        4.69732,
+        -74.0697
+      ],
+      "Address": "Pir\u00e1mide de Telef\u00f3nica, Avenida Carrera 70, UPZs Localidad Suba, Localidad Suba, Bogot\u00e1, Bogot\u00e1 Distrito Capital - Municipio, 111121, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 166454586",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

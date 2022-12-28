@@ -1,0 +1,46 @@
+{
+  "name": "Carina Lindy",
+  "username": "shanan",
+  "email": "dodecahedron@fakemail.com",
+  "gender": "male",
+  "person_id": 788,
+  "birthdate": "1980-4-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50697114155"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "143.184.90.196",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+80 721646813",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

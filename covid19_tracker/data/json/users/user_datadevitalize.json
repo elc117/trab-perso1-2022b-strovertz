@@ -1,0 +1,46 @@
+{
+  "name": "Methi Jo-ann",
+  "username": "devitalize",
+  "email": "coley@fakemail.com",
+  "gender": "female",
+  "person_id": 211,
+  "birthdate": "1978-12-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "10242324924"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.93.242.207",
+      "GeoLoc": [
+        34.0028,
+        -84.5817
+      ],
+      "Address": "Roberts Boulevard Northwest, Cobb County, Georgia, 30144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+73 218730917",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

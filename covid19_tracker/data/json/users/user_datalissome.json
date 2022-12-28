@@ -1,0 +1,46 @@
+{
+  "name": "StClair Lane",
+  "username": "lissome",
+  "email": "rika@fakemail.com",
+  "gender": "female",
+  "person_id": 939,
+  "birthdate": "1978-3-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39457385632"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.78.58.96",
+      "GeoLoc": [
+        36.7576,
+        -119.8086
+      ],
+      "Address": "Palm Avenue Church of Christ, North Palm Avenue, Fresno, Fresno County, CAL Fire Southern Region, California, 93728, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 714096745",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

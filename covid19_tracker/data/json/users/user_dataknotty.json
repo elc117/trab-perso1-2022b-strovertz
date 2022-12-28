@@ -1,0 +1,46 @@
+{
+  "name": "Lei-See Olusola",
+  "username": "knotty",
+  "email": "mccloskey@fakemail.com",
+  "gender": "male",
+  "person_id": 723,
+  "birthdate": "1974-5-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96966915130"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "88.91.69.92",
+      "GeoLoc": [
+        59.5488,
+        9.2787
+      ],
+      "Address": "9, Gr\u00f8nligata, Tveiten, Notodden, Vestfold og Telemark, 3683, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+127 704000267",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

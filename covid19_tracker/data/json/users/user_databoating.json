@@ -1,0 +1,46 @@
+{
+  "name": "Bertine Loren",
+  "username": "boating",
+  "email": "cryology@fakemail.com",
+  "gender": "male",
+  "person_id": 902,
+  "birthdate": "1997-1-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51427020507"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "115.142.76.144",
+      "GeoLoc": [
+        35.1025,
+        129.0394
+      ],
+      "Address": "\uc5f0\uc548\uc5ec\uac1d\ud130\ubbf8\ub110, 24, \ucda9\uc7a5\ub300\ub85c, \ucd08\ub7c93\ub3d9, \uc911\uc559\ub3d9, \uc911\uad6c, \ubd80\uc0b0, 48936, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+83 919233832",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

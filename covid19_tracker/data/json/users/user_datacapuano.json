@@ -1,0 +1,46 @@
+{
+  "name": "Dwight Maribeth",
+  "username": "capuano",
+  "email": "saki@fakemail.com",
+  "gender": "female",
+  "person_id": 127,
+  "birthdate": "1991-1-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65261061962"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.177.42.177",
+      "GeoLoc": [
+        45.4173,
+        -75.7081
+      ],
+      "Address": "Shared Services Canada, 434, Queen Street, Centretown, Somerset, (Old) Ottawa, Ottawa, Eastern Ontario, Ontario, K1R 5A7, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+1 114521018",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

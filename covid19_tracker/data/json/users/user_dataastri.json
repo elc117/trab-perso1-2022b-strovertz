@@ -1,0 +1,46 @@
+{
+  "name": "Odette Tessi",
+  "username": "astri",
+  "email": "malikamalin@fakemail.com",
+  "gender": "female",
+  "person_id": 457,
+  "birthdate": "2003-3-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39076172749"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.240.164.238",
+      "GeoLoc": [
+        24.4753,
+        101.343
+      ],
+      "Address": "\u9537\u5609, \u53cc\u67cf\u53bf, \u695a\u96c4\u5f5d\u65cf\u81ea\u6cbb\u5dde, \u4e91\u5357\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 195356260",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

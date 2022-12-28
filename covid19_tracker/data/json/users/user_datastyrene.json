@@ -1,0 +1,46 @@
+{
+  "name": "Bin Bonnar",
+  "username": "styrene",
+  "email": "kare@fakemail.com",
+  "gender": "male",
+  "person_id": 870,
+  "birthdate": "1968-10-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70615735037"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "186.173.214.168",
+      "GeoLoc": [
+        -33.4513,
+        -70.6653
+      ],
+      "Address": "2149, Sazi\u00e9, Barrio Rep\u00fablica, Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 8370136, Chile",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 331968245",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

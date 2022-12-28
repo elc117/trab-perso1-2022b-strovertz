@@ -1,0 +1,46 @@
+{
+  "name": "Aloisia Fawn",
+  "username": "daphene",
+  "email": "runty@fakemail.com",
+  "gender": "female",
+  "person_id": 812,
+  "birthdate": "1998-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54420550856"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "153.204.67.239",
+      "GeoLoc": [
+        35.4643,
+        139.6262
+      ],
+      "Address": "\u65e5\u7523\u81ea\u52d5\u8eca\u30b0\u30ed\u30fc\u30d0\u30eb\u672c\u793e, 1, NISSAN\u30a6\u30a9\u30fc\u30af, \u9ad8\u5cf6, \u897f\u533a, \u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c, 220-8686, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+20 454530811",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

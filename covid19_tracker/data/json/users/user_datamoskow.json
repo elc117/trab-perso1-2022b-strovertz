@@ -1,0 +1,46 @@
+{
+  "name": "Bliss Carlis",
+  "username": "moskow",
+  "email": "suture@fakemail.com",
+  "gender": "male",
+  "person_id": 676,
+  "birthdate": "1968-3-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76719633996"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.66.190.217",
+      "GeoLoc": [
+        30.2926,
+        -97.8294
+      ],
+      "Address": "720, South Capital of Texas Highway, Austin, Travis County, Texas, 78746, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+172 664093273",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Nelleke Melony",
+  "username": "surgy",
+  "email": "lemoine@fakemail.com",
+  "gender": "female",
+  "person_id": 257,
+  "birthdate": "1964-4-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17210358501"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "195.73.29.141",
+      "GeoLoc": [
+        52.2455,
+        4.8256
+      ],
+      "Address": "Wiegerbruinlaan, Uithoorn, Noord-Holland, Nederland, 1422 DM, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+51 934499842",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

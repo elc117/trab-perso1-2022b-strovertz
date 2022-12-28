@@ -1,0 +1,46 @@
+{
+  "name": "Spence Carl",
+  "username": "arrowhead",
+  "email": "footpath@fakemail.com",
+  "gender": "female",
+  "person_id": 905,
+  "birthdate": "1971-2-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84915873811"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "169.106.59.203",
+      "GeoLoc": [
+        40.7085,
+        -74.0106
+      ],
+      "Address": "Equitable Building, 120, Broadway, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10003, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+119 118048724",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

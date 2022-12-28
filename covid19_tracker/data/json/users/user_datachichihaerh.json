@@ -1,0 +1,46 @@
+{
+  "name": "Wai-Man Shaji",
+  "username": "chichihaerh",
+  "email": "scutate@fakemail.com",
+  "gender": "male",
+  "person_id": 359,
+  "birthdate": "1973-5-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27803785140"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.183.145.234",
+      "GeoLoc": [
+        35.1177,
+        126.9087
+      ],
+      "Address": "\ud558\ub298\ub2e4\ub9ac, \ub0a8\uad6c, \uad11\uc8fc, 61710, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+54 493951882",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

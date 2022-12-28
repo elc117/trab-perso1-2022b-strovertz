@@ -1,0 +1,46 @@
+{
+  "name": "Nerita Isabell",
+  "username": "heartstricken",
+  "email": "nancinancie@fakemail.com",
+  "gender": "male",
+  "person_id": 50,
+  "birthdate": "1999-11-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66876439836"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "175.62.4.117",
+      "GeoLoc": [
+        39.8997,
+        116.334
+      ],
+      "Address": "\u4e2d\u56fd\u4eba\u6c11\u516c\u5b89\u5927\u5b66, \u6728\u6a28\u5730\u5357\u6ee8\u6cb3\u8def, \u6708\u575b\u8857\u9053, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+77 972540387",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

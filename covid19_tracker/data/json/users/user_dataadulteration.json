@@ -1,0 +1,46 @@
+{
+  "name": "Berton Larry",
+  "username": "adulteration",
+  "email": "omsk@fakemail.com",
+  "gender": "male",
+  "person_id": 632,
+  "birthdate": "1965-6-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "94941789555"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "61.196.240.49",
+      "GeoLoc": [
+        35.6916,
+        139.768
+      ],
+      "Address": "\u5185\u795e\u7530\u4e09\u4e01\u76ee, \u5185\u795e\u7530, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0035, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 427321000",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Ericka Sanjeet",
+  "username": "ferroconcrete",
+  "email": "stele@fakemail.com",
+  "gender": "male",
+  "person_id": 787,
+  "birthdate": "1991-11-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "57192130400"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "65.133.124.77",
+      "GeoLoc": [
+        40.7128,
+        -74.006
+      ],
+      "Address": "New York City Hall, 260, Broadway, Lower Manhattan, Manhattan Community Board 1, Manhattan, New York County, City of New York, New York, 10000, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+37 867383618",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

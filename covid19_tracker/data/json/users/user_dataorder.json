@@ -1,0 +1,46 @@
+{
+  "name": "Staci Carmelina",
+  "username": "order",
+  "email": "origin@fakemail.com",
+  "gender": "female",
+  "person_id": 865,
+  "birthdate": "1979-1-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56311247771"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "81.196.151.181",
+      "GeoLoc": [
+        46.7657,
+        23.5943
+      ],
+      "Address": "Cimitirul Central, Strada Zaharia B\u00e2rsan, Andrei Mure\u0219anu, Cluj-Napoca, Zona Metropolitan\u0103 Cluj, Cluj, 400193, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+114 653300826",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

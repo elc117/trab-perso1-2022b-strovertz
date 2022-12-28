@@ -1,0 +1,46 @@
+{
+  "name": "Ryann Luan",
+  "username": "pee",
+  "email": "keble@fakemail.com",
+  "gender": "female",
+  "person_id": 954,
+  "birthdate": "1984-7-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37112634296"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "98.115.161.86",
+      "GeoLoc": [
+        40.1215,
+        -75.3269
+      ],
+      "Address": "Hancock Elementary School, 1520, Arch Street, Norristown, Montgomery County, Pennsylvania, 19401, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+47 558379183",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

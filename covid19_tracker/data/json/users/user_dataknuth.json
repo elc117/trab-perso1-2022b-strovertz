@@ -1,0 +1,46 @@
+{
+  "name": "Gorde Dottie",
+  "username": "knuth",
+  "email": "dhaulagiri@fakemail.com",
+  "gender": "male",
+  "person_id": 595,
+  "birthdate": "2005-10-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47594267443"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "188.172.125.13",
+      "GeoLoc": [
+        50.0409,
+        8.2039
+      ],
+      "Address": "Schiersteiner Hafen, Christian-B\u00fccher-Stra\u00dfe, Wohnquartier Rheingau-Palais, Schierstein, Wiesbaden, Hessen, 65201, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+197 768251823",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

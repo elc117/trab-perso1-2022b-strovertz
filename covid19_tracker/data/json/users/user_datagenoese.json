@@ -1,0 +1,46 @@
+{
+  "name": "Milton Fikre",
+  "username": "genoese",
+  "email": "romney@fakemail.com",
+  "gender": "male",
+  "person_id": 405,
+  "birthdate": "1995-9-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30905757106"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "13.49.32.85",
+      "GeoLoc": [
+        59.3293,
+        18.0686
+      ],
+      "Address": "Gustav II Adolf, Gustav Adolfs Torg, Klara, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Stockholms kommun, Stockholms l\u00e4n, 103 21, Sverige",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 985128906",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

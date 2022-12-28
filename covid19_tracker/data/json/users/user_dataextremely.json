@@ -1,0 +1,46 @@
+{
+  "name": "Salina Missy",
+  "username": "extremely",
+  "email": "flaunt@fakemail.com",
+  "gender": "male",
+  "person_id": 430,
+  "birthdate": "1980-4-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18117699427"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "93.146.14.29",
+      "GeoLoc": [
+        45.7377,
+        9.651
+      ],
+      "Address": "Scuola MTB Sorisole - Petosino, Via dei Roccoli, Lacsolo, Azzonica, Sorisole, Bergamo, Lombardia, 24123, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+166 744951189",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

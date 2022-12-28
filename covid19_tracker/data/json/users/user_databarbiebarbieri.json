@@ -1,0 +1,46 @@
+{
+  "name": "Co-Op Aili",
+  "username": "barbiebarbieri",
+  "email": "vegetable@fakemail.com",
+  "gender": "male",
+  "person_id": 806,
+  "birthdate": "1992-10-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64899853904"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.94.51.138",
+      "GeoLoc": [
+        29.3782,
+        -81.6245
+      ],
+      "Address": "Putnam County, Florida, 32139, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+49 729329790",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Heddy Claudia",
+  "username": "historicism",
+  "email": "reluctivity@fakemail.com",
+  "gender": "female",
+  "person_id": 231,
+  "birthdate": "1995-11-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "15758285960"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "66.194.97.11",
+      "GeoLoc": [
+        27.9642,
+        -82.7966
+      ],
+      "Address": "Municipal Services Building, 100, South Myrtle Avenue, Clearwater, Pinellas County, Florida, 33756, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+132 614425456",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

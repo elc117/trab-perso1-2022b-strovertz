@@ -1,0 +1,46 @@
+{
+  "name": "Madella Avtar",
+  "username": "colum",
+  "email": "jilli@fakemail.com",
+  "gender": "female",
+  "person_id": 380,
+  "birthdate": "1988-9-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02079450557"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.97.13.16",
+      "GeoLoc": [
+        33.6173,
+        -111.905
+      ],
+      "Address": "8156, East Evans Road, Scottsdale, Maricopa County, Arizona, 85260, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 419800328",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

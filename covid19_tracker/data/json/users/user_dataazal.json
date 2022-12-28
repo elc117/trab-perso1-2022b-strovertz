@@ -1,0 +1,46 @@
+{
+  "name": "Marlena Joela",
+  "username": "azal",
+  "email": "mazdaism@fakemail.com",
+  "gender": "male",
+  "person_id": 769,
+  "birthdate": "1969-7-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "43491726700"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.162.42.249",
+      "GeoLoc": [
+        39.7709,
+        -86.1585
+      ],
+      "Address": "AT&T Building, 220, North Meridian Street, Indianapolis, Marion, Indiana, 46204, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+144 552692538",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

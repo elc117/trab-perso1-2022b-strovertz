@@ -1,0 +1,46 @@
+{
+  "name": "Vmchange Shanie",
+  "username": "irritable",
+  "email": "sherrilsherrill@fakemail.com",
+  "gender": "male",
+  "person_id": 465,
+  "birthdate": "1971-4-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96477855186"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.175.239.153",
+      "GeoLoc": [
+        33.8982,
+        -84.2833
+      ],
+      "Address": "83628, Shallowford Road Northeast, Doraville, DeKalb County, Georgia, 30341, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 174582260",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

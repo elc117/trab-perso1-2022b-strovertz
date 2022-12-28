@@ -1,0 +1,46 @@
+{
+  "name": "Vu Pippy",
+  "username": "goring",
+  "email": "prong@fakemail.com",
+  "gender": "male",
+  "person_id": 229,
+  "birthdate": "1987-5-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80153256095"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "59.16.71.212",
+      "GeoLoc": [
+        37.4585,
+        126.7015
+      ],
+      "Address": "\uac04\uc11d1\ub3d9, \uac04\uc11d\ub3d9, \ub0a8\ub3d9\uad6c, \uc778\ucc9c, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+90 232576947",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

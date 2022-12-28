@@ -1,0 +1,46 @@
+{
+  "name": "Nataly Gurvinder",
+  "username": "mayberry",
+  "email": "introduce@fakemail.com",
+  "gender": "male",
+  "person_id": 357,
+  "birthdate": "1981-9-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "34847550595"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.215.198.92",
+      "GeoLoc": [
+        53.3498,
+        -6.26031
+      ],
+      "Address": "Spire of Dublin, O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 P5P5, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+18 486877481",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

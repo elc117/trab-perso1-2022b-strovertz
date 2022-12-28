@@ -1,0 +1,46 @@
+{
+  "name": "Brandais Corrianne",
+  "username": "electrodeposit",
+  "email": "quixote@fakemail.com",
+  "gender": "male",
+  "person_id": 59,
+  "birthdate": "1989-10-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "99723545802"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "143.197.97.176",
+      "GeoLoc": [
+        34.0495,
+        -117.264
+      ],
+      "Address": "Loma Linda University, Campus Street, Loma Linda, CAL Fire San Bernardino Unit, CAL Fire Southern Region, California, 92350, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+135 512339021",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

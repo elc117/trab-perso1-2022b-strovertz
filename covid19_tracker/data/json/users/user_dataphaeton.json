@@ -1,0 +1,46 @@
+{
+  "name": "Manuel Nawa",
+  "username": "phaeton",
+  "email": "bacolod@fakemail.com",
+  "gender": "male",
+  "person_id": 697,
+  "birthdate": "1991-3-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27600983117"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "115.43.253.124",
+      "GeoLoc": [
+        22.6148,
+        120.3139
+      ],
+      "Address": "\u6c11\u6b0a\u4e8c\u8def, \u8208\u4e2d\u91cc, \u524d\u93ae\u5340, \u9ad8\u96c4\u5e02, 806, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 499166090",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

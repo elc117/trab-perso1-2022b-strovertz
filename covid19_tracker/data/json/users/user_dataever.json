@@ -1,0 +1,46 @@
+{
+  "name": "Bertine Dominique",
+  "username": "ever",
+  "email": "homogeneous@fakemail.com",
+  "gender": "male",
+  "person_id": 473,
+  "birthdate": "1994-2-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24286415066"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "197.20.155.184",
+      "GeoLoc": [
+        35.5739,
+        8.6637
+      ],
+      "Address": "\u062a\u0627\u0644\u0629, \u062a\u0627\u0644\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629, \u0645\u0639\u062a\u0645\u062f\u064a\u0629 \u062a\u0627\u0644\u0629, \u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u0642\u0635\u0631\u064a\u0646, 1210, \u062a\u0648\u0646\u0633",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+126 508482989",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

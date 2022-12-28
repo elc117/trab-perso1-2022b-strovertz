@@ -1,0 +1,46 @@
+{
+  "name": "Norry Nancie",
+  "username": "discolor",
+  "email": "pothouse@fakemail.com",
+  "gender": "male",
+  "person_id": 754,
+  "birthdate": "1979-2-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30930994043"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "108.219.36.103",
+      "GeoLoc": [
+        38.1308,
+        -121.3345
+      ],
+      "Address": "16555, North Davis Road, San Joaquin County, California, 95242, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+193 289456219",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

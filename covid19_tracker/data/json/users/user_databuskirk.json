@@ -1,0 +1,46 @@
+{
+  "name": "Afif Tai",
+  "username": "buskirk",
+  "email": "cronus@fakemail.com",
+  "gender": "male",
+  "person_id": 218,
+  "birthdate": "1987-11-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46390416245"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "88.174.13.198",
+      "GeoLoc": [
+        48.0409,
+        -1.70729
+      ],
+      "Address": "Chartres-de-Bretagne, Rue de Bourgogne, Le Patis Cholet, Chartres-de-Bretagne, Rennes, Ille-et-Vilaine, Bretagne, France m\u00e9tropolitaine, 35131, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+121 221731891",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

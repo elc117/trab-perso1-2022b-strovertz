@@ -1,0 +1,46 @@
+{
+  "name": "Hareton Avis",
+  "username": "cerebellum",
+  "email": "titre@fakemail.com",
+  "gender": "male",
+  "person_id": 208,
+  "birthdate": "1991-4-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "21263513190"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "33.72.175.208",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+114 443297452",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

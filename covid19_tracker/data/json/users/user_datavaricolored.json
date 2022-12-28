@@ -1,0 +1,46 @@
+{
+  "name": "Mae Carol",
+  "username": "varicolored",
+  "email": "wolfe@fakemail.com",
+  "gender": "female",
+  "person_id": 560,
+  "birthdate": "2003-7-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64670204211"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "55.49.135.118",
+      "GeoLoc": [
+        31.5552,
+        -110.35
+      ],
+      "Address": "199, Compton Street, West Pershing Plaza, Sierra Vista, Cochise County, Arizona, 85613, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+60 219937436",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

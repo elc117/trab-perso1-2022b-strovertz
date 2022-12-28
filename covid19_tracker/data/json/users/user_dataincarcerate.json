@@ -1,0 +1,46 @@
+{
+  "name": "Cristian Hengameh",
+  "username": "incarcerate",
+  "email": "housecoat@fakemail.com",
+  "gender": "male",
+  "person_id": 701,
+  "birthdate": "2003-3-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30019446845"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.18.119.83",
+      "GeoLoc": [
+        51.3235,
+        12.4266
+      ],
+      "Address": "Spechtweg, KGV \"Am Walde e.V.\", St\u00f6tteritz, S\u00fcdost, Leipzig, Sachsen, 04299, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+40 893971685",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

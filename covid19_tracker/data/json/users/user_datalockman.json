@@ -1,0 +1,46 @@
+{
+  "name": "Sherye Collen",
+  "username": "lockman",
+  "email": "psychophysiology@fakemail.com",
+  "gender": "male",
+  "person_id": 796,
+  "birthdate": "1986-5-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64238335759"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.150.150.91",
+      "GeoLoc": [
+        38.9071,
+        -77.0368
+      ],
+      "Address": "Scott Circle Northwest, Washington, District of Columbia, 20036, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+198 940111438",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

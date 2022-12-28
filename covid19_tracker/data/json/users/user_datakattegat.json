@@ -1,0 +1,46 @@
+{
+  "name": "Hesther Shekhar",
+  "username": "kattegat",
+  "email": "technique@fakemail.com",
+  "gender": "male",
+  "person_id": 142,
+  "birthdate": "2003-1-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36651121332"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "197.191.154.102",
+      "GeoLoc": [
+        5.56998,
+        -0.197581
+      ],
+      "Address": "Alisa Hotel, Dr. Isert Street, North Ridge, Kokomlemle, Accra, Korle-Klottey Municipal District, Greater Accra Region, GA-222-2148, Ghana",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 993303430",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

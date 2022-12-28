@@ -1,0 +1,46 @@
+{
+  "name": "Franka Padriac",
+  "username": "semipalmate",
+  "email": "associate@fakemail.com",
+  "gender": "female",
+  "person_id": 376,
+  "birthdate": "1984-10-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "88768246269"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "24.130.74.53",
+      "GeoLoc": [
+        38.2901,
+        -122.2828
+      ],
+      "Address": "324, Riverside Drive, Napa Abajo, Napa, Napa County, California, 94559, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+166 727588137",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

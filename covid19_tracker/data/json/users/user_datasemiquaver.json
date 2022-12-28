@@ -1,0 +1,46 @@
+{
+  "name": "Mariele Fredia",
+  "username": "semiquaver",
+  "email": "maje@fakemail.com",
+  "gender": "female",
+  "person_id": 854,
+  "birthdate": "1981-11-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26639586037"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.80.56.29",
+      "GeoLoc": [
+        39.9288,
+        116.3889
+      ],
+      "Address": "\u897f\u57ce\u533a\u4ec0\u5239\u6d77\u5c0f\u5b66\u5206\u6821, \u7c73\u7cae\u5e93\u80e1\u540c, \u4ec0\u5239\u6d77, \u4ec0\u5239\u6d77\u8857\u9053, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+117 938526124",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

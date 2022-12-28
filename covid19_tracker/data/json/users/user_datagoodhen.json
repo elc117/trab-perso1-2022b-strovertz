@@ -1,0 +1,46 @@
+{
+  "name": "Yuji Micah",
+  "username": "goodhen",
+  "email": "cary@fakemail.com",
+  "gender": "female",
+  "person_id": 214,
+  "birthdate": "1996-6-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70889057958"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "93.146.14.29",
+      "GeoLoc": [
+        45.7377,
+        9.651
+      ],
+      "Address": "Scuola MTB Sorisole - Petosino, Via dei Roccoli, Lacsolo, Azzonica, Sorisole, Bergamo, Lombardia, 24123, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+66 155848016",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

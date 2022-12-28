@@ -1,0 +1,46 @@
+{
+  "name": "Zainab Roly",
+  "username": "roan",
+  "email": "karoline@fakemail.com",
+  "gender": "female",
+  "person_id": 103,
+  "birthdate": "1992-12-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64671255332"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "59.184.4.152",
+      "GeoLoc": [
+        19.076,
+        72.8777
+      ],
+      "Address": "Santa Cruz \u2013 Chembur Link Road, Hallow Pul, L Ward, Zone 5, Mumbai, Mumbai Metropolitan Region, Mumbai Suburban, Maharashtra, 400070, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+75 769529788",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

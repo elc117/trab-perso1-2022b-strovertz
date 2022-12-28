@@ -1,0 +1,46 @@
+{
+  "name": "Jimson Andria",
+  "username": "horal",
+  "email": "equinoctial@fakemail.com",
+  "gender": "female",
+  "person_id": 945,
+  "birthdate": "2001-4-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37994856004"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "3.52.161.15",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+51 669253817",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

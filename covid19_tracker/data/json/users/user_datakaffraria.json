@@ -1,0 +1,46 @@
+{
+  "name": "Delcina Marriet",
+  "username": "kaffraria",
+  "email": "feasible@fakemail.com",
+  "gender": "male",
+  "person_id": 934,
+  "birthdate": "1999-2-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40865989060"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.93.242.207",
+      "GeoLoc": [
+        34.0028,
+        -84.5817
+      ],
+      "Address": "Roberts Boulevard Northwest, Cobb County, Georgia, 30144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+62 429816195",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sergei Sameh",
+  "username": "apoenzyme",
+  "email": "jolynjolynn@fakemail.com",
+  "gender": "male",
+  "person_id": 602,
+  "birthdate": "1983-7-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68837914695"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "33.228.145.153",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 653486602",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

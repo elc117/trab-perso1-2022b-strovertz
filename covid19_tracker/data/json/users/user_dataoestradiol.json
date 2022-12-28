@@ -1,0 +1,46 @@
+{
+  "name": "Hesther Florida",
+  "username": "oestradiol",
+  "email": "struggle@fakemail.com",
+  "gender": "male",
+  "person_id": 798,
+  "birthdate": "1978-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01622396294"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.59.239.239",
+      "GeoLoc": [
+        -1.25909,
+        36.7858
+      ],
+      "Address": "Safaricom House, Waiyaki Way, Westlands, Nairobi, 97104, Kenya",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+109 338770299",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Marg Deepak",
+  "username": "infusible",
+  "email": "folklore@fakemail.com",
+  "gender": "female",
+  "person_id": 98,
+  "birthdate": "1983-8-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73020632064"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "174.229.54.83",
+      "GeoLoc": [
+        40.7357,
+        -74.1724
+      ],
+      "Address": "171, Market Street, Teachers Village, Newark, Essex County, New Jersey, 07102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+129 278348614",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

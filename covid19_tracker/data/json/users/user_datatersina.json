@@ -1,0 +1,46 @@
+{
+  "name": "Andre Lyman",
+  "username": "tersina",
+  "email": "fungistat@fakemail.com",
+  "gender": "female",
+  "person_id": 480,
+  "birthdate": "1995-5-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11052953972"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "163.21.135.161",
+      "GeoLoc": [
+        25.0504,
+        121.5324
+      ],
+      "Address": "\u5c48\u539f\u50cf, \u677e\u6c5f\u8def90\u5df7, \u8208\u4e9e\u91cc, \u4e2d\u5c71\u5340, \u6731\u539d\u5d19, \u81fa\u5317\u5e02, 10456, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 839064698",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

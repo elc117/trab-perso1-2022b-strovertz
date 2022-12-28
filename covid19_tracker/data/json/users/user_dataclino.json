@@ -1,0 +1,46 @@
+{
+  "name": "Nicolas Roberto",
+  "username": "clino",
+  "email": "radicle@fakemail.com",
+  "gender": "female",
+  "person_id": 273,
+  "birthdate": "2005-7-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31329327284"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "213.244.14.163",
+      "GeoLoc": [
+        48.9119,
+        2.2875
+      ],
+      "Address": "Rue Mauriceau, Centre-Ville, Asni\u00e8res-sur-Seine, Arrondissement de Nanterre, Hauts-de-Seine, \u00cele-de-France, France m\u00e9tropolitaine, 92600, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+56 511467013",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

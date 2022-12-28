@@ -1,0 +1,46 @@
+{
+  "name": "Eduardo Elana",
+  "username": "hypochondrium",
+  "email": "prevail@fakemail.com",
+  "gender": "male",
+  "person_id": 664,
+  "birthdate": "1983-11-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76940024689"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "44.149.1.181",
+      "GeoLoc": [
+        40.0084,
+        -75.1935
+      ],
+      "Address": "A Plus, Ridge Avenue, East Falls, Philadelphia, Philadelphia County, Pennsylvania, 19129, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+108 996790937",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

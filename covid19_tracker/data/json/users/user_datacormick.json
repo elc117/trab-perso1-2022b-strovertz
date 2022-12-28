@@ -1,0 +1,46 @@
+{
+  "name": "Georganne Lennart",
+  "username": "cormick",
+  "email": "homosporous@fakemail.com",
+  "gender": "male",
+  "person_id": 115,
+  "birthdate": "1998-5-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39071969886"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "21.228.191.170",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+179 117414670",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

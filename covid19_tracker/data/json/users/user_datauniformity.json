@@ -1,0 +1,46 @@
+{
+  "name": "Jonie Bep",
+  "username": "uniformity",
+  "email": "cerebral@fakemail.com",
+  "gender": "male",
+  "person_id": 713,
+  "birthdate": "1965-6-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "00223129003"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "222.65.95.114",
+      "GeoLoc": [
+        31.2222,
+        121.4581
+      ],
+      "Address": "\u4e0a\u6d77\u5e02\u5411\u660e\u4e2d\u5b66, \u745e\u91d1\u4e00\u8def, \u745e\u91d1\u4e8c\u8def\u8857\u9053, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200003, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+186 267373481",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

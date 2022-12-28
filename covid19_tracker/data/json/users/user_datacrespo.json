@@ -1,0 +1,46 @@
+{
+  "name": "Jake Rolande",
+  "username": "crespo",
+  "email": "annadiana@fakemail.com",
+  "gender": "female",
+  "person_id": 673,
+  "birthdate": "1966-7-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "71692343785"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.16.219.248",
+      "GeoLoc": [
+        42.6761,
+        -73.6946
+      ],
+      "Address": "Tech Valley Entrepreneur Center, South Trail (Red), Rensselaer Technology Park, Town of North Greenbush, Rensselaer County, New York, 12180, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+17 216930920",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Alese Linea",
+  "username": "yettie",
+  "email": "vantage@fakemail.com",
+  "gender": "male",
+  "person_id": 786,
+  "birthdate": "1975-2-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61483833496"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "215.77.205.3",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+62 487181435",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Thor Danika",
+  "username": "northwards",
+  "email": "borroff@fakemail.com",
+  "gender": "male",
+  "person_id": 920,
+  "birthdate": "1982-2-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "65807604512"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "100.133.82.58",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 885366186",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

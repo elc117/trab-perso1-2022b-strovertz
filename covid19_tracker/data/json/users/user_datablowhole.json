@@ -1,0 +1,46 @@
+{
+  "name": "Nuntel Prudence",
+  "username": "blowhole",
+  "email": "arresting@fakemail.com",
+  "gender": "female",
+  "person_id": 198,
+  "birthdate": "1967-1-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49173911720"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.79.110.123",
+      "GeoLoc": [
+        40.5603,
+        -105.081
+      ],
+      "Address": "Natural Resources Research Center B, Spring Creek Overpass, Fort Collins, Larimer County, Colorado, 80523, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+33 368429872",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

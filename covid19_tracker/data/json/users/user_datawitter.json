@@ -1,0 +1,46 @@
+{
+  "name": "Marina Marge",
+  "username": "witter",
+  "email": "dulse@fakemail.com",
+  "gender": "male",
+  "person_id": 228,
+  "birthdate": "1979-4-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38819601478"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "107.230.234.154",
+      "GeoLoc": [
+        33.749,
+        -84.388
+      ],
+      "Address": "The Georgia State Capitol, 206, Washington Street Southwest, South Downtown, Atlanta, Fulton County, Georgia, 30334, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+19 624947748",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

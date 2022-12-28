@@ -1,0 +1,46 @@
+{
+  "name": "Ericka Tele",
+  "username": "kutaisi",
+  "email": "colombo@fakemail.com",
+  "gender": "male",
+  "person_id": 580,
+  "birthdate": "1986-12-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73647763209"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "92.189.227.222",
+      "GeoLoc": [
+        41.5453,
+        2.4414
+      ],
+      "Address": "Passeig d'Enric Torra i P\u00f2rtulas, els Molins, Matar\u00f3, Maresme, Barcelona, Catalunya, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+183 470163562",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

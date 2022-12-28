@@ -1,0 +1,46 @@
+{
+  "name": "Lyse Rahal",
+  "username": "trahern",
+  "email": "anus@fakemail.com",
+  "gender": "male",
+  "person_id": 24,
+  "birthdate": "1987-12-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "99702554870"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.122.230.9",
+      "GeoLoc": [
+        10.4966,
+        -66.8724
+      ],
+      "Address": "PDVSA La Campi\u00f1a, Avenida Libertador, Las Delicias, La Campi\u00f1a, Caracas, Parroquia El Recreo, Municipio Libertador, Distrito Capital, 1050, Venezuela",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+190 471626022",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

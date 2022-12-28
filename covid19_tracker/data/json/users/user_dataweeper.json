@@ -1,0 +1,46 @@
+{
+  "name": "Curtis Josephine",
+  "username": "weeper",
+  "email": "tychonn@fakemail.com",
+  "gender": "male",
+  "person_id": 989,
+  "birthdate": "1961-3-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31665698802"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "132.6.186.184",
+      "GeoLoc": [
+        32.4033,
+        -86.2383
+      ],
+      "Address": "East Moore Drive, Timbers, Montgomery, Montgomery County, Alabama, 36115, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+40 643246628",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

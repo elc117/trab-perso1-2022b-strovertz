@@ -1,0 +1,46 @@
+{
+  "name": "Hallie Shinichi",
+  "username": "feme",
+  "email": "strachan@fakemail.com",
+  "gender": "female",
+  "person_id": 667,
+  "birthdate": "1974-1-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "88814670706"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "113.251.163.222",
+      "GeoLoc": [
+        29.5689,
+        106.5577
+      ],
+      "Address": "\u5609\u9675\u6c5f\u6ee8\u6c5f\u8def, \u5927\u6eaa\u6c9f\u8857\u9053, \u6e1d\u4e2d\u533a, \u91cd\u5e86\u5e02\u4e3b\u57ce\u90fd\u5e02\u533a, \u91cd\u5e86\u5e02, 400000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+48 824054129",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

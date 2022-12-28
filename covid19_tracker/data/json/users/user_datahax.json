@@ -1,0 +1,46 @@
+{
+  "name": "Linet Shoshanna",
+  "username": "hax",
+  "email": "lodicule@fakemail.com",
+  "gender": "male",
+  "person_id": 659,
+  "birthdate": "1960-3-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91513657151"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.113.112.96",
+      "GeoLoc": [
+        37.3322,
+        -122.011
+      ],
+      "Address": "Apple Park, 1, Apple Park Way, Cupertino, Santa Clara County, California, 94087, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+98 771968553",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Micki Bessie",
+  "username": "tarpley",
+  "email": "quadrillion@fakemail.com",
+  "gender": "female",
+  "person_id": 41,
+  "birthdate": "1992-7-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "16375075262"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "9.18.66.177",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+63 474565862",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

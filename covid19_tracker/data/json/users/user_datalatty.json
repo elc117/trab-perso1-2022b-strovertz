@@ -1,0 +1,46 @@
+{
+  "name": "Cheri Renate",
+  "username": "latty",
+  "email": "sancho@fakemail.com",
+  "gender": "female",
+  "person_id": 896,
+  "birthdate": "1976-8-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68541006310"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "175.31.7.191",
+      "GeoLoc": [
+        43.152,
+        126.437
+      ],
+      "Address": "\u6866\u7538\u5e02, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 759417641",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Shivdarsan Joby",
+  "username": "stackhouse",
+  "email": "appreciation@fakemail.com",
+  "gender": "female",
+  "person_id": 26,
+  "birthdate": "1970-12-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81772417963"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "202.241.38.149",
+      "GeoLoc": [
+        34.372,
+        135.3098
+      ],
+      "Address": "\u514e\u7530, \u6cc9\u5357\u5e02, \u5927\u962a\u5e9c, 590-0505, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+46 773090482",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

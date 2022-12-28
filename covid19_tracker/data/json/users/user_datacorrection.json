@@ -1,0 +1,46 @@
+{
+  "name": "Phuoc Jud",
+  "username": "correction",
+  "email": "iceblink@fakemail.com",
+  "gender": "female",
+  "person_id": 730,
+  "birthdate": "1966-1-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48641856382"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.19.225.180",
+      "GeoLoc": [
+        -20.2451,
+        57.4917
+      ],
+      "Address": "\u00c9b\u00e8ne CyberTower 1, Ebene City Boulevard, \u00c9b\u00e8ne Cybercity, Eb\u00e8ne Cybercity, Quatre Bornes, Plaines Wilhems, Outer islands of Mauritius, 72201, Mauritius / Maurice",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+151 743431413",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

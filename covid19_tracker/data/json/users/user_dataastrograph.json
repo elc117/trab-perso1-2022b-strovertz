@@ -1,0 +1,46 @@
+{
+  "name": "Sybille Dennie",
+  "username": "astrograph",
+  "email": "lutero@fakemail.com",
+  "gender": "female",
+  "person_id": 1,
+  "birthdate": "1992-6-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81105904466"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "144.134.255.88",
+      "GeoLoc": [
+        -27.4705,
+        153.026
+      ],
+      "Address": "Hato Gyoza & Grill, CityLink Cycleway, Brisbane City, Greater Brisbane, Queensland, 4001, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+15 536168200",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

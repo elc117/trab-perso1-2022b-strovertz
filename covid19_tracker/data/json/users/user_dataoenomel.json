@@ -1,0 +1,46 @@
+{
+  "name": "Faz Wrennie",
+  "username": "oenomel",
+  "email": "cretonne@fakemail.com",
+  "gender": "female",
+  "person_id": 467,
+  "birthdate": "1978-12-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83326009526"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "114.151.180.165",
+      "GeoLoc": [
+        34.3927,
+        132.4501
+      ],
+      "Address": "\u5e83\u5cf6\u4e8c\u4e2d\u539f\u7206\u6170\u970a\u7891, \u5e73\u548c\u5927\u901a\u308a, \u4e2d\u5cf6\u753a, \u4e2d\u533a, \u5e83\u5cf6\u5e02, \u5e83\u5cf6\u770c, 730-0811, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+38 717114137",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

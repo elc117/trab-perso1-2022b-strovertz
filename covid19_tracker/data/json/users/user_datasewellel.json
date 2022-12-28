@@ -1,0 +1,46 @@
+{
+  "name": "Adda Vickie",
+  "username": "sewellel",
+  "email": "sampson@fakemail.com",
+  "gender": "male",
+  "person_id": 81,
+  "birthdate": "1994-2-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "98637586201"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "191.73.92.68",
+      "GeoLoc": [
+        11.2399,
+        -74.1951
+      ],
+      "Address": "Estadio Eduardo Santos, Calle 18, Localidad 2 Hist\u00f3rica - Rodrigo de Bastidas, Per\u00edmetro Urbano Santa Marta, Santa Marta, Magdalena, 470003, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 231909448",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

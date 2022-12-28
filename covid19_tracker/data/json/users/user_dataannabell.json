@@ -1,0 +1,46 @@
+{
+  "name": "Mustapha Lorry",
+  "username": "annabell",
+  "email": "holpen@fakemail.com",
+  "gender": "female",
+  "person_id": 324,
+  "birthdate": "1993-7-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "85478967165"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "144.134.255.88",
+      "GeoLoc": [
+        -27.4705,
+        153.026
+      ],
+      "Address": "Hato Gyoza & Grill, CityLink Cycleway, Brisbane City, Greater Brisbane, Queensland, 4001, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 603172579",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

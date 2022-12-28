@@ -1,0 +1,46 @@
+{
+  "name": "Wylo Ha",
+  "username": "macfarlane",
+  "email": "osvaldooswal@fakemail.com",
+  "gender": "female",
+  "person_id": 613,
+  "birthdate": "2002-11-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "10562290044"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "179.128.14.141",
+      "GeoLoc": [
+        -22.4907,
+        -44.1914
+      ],
+      "Address": "Barra Mansa, Regi\u00e3o Geogr\u00e1fica Imediata de Volta Redonda-Barra Mansa, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Volta Redonda-Barra Mansa, Rio de Janeiro, Regi\u00e3o Sudeste, 27351-040, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+41 927141160",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

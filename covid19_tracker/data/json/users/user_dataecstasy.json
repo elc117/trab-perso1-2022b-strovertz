@@ -1,0 +1,46 @@
+{
+  "name": "Geir Rocco",
+  "username": "ecstasy",
+  "email": "methylene@fakemail.com",
+  "gender": "male",
+  "person_id": 19,
+  "birthdate": "1965-7-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46206790118"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "101.4.43.129",
+      "GeoLoc": [
+        40.0241,
+        116.318
+      ],
+      "Address": "\u5317\u4e94\u73af, \u4eac\u65b0\u9ad8\u901f, \u897f\u6d3c\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100085, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+124 373614673",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

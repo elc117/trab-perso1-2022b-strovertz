@@ -1,0 +1,46 @@
+{
+  "name": "Chok Eugenie",
+  "username": "darcidarcia",
+  "email": "ulcer@fakemail.com",
+  "gender": "female",
+  "person_id": 164,
+  "birthdate": "2005-2-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "95775201469"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.86.153.33",
+      "GeoLoc": [
+        43.2908,
+        -2.1703
+      ],
+      "Address": "Malekoia pasealekua, Mendilauta, Zarautz, Urola-Kosta, Gipuzkoa, Euskadi, 20800, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+175 262716353",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

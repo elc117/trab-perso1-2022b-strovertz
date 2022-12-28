@@ -1,0 +1,46 @@
+{
+  "name": "Tarah Sohale",
+  "username": "frans",
+  "email": "chefoo@fakemail.com",
+  "gender": "male",
+  "person_id": 53,
+  "birthdate": "1976-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "59417655680"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "9.18.66.177",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 216965357",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

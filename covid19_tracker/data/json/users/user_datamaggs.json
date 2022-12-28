@@ -1,0 +1,46 @@
+{
+  "name": "Wendi Sherilyn",
+  "username": "maggs",
+  "email": "plataea@fakemail.com",
+  "gender": "male",
+  "person_id": 310,
+  "birthdate": "1981-9-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "10670406090"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "188.22.120.77",
+      "GeoLoc": [
+        48.6621,
+        15.6521
+      ],
+      "Address": "31, Prager Stra\u00dfe, Gemeinde Horn, Bezirk Horn, Nieder\u00f6sterreich, 3580, \u00d6sterreich",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+131 400152877",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

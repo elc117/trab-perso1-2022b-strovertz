@@ -1,0 +1,46 @@
+{
+  "name": "Donn Gerladina",
+  "username": "mich",
+  "email": "ogdan@fakemail.com",
+  "gender": "male",
+  "person_id": 699,
+  "birthdate": "1969-11-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24209174645"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "89.55.129.27",
+      "GeoLoc": [
+        53.6014,
+        9.98874
+      ],
+      "Address": "Kita, 4a, Deelb\u00f6genkamp, Alsterdorf, Hamburg-Nord, Hamburg, 22297, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+5 125885542",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

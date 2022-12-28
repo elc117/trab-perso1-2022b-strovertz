@@ -1,0 +1,46 @@
+{
+  "name": "Georgianna Anne-marie",
+  "username": "lais",
+  "email": "pulque@fakemail.com",
+  "gender": "male",
+  "person_id": 737,
+  "birthdate": "1995-4-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80347287727"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "91.114.189.220",
+      "GeoLoc": [
+        47.8044,
+        16.2489
+      ],
+      "Address": "Kinskyallee, Wiener Neustadt, Nieder\u00f6sterreich, 2700, \u00d6sterreich",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+131 914716662",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

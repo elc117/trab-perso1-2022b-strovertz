@@ -1,0 +1,46 @@
+{
+  "name": "Duryonna Finance",
+  "username": "penetralia",
+  "email": "appel@fakemail.com",
+  "gender": "male",
+  "person_id": 91,
+  "birthdate": "1988-2-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55918227890"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "54.231.188.71",
+      "GeoLoc": [
+        39.0438,
+        -77.4874
+      ],
+      "Address": "Carolina Brothers BBQ, 20702, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 707535429",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

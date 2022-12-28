@@ -1,0 +1,46 @@
+{
+  "name": "Zoe Seyfollah",
+  "username": "pontius",
+  "email": "snelling@fakemail.com",
+  "gender": "male",
+  "person_id": 448,
+  "birthdate": "1962-12-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70288304462"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "18.25.113.90",
+      "GeoLoc": [
+        42.3649,
+        -71.0987
+      ],
+      "Address": "47, Pine Street, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+31 126194783",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

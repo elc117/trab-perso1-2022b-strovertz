@@ -1,0 +1,46 @@
+{
+  "name": "Mathilde Lope",
+  "username": "celka",
+  "email": "parallelism@fakemail.com",
+  "gender": "female",
+  "person_id": 262,
+  "birthdate": "1979-4-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30599219890"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "90.203.9.211",
+      "GeoLoc": [
+        52.3907,
+        -1.2911
+      ],
+      "Address": "Little Lawford Lane, Little Lawford CP, Newbold on Avon, Rugby, Warwickshire, England, CV21 1JA, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+131 718020050",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

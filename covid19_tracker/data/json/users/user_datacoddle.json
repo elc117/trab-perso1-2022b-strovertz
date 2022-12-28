@@ -1,0 +1,46 @@
+{
+  "name": "Arabel Lynelle",
+  "username": "coddle",
+  "email": "forbear@fakemail.com",
+  "gender": "male",
+  "person_id": 988,
+  "birthdate": "2001-2-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "87955190505"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "139.185.140.169",
+      "GeoLoc": [
+        40.7608,
+        -111.891
+      ],
+      "Address": "Array Salon, South Main Street, Salt Lake City, Salt Lake County, Utah, 84101, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+93 480384059",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

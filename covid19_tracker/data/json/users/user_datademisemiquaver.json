@@ -1,0 +1,46 @@
+{
+  "name": "Peach Gloriane",
+  "username": "demisemiquaver",
+  "email": "rutter@fakemail.com",
+  "gender": "male",
+  "person_id": 450,
+  "birthdate": "1980-6-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "42531915508"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "67.243.135.207",
+      "GeoLoc": [
+        40.8,
+        -73.9763
+      ],
+      "Address": "Cherry Walk, Bloomingdale, Manhattan, New York County, City of New York, New York, 10115, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+148 908639115",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

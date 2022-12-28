@@ -1,0 +1,46 @@
+{
+  "name": "Long Maria",
+  "username": "toulouse",
+  "email": "scopas@fakemail.com",
+  "gender": "male",
+  "person_id": 649,
+  "birthdate": "1974-2-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81011098628"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "221.249.69.123",
+      "GeoLoc": [
+        35.5364,
+        139.5188
+      ],
+      "Address": "\u6885\u304c\u4e18, \u9752\u8449\u533a, \u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c, 231-0017, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+125 775313513",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

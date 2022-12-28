@@ -1,0 +1,46 @@
+{
+  "name": "Tracee Colman",
+  "username": "firer",
+  "email": "mitra@fakemail.com",
+  "gender": "female",
+  "person_id": 38,
+  "birthdate": "1978-10-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77446506385"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "43.253.226.12",
+      "GeoLoc": [
+        35.6838,
+        139.739
+      ],
+      "Address": "KDX\u9eb9\u753a\u30d3\u30eb, \u8c9d\u5742\u901a\u308a, \u9eb9\u753a\u4e09\u4e01\u76ee, \u9eb9\u753a, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0083, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+135 454016011",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

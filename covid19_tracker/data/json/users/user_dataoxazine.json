@@ -1,0 +1,46 @@
+{
+  "name": "Gale Breena",
+  "username": "oxazine",
+  "email": "scrogan@fakemail.com",
+  "gender": "male",
+  "person_id": 508,
+  "birthdate": "1973-7-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "37221758603"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.240.185.211",
+      "GeoLoc": [
+        53.3498,
+        -6.26031
+      ],
+      "Address": "Spire of Dublin, O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 P5P5, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+134 933001741",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

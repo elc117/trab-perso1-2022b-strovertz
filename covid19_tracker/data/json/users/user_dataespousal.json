@@ -1,0 +1,46 @@
+{
+  "name": "Maurijn Ernie",
+  "username": "espousal",
+  "email": "council@fakemail.com",
+  "gender": "male",
+  "person_id": 537,
+  "birthdate": "1976-5-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31400916992"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "96.155.192.68",
+      "GeoLoc": [
+        37.3688,
+        -122.036
+      ],
+      "Address": "El Camino Real & South Mathilda Avenue, West El Camino Real, Sunnyvale, Santa Clara County, California, 94807, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+172 454603550",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

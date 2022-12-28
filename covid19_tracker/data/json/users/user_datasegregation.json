@@ -1,0 +1,46 @@
+{
+  "name": "Mauro Marie-jeanne",
+  "username": "segregation",
+  "email": "swainson@fakemail.com",
+  "gender": "female",
+  "person_id": 740,
+  "birthdate": "1982-4-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02891780108"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "118.169.146.133",
+      "GeoLoc": [
+        23.9807,
+        121.6115
+      ],
+      "Address": "\u660e\u79ae\u570b\u5c0f, \u4e2d\u6b63\u6a4b, \u570b\u5149\u91cc, \u82b1\u84ee\u5e02, \u82b1\u84ee\u7e23, \u81fa\u7063\u7701, 970, \u81fa\u7063",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+152 902981500",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

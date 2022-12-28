@@ -1,0 +1,46 @@
+{
+  "name": "Donald Camila",
+  "username": "ourselves",
+  "email": "tse@fakemail.com",
+  "gender": "female",
+  "person_id": 290,
+  "birthdate": "1990-5-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76373168662"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "165.251.120.164",
+      "GeoLoc": [
+        40.5482,
+        -74.4807
+      ],
+      "Address": "Knightsbridge Road, Possumtown, Piscataway Township, Middlesex County, New Jersey, 08854, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 785277821",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

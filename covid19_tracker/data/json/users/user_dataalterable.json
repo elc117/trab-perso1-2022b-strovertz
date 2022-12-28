@@ -1,0 +1,46 @@
+{
+  "name": "Hoog Lubomyr",
+  "username": "alterable",
+  "email": "husky@fakemail.com",
+  "gender": "male",
+  "person_id": 997,
+  "birthdate": "1968-7-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52598469313"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "11.136.208.189",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+51 299625428",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

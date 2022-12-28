@@ -1,0 +1,46 @@
+{
+  "name": "Auberta Giulietta",
+  "username": "twice",
+  "email": "oakum@fakemail.com",
+  "gender": "male",
+  "person_id": 904,
+  "birthdate": "1989-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "73100947606"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "199.107.198.124",
+      "GeoLoc": [
+        34.1592,
+        -119.1986
+      ],
+      "Address": "Bard Lane, Port Hueneme, Ventura County, CAL Fire Southern Region, California, 93041, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+152 227369079",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

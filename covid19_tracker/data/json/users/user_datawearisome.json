@@ -1,0 +1,46 @@
+{
+  "name": "Emera Iormina",
+  "username": "wearisome",
+  "email": "stedt@fakemail.com",
+  "gender": "female",
+  "person_id": 145,
+  "birthdate": "1970-9-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49357518860"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.217.89.40",
+      "GeoLoc": [
+        -0.2143,
+        -78.5017
+      ],
+      "Address": "Laguito, Sodiro, Itchimbia, Quito, Pichincha, 170118, Ecuador",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+151 192351841",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

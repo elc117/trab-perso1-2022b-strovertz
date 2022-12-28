@@ -1,0 +1,46 @@
+{
+  "name": "Jenna Becca",
+  "username": "gaming",
+  "email": "tanberg@fakemail.com",
+  "gender": "female",
+  "person_id": 433,
+  "birthdate": "2001-12-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "38619126865"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "122.18.137.65",
+      "GeoLoc": [
+        34.8151,
+        135.6542
+      ],
+      "Address": "\u5ddd\u539f\u753a, \u679a\u65b9\u5e02, \u5927\u962a\u5e9c, 573-8799, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+86 146574025",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Elladine Massoud",
+  "username": "outcaste",
+  "email": "aryan@fakemail.com",
+  "gender": "male",
+  "person_id": 370,
+  "birthdate": "1977-8-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "59423975623"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "166.82.61.129",
+      "GeoLoc": [
+        35.4966,
+        -80.628
+      ],
+      "Address": "Laureate Center, 401, Laureate Way, Kannapolis, Cabarrus County, North Carolina, 28081, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 803711336",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

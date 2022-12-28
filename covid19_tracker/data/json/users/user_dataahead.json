@@ -1,0 +1,46 @@
+{
+  "name": "Marcel Imre",
+  "username": "ahead",
+  "email": "clupeid@fakemail.com",
+  "gender": "male",
+  "person_id": 335,
+  "birthdate": "2005-6-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "16578966099"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "147.88.243.104",
+      "GeoLoc": [
+        47.0242,
+        8.2566
+      ],
+      "Address": "Schwendistrasse, Vorderschwendi, Obernau, Kriens, Luzern, 6012, Schweiz/Suisse/Svizzera/Svizra",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+33 139749812",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

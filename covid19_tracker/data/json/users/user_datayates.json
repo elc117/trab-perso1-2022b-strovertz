@@ -1,0 +1,46 @@
+{
+  "name": "Ilene Terri-jo",
+  "username": "yates",
+  "email": "stacee@fakemail.com",
+  "gender": "male",
+  "person_id": 242,
+  "birthdate": "1992-12-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51932473343"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "61.215.12.223",
+      "GeoLoc": [
+        35.6887,
+        139.745
+      ],
+      "Address": "PARK SIDE HOUSE, \u5185\u5800\u901a\u308a, \u4e09\u756a\u753a, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0083, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+79 367349632",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

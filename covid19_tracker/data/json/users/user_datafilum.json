@@ -1,0 +1,46 @@
+{
+  "name": "Field Nikolaos",
+  "username": "filum",
+  "email": "terrorize@fakemail.com",
+  "gender": "male",
+  "person_id": 965,
+  "birthdate": "1962-10-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52264967960"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "29.162.160.206",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+35 230237617",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

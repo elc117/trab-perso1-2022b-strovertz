@@ -1,0 +1,46 @@
+{
+  "name": "Jandy Jacob",
+  "username": "schnapp",
+  "email": "accident@fakemail.com",
+  "gender": "male",
+  "person_id": 4,
+  "birthdate": "1996-11-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51889748862"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "61.196.240.49",
+      "GeoLoc": [
+        35.6916,
+        139.768
+      ],
+      "Address": "\u5185\u795e\u7530\u4e09\u4e01\u76ee, \u5185\u795e\u7530, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0035, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+71 600909408",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Madeleine Sukhendu",
+  "username": "sustenance",
+  "email": "sarto@fakemail.com",
+  "gender": "female",
+  "person_id": 620,
+  "birthdate": "1991-11-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84426896487"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "130.44.175.156",
+      "GeoLoc": [
+        42.3996,
+        -71.1246
+      ],
+      "Address": "Holland St @ Simpson Ave, Holland Street, Davis Square, Somerville, Middlesex County, Massachusetts, 02144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 531588771",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

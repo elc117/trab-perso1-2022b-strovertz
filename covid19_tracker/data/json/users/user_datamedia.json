@@ -1,0 +1,46 @@
+{
+  "name": "Marta Astrix",
+  "username": "media",
+  "email": "ornamentation@fakemail.com",
+  "gender": "female",
+  "person_id": 879,
+  "birthdate": "1968-1-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01793577510"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "42.187.199.35",
+      "GeoLoc": [
+        22.5431,
+        114.058
+      ],
+      "Address": "\u91d1\u7530\u8def, \u798f\u4e2d\u793e\u533a, \u83b2\u82b1\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+154 767581837",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

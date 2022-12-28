@@ -1,0 +1,46 @@
+{
+  "name": "Farah Vinay",
+  "username": "lectionary",
+  "email": "legg@fakemail.com",
+  "gender": "male",
+  "person_id": 151,
+  "birthdate": "1969-3-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41263366724"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "183.18.65.156",
+      "GeoLoc": [
+        23.379,
+        113.763
+      ],
+      "Address": "\u589e\u57ce\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+11 446396999",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

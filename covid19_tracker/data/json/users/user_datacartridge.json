@@ -1,0 +1,46 @@
+{
+  "name": "Kannan Clarette",
+  "username": "cartridge",
+  "email": "kmeson@fakemail.com",
+  "gender": "female",
+  "person_id": 184,
+  "birthdate": "1998-8-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96567240032"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "170.178.27.254",
+      "GeoLoc": [
+        41.4953,
+        -73.151
+      ],
+      "Address": "199, Benson Road, Middlebury, New Haven County, Connecticut, 06762, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+156 299889861",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Kimberli Zola",
+  "username": "atalee",
+  "email": "raja@fakemail.com",
+  "gender": "male",
+  "person_id": 191,
+  "birthdate": "1979-11-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06102931688"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "70.128.12.236",
+      "GeoLoc": [
+        39.0438,
+        -77.4874
+      ],
+      "Address": "Carolina Brothers BBQ, 20702, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+130 556030729",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Francois Patti",
+  "username": "octavus",
+  "email": "cleaner@fakemail.com",
+  "gender": "female",
+  "person_id": 459,
+  "birthdate": "1992-12-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "25171480745"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "175.30.25.209",
+      "GeoLoc": [
+        43.152,
+        126.437
+      ],
+      "Address": "\u6866\u7538\u5e02, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+133 500301028",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

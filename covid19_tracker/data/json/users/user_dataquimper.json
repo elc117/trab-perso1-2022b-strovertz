@@ -1,0 +1,46 @@
+{
+  "name": "Maggee Lyndell",
+  "username": "quimper",
+  "email": "mut@fakemail.com",
+  "gender": "male",
+  "person_id": 917,
+  "birthdate": "1985-2-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91842722603"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "142.58.22.215",
+      "GeoLoc": [
+        49.1092,
+        -122.8604
+      ],
+      "Address": "59 Avenue, Newton, Surrey, Metro Vancouver Regional District, British Columbia, V3X 1G1, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 610481803",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

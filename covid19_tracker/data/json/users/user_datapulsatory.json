@@ -1,0 +1,46 @@
+{
+  "name": "Atl Shelli",
+  "username": "pulsatory",
+  "email": "crum@fakemail.com",
+  "gender": "female",
+  "person_id": 756,
+  "birthdate": "1994-1-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "35791418485"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "105.19.225.180",
+      "GeoLoc": [
+        -20.2451,
+        57.4917
+      ],
+      "Address": "\u00c9b\u00e8ne CyberTower 1, Ebene City Boulevard, \u00c9b\u00e8ne Cybercity, Eb\u00e8ne Cybercity, Quatre Bornes, Plaines Wilhems, Outer islands of Mauritius, 72201, Mauritius / Maurice",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+74 878761994",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

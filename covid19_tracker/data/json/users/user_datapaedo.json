@@ -1,0 +1,46 @@
+{
+  "name": "Shafique Halimeda",
+  "username": "paedo",
+  "email": "copter@fakemail.com",
+  "gender": "male",
+  "person_id": 51,
+  "birthdate": "1996-1-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "86292106721"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.128.252.204",
+      "GeoLoc": [
+        22.3119,
+        114.257
+      ],
+      "Address": "\u9999\u6e2f\u9053\u6559\u806f\u5408\u6703\u5713\u7384\u5b78\u9662\u7b2c\u4e09\u4e2d\u5b78 The Yuen Yuen Institute No.3 Secondary School, \u5bf6\u9806\u8def Po Shun Road, \u5c07\u8ecd\u6fb3\u5e02\u4e2d\u5fc3 Tseung Kwan O Town Centre, \u5c07\u8ecd\u6fb3 Tseung Kwan O, \u897f\u8ca2\u5340 Sai Kung District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 968378754",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

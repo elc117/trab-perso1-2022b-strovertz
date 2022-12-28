@@ -1,0 +1,46 @@
+{
+  "name": "Pru Maynard",
+  "username": "adjunction",
+  "email": "reo@fakemail.com",
+  "gender": "male",
+  "person_id": 533,
+  "birthdate": "1967-12-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08417969632"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "104.238.36.161",
+      "GeoLoc": [
+        52.2296,
+        21.0067
+      ],
+      "Address": "Pasa\u017c Kazimiery I\u0142\u0142akowicz\u00f3wny, Centrum, \u015ar\u00f3dmie\u015bcie P\u00f3\u0142nocne, \u015ar\u00f3dmie\u015bcie, Warszawa, wojew\u00f3dztwo mazowieckie, 00-697, Warszawa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+182 413254753",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

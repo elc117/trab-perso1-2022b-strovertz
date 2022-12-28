@@ -1,0 +1,46 @@
+{
+  "name": "Rosaleen Lope",
+  "username": "cardinalate",
+  "email": "swartz@fakemail.com",
+  "gender": "female",
+  "person_id": 909,
+  "birthdate": "1993-8-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80773043543"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "164.166.251.43",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+125 349841100",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

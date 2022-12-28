@@ -1,0 +1,46 @@
+{
+  "name": "Bobette Kirsteni",
+  "username": "technique",
+  "email": "mendenhall@fakemail.com",
+  "gender": "male",
+  "person_id": 876,
+  "birthdate": "1985-4-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01378715110"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "74.79.238.76",
+      "GeoLoc": [
+        42.7369,
+        -76.4006
+      ],
+      "Address": "2500, Jugg Street, Wilson Corners, Town of Moravia, Cayuga County, New York, 13118, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+46 556934129",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Tyne Caitrin",
+  "username": "hydrophane",
+  "email": "theurer@fakemail.com",
+  "gender": "female",
+  "person_id": 254,
+  "birthdate": "1998-11-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "51339058154"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "128.240.72.26",
+      "GeoLoc": [
+        54.9797,
+        -1.61318
+      ],
+      "Address": "Newcastle University, Claremont Street, Spital Tongues, Newcastle upon Tyne, North of Tyne, England, NE1 7RU, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 980509219",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

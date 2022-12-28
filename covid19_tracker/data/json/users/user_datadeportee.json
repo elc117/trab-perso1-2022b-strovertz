@@ -1,0 +1,46 @@
+{
+  "name": "Cristal Access",
+  "username": "deportee",
+  "email": "lauritz@fakemail.com",
+  "gender": "male",
+  "person_id": 484,
+  "birthdate": "1989-2-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55874740384"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "188.22.120.77",
+      "GeoLoc": [
+        48.6621,
+        15.6521
+      ],
+      "Address": "31, Prager Stra\u00dfe, Gemeinde Horn, Bezirk Horn, Nieder\u00f6sterreich, 3580, \u00d6sterreich",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+191 928308465",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

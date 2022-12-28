@@ -1,0 +1,46 @@
+{
+  "name": "Petri Jsandye",
+  "username": "odericus",
+  "email": "brightness@fakemail.com",
+  "gender": "male",
+  "person_id": 758,
+  "birthdate": "1973-7-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "60451599691"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "35.18.144.154",
+      "GeoLoc": [
+        42.2139,
+        -83.745
+      ],
+      "Address": "646, Technology Drive, Avis Farms, Pittsfield Township, Washtenaw County, Michigan, 48108, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+112 418485687",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

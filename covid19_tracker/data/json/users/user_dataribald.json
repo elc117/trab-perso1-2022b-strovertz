@@ -1,0 +1,46 @@
+{
+  "name": "Marscha Kiet",
+  "username": "ribald",
+  "email": "saar@fakemail.com",
+  "gender": "male",
+  "person_id": 270,
+  "birthdate": "1986-4-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68009112089"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "71.134.106.62",
+      "GeoLoc": [
+        37.3541,
+        -121.955
+      ],
+      "Address": "1637, Lincoln Street, Santa Clara, Santa Clara County, California, 95050, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+93 167739268",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

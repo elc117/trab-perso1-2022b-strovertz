@@ -1,0 +1,46 @@
+{
+  "name": "Anni Garnette",
+  "username": "regorge",
+  "email": "motorcycle@fakemail.com",
+  "gender": "male",
+  "person_id": 929,
+  "birthdate": "1969-8-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "35080371269"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "71.141.58.61",
+      "GeoLoc": [
+        47.6229,
+        -122.337
+      ],
+      "Address": "Amazon.com Cricket, 440, Terry Avenue North, South Lake Union, Belltown, Seattle, King County, Washington, 98109, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+185 329287211",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Leisha Maryl",
+  "username": "demonstrate",
+  "email": "canadian@fakemail.com",
+  "gender": "male",
+  "person_id": 976,
+  "birthdate": "1982-7-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12330436416"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "152.204.12.61",
+      "GeoLoc": [
+        4.69732,
+        -74.0697
+      ],
+      "Address": "Pir\u00e1mide de Telef\u00f3nica, Avenida Carrera 70, UPZs Localidad Suba, Localidad Suba, Bogot\u00e1, Bogot\u00e1 Distrito Capital - Municipio, 111121, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+71 242288069",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

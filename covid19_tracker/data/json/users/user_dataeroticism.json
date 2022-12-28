@@ -1,0 +1,46 @@
+{
+  "name": "Kip Odele",
+  "username": "eroticism",
+  "email": "constitution@fakemail.com",
+  "gender": "female",
+  "person_id": 419,
+  "birthdate": "1962-6-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78125060618"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.174.135.105",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+67 236165492",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

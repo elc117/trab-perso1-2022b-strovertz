@@ -1,0 +1,46 @@
+{
+  "name": "Tape Gabbie",
+  "username": "nickelic",
+  "email": "locris@fakemail.com",
+  "gender": "male",
+  "person_id": 311,
+  "birthdate": "2001-10-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19498903506"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "138.75.114.48",
+      "GeoLoc": [
+        1.32525,
+        103.749
+      ],
+      "Address": "10, International Business Park, Jurong East, Singapore, Southwest, 609928, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+175 671225784",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sapphira Melody",
+  "username": "relativize",
+  "email": "monatomic@fakemail.com",
+  "gender": "female",
+  "person_id": 15,
+  "birthdate": "1975-1-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12423648707"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "48.89.111.241",
+      "GeoLoc": [
+        40.7369,
+        -74.172
+      ],
+      "Address": "Prudential Plaza Building, Bank Street, Teachers Village, Newark, Essex County, New Jersey, 07102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+152 233115091",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

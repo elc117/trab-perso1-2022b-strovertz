@@ -1,0 +1,46 @@
+{
+  "name": "Lanni Tak",
+  "username": "berryberryhill",
+  "email": "suricate@fakemail.com",
+  "gender": "female",
+  "person_id": 2,
+  "birthdate": "2005-6-15",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39019580450"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.26.222.92",
+      "GeoLoc": [
+        32.8771,
+        -80.013
+      ],
+      "Address": "Hello Deli, City Hall Lane, Charles Towne Square, North Charleston, Charleston County, South Carolina, 29405, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+162 462708357",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

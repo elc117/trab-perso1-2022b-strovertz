@@ -1,0 +1,46 @@
+{
+  "name": "Tiertza Mayasandra",
+  "username": "sheaves",
+  "email": "beata@fakemail.com",
+  "gender": "female",
+  "person_id": 331,
+  "birthdate": "1978-8-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76059339409"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "144.134.255.88",
+      "GeoLoc": [
+        -27.4705,
+        153.026
+      ],
+      "Address": "Hato Gyoza & Grill, CityLink Cycleway, Brisbane City, Greater Brisbane, Queensland, 4001, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+30 290842708",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

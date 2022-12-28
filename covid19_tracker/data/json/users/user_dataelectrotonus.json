@@ -1,0 +1,46 @@
+{
+  "name": "Marci Sharri",
+  "username": "electrotonus",
+  "email": "upheld@fakemail.com",
+  "gender": "female",
+  "person_id": 511,
+  "birthdate": "1977-8-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48688754853"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "50.69.22.253",
+      "GeoLoc": [
+        50.8869,
+        -120.7357
+      ],
+      "Address": "Thompson Plateau, Area J (Copper Desert Country), Thompson-Nicola Regional District, British Columbia, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+78 236746565",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

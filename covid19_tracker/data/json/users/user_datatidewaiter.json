@@ -1,0 +1,46 @@
+{
+  "name": "Karam Lenka",
+  "username": "tidewaiter",
+  "email": "clifford@fakemail.com",
+  "gender": "male",
+  "person_id": 173,
+  "birthdate": "1968-7-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66428172810"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "144.39.36.75",
+      "GeoLoc": [
+        41.7468,
+        -111.8268
+      ],
+      "Address": "805, 300 East, Logan, Cache County, Utah, 84321, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+13 963403013",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

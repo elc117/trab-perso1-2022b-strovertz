@@ -1,0 +1,46 @@
+{
+  "name": "Em Madelaine",
+  "username": "bandmaster",
+  "email": "richmound@fakemail.com",
+  "gender": "male",
+  "person_id": 383,
+  "birthdate": "1965-4-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06970107914"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "6.210.79.105",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+58 650333172",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Selena Maurizia",
+  "username": "brunette",
+  "email": "batton@fakemail.com",
+  "gender": "female",
+  "person_id": 686,
+  "birthdate": "2004-11-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83913780556"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "95.210.111.116",
+      "GeoLoc": [
+        45.0671,
+        7.6821
+      ],
+      "Address": "Chiesa di San Carlo Borromeo, Via Vittorio Alfieri, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+169 191887745",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

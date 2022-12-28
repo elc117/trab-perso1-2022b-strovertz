@@ -1,0 +1,46 @@
+{
+  "name": "Donnajean Ruthy",
+  "username": "loment",
+  "email": "efrem@fakemail.com",
+  "gender": "female",
+  "person_id": 779,
+  "birthdate": "1988-2-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24486216083"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "17.7.62.49",
+      "GeoLoc": [
+        37.3219,
+        -122.03
+      ],
+      "Address": "10144, Macadam Lane, Cupertino, Santa Clara County, California, 95014, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+71 864932956",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

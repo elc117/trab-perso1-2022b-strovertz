@@ -1,0 +1,46 @@
+{
+  "name": "Modesta Wargnier",
+  "username": "encasement",
+  "email": "brenda@fakemail.com",
+  "gender": "male",
+  "person_id": 123,
+  "birthdate": "1988-11-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48374635762"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "187.169.77.240",
+      "GeoLoc": [
+        19.4036,
+        -99.0971
+      ],
+      "Address": "Avenida R\u00edo Churubusco, Iztacalco, Ciudad de M\u00e9xico, 08000, M\u00e9xico",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+158 942613744",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

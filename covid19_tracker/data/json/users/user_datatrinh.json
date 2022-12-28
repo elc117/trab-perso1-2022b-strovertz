@@ -1,0 +1,46 @@
+{
+  "name": "Naresh Vlado",
+  "username": "trinh",
+  "email": "petroleum@fakemail.com",
+  "gender": "female",
+  "person_id": 410,
+  "birthdate": "1984-6-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55329974704"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "67.184.67.207",
+      "GeoLoc": [
+        41.7888,
+        -88.0916
+      ],
+      "Address": "5300, Driftwood Court, Lisle, DuPage County, Illinois, 60532, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+85 335837160",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Manoj Milena",
+  "username": "hupp",
+  "email": "salazar@fakemail.com",
+  "gender": "male",
+  "person_id": 626,
+  "birthdate": "1961-5-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "25000540123"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "71.141.58.61",
+      "GeoLoc": [
+        47.6229,
+        -122.337
+      ],
+      "Address": "Amazon.com Cricket, 440, Terry Avenue North, South Lake Union, Belltown, Seattle, King County, Washington, 98109, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+169 413430433",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

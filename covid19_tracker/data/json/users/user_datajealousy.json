@@ -1,0 +1,46 @@
+{
+  "name": "Arlinda Frannie",
+  "username": "jealousy",
+  "email": "itol@fakemail.com",
+  "gender": "female",
+  "person_id": 271,
+  "birthdate": "1981-2-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "72671970439"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "15.186.41.105",
+      "GeoLoc": [
+        37.4146,
+        -122.146
+      ],
+      "Address": "3200, Hanover Street, Palo Alto, Santa Clara County, California, 94306, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+152 421813214",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

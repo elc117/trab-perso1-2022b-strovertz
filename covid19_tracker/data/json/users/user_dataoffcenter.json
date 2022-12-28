@@ -1,0 +1,46 @@
+{
+  "name": "Bodo Maynard",
+  "username": "offcenter",
+  "email": "servais@fakemail.com",
+  "gender": "male",
+  "person_id": 8,
+  "birthdate": "1960-10-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "70343907704"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "20.248.17.169",
+      "GeoLoc": [
+        -35.3075,
+        149.1244
+      ],
+      "Address": "Senate Wing, Parliament Drive, Capital Hill, Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+137 642703917",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Jianli Lindsey",
+  "username": "moreland",
+  "email": "floccule@fakemail.com",
+  "gender": "male",
+  "person_id": 598,
+  "birthdate": "1996-4-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "55374437836"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.135.214.134",
+      "GeoLoc": [
+        33.4834,
+        -112.077
+      ],
+      "Address": "Dignity Health Corporate Phoenix, 3033, North 3rd Avenue, Encanto, Phoenix, Maricopa County, Arizona, 85013, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+119 560185908",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

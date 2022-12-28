@@ -1,0 +1,46 @@
+{
+  "name": "Homer Katalin",
+  "username": "blizzard",
+  "email": "biathlon@fakemail.com",
+  "gender": "male",
+  "person_id": 392,
+  "birthdate": "1977-12-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29218577158"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "174.17.91.20",
+      "GeoLoc": [
+        33.61,
+        -112.4593
+      ],
+      "Address": "13726, North Beardsley Canal Road, Utilities, Surprise, Maricopa County, Arizona, 85355, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+21 251722699",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

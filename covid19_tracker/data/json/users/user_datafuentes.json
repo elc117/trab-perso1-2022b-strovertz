@@ -1,0 +1,46 @@
+{
+  "name": "Moniek Manuela",
+  "username": "fuentes",
+  "email": "arteriosclerosis@fakemail.com",
+  "gender": "female",
+  "person_id": 251,
+  "birthdate": "1979-1-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19983586150"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.245.213.72",
+      "GeoLoc": [
+        43.4241,
+        3.1698
+      ],
+      "Address": "\u00c9cole maternelle Jean Delhon, Rue Jules Griffe, Th\u00e9zan-l\u00e8s-B\u00e9ziers, B\u00e9ziers, H\u00e9rault, Occitanie, France m\u00e9tropolitaine, 34490, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 706914914",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

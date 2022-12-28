@@ -1,0 +1,46 @@
+{
+  "name": "Quintana Yalonda",
+  "username": "evy",
+  "email": "licorice@fakemail.com",
+  "gender": "male",
+  "person_id": 540,
+  "birthdate": "1990-9-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "06096675999"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "140.107.84.78",
+      "GeoLoc": [
+        47.7346,
+        -122.3479
+      ],
+      "Address": "Rotary Raven Rock, Shoreline Interurban Trail, Shoreline, King County, Washington, 98133, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+146 765957997",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

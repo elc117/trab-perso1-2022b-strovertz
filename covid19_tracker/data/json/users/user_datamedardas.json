@@ -1,0 +1,46 @@
+{
+  "name": "Adey Muhammad",
+  "username": "medardas",
+  "email": "soutine@fakemail.com",
+  "gender": "male",
+  "person_id": 890,
+  "birthdate": "1997-3-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41899764151"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "148.144.177.170",
+      "GeoLoc": [
+        41.0329,
+        -73.769
+      ],
+      "Address": "William Street, City of White Plains, Westchester County, New York, 10601, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+55 779177184",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

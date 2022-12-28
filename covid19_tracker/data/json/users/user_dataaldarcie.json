@@ -1,0 +1,46 @@
+{
+  "name": "J-Francois Davine",
+  "username": "aldarcie",
+  "email": "turkoman@fakemail.com",
+  "gender": "female",
+  "person_id": 336,
+  "birthdate": "1970-9-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46896469021"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.116.244.216",
+      "GeoLoc": [
+        44.9755,
+        7.71363
+      ],
+      "Address": "IP, Via Fortunato Postiglione, Vad\u00f2, Azienda frutticola, Moncalieri, Torino, Piemonte, 10024, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 327609727",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

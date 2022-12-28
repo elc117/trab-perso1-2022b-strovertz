@@ -1,0 +1,46 @@
+{
+  "name": "Duy Brigit",
+  "username": "bandolier",
+  "email": "fredrickafredrickson@fakemail.com",
+  "gender": "female",
+  "person_id": 828,
+  "birthdate": "1967-12-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40817972935"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "34.240.185.211",
+      "GeoLoc": [
+        53.3498,
+        -6.26031
+      ],
+      "Address": "Spire of Dublin, O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 P5P5, \u00c9ire / Ireland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+1 983135239",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

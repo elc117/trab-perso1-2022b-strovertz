@@ -1,0 +1,46 @@
+{
+  "name": "Carmencita Lino",
+  "username": "rendering",
+  "email": "sindee@fakemail.com",
+  "gender": "female",
+  "person_id": 36,
+  "birthdate": "1974-4-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01362475122"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.172.136.187",
+      "GeoLoc": [
+        51.6997,
+        4.8724
+      ],
+      "Address": "20, Brederolaan, Raamsdonksveer, Geertruidenberg, Noord-Brabant, Nederland, 4942 DC, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+192 440405057",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

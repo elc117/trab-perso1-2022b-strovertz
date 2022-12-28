@@ -1,0 +1,46 @@
+{
+  "name": "Ext Laurette",
+  "username": "disarrange",
+  "email": "whitish@fakemail.com",
+  "gender": "male",
+  "person_id": 584,
+  "birthdate": "1986-3-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "22949983839"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "209.140.237.26",
+      "GeoLoc": [
+        42.8728,
+        -85.8774
+      ],
+      "Address": "Hudsonville Christian Middle School, 3925, Van Buren Street, Hudsonville, Georgetown Township, Ottawa County, Michigan, 49426, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+188 219652208",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

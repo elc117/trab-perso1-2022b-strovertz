@@ -1,0 +1,46 @@
+{
+  "name": "Wen-Kai Elise",
+  "username": "eats",
+  "email": "anthropometry@fakemail.com",
+  "gender": "male",
+  "person_id": 987,
+  "birthdate": "2001-5-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "80349976171"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "85.80.130.68",
+      "GeoLoc": [
+        55.6482,
+        12.5436
+      ],
+      "Address": "telenor, Frederikskaj, Sluseholmen, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2450, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+17 153183544",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

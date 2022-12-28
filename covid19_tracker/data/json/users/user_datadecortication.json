@@ -1,0 +1,46 @@
+{
+  "name": "Sonya Gilda",
+  "username": "decortication",
+  "email": "sapheaded@fakemail.com",
+  "gender": "male",
+  "person_id": 843,
+  "birthdate": "1977-9-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "87534588502"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "222.164.221.170",
+      "GeoLoc": [
+        1.29415,
+        103.791
+      ],
+      "Address": "Ayer Rajah Crescent, one-north, Queenstown, Southwest, 139944, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+50 946412000",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

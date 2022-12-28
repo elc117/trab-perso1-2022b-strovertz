@@ -1,0 +1,46 @@
+{
+  "name": "Buda Rodina",
+  "username": "nine",
+  "email": "girlfriend@fakemail.com",
+  "gender": "male",
+  "person_id": 572,
+  "birthdate": "1964-12-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "14031068948"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "68.144.207.92",
+      "GeoLoc": [
+        49.6506,
+        -112.8372
+      ],
+      "Address": "Canyon Close W, The Canyons, Lethbridge, Alberta, T1K 2G9, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+48 332119268",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

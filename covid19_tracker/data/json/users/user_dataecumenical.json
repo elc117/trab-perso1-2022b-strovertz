@@ -1,0 +1,46 @@
+{
+  "name": "Hilde Dutch",
+  "username": "ecumenical",
+  "email": "lamrert@fakemail.com",
+  "gender": "male",
+  "person_id": 762,
+  "birthdate": "1966-12-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "56649651265"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "206.78.58.96",
+      "GeoLoc": [
+        36.7576,
+        -119.8086
+      ],
+      "Address": "Palm Avenue Church of Christ, North Palm Avenue, Fresno, Fresno County, CAL Fire Southern Region, California, 93728, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 750615493",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

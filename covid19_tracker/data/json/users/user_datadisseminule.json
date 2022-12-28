@@ -1,0 +1,46 @@
+{
+  "name": "Jirina Denice",
+  "username": "disseminule",
+  "email": "lala@fakemail.com",
+  "gender": "female",
+  "person_id": 11,
+  "birthdate": "2004-8-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "95863987731"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "184.118.80.89",
+      "GeoLoc": [
+        33.8982,
+        -84.2833
+      ],
+      "Address": "83628, Shallowford Road Northeast, Doraville, DeKalb County, Georgia, 30341, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+15 206424625",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

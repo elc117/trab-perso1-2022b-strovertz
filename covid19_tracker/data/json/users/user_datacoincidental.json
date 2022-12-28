@@ -1,0 +1,46 @@
+{
+  "name": "Nixie Antonie",
+  "username": "coincidental",
+  "email": "cicero@fakemail.com",
+  "gender": "female",
+  "person_id": 805,
+  "birthdate": "1991-11-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40712059113"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.103.24.75",
+      "GeoLoc": [
+        52.277,
+        4.74713
+      ],
+      "Address": "Blue & Purple buildings, Kruisweg, Schiphol-Rijk, Aalsmeerderbrug, Haarlemmermeer, Noord-Holland, Nederland, 1436 BG, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+101 165626629",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

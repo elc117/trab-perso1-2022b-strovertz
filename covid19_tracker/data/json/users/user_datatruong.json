@@ -1,0 +1,46 @@
+{
+  "name": "Hatti Francine",
+  "username": "truong",
+  "email": "integration@fakemail.com",
+  "gender": "female",
+  "person_id": 479,
+  "birthdate": "1985-2-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "04482453021"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "60.33.178.249",
+      "GeoLoc": [
+        35.179,
+        136.8939
+      ],
+      "Address": "\u6728\u633d\u753a\u901a\u308a, \u4e38\u306e\u5185\u4e00\u4e01\u76ee, \u4e2d\u533a, \u540d\u53e4\u5c4b\u5e02, \u611b\u77e5\u770c, 460-0001, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 967848982",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

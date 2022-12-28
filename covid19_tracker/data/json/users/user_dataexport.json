@@ -1,0 +1,46 @@
+{
+  "name": "Ema Selva",
+  "username": "export",
+  "email": "amass@fakemail.com",
+  "gender": "male",
+  "person_id": 609,
+  "birthdate": "1976-4-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "82614468754"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "155.83.67.143",
+      "GeoLoc": [
+        31.5552,
+        -110.35
+      ],
+      "Address": "199, Compton Street, West Pershing Plaza, Sierra Vista, Cochise County, Arizona, 85613, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+43 892091981",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

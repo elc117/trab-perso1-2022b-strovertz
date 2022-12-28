@@ -1,0 +1,46 @@
+{
+  "name": "Mariquilla Aris",
+  "username": "estimable",
+  "email": "halfblooded@fakemail.com",
+  "gender": "female",
+  "person_id": 577,
+  "birthdate": "2004-10-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47220562691"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.69.214.143",
+      "GeoLoc": [
+        60.0522,
+        11.1339
+      ],
+      "Address": "Lindebergveien, Nyjord, Lindeberg, Lillestr\u00f8m, Viken, 2040, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+46 867408131",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Tonye Lil",
+  "username": "delainedelainey",
+  "email": "phantasmagoria@fakemail.com",
+  "gender": "female",
+  "person_id": 858,
+  "birthdate": "1999-12-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83091092615"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "43.228.140.157",
+      "GeoLoc": [
+        28.6542,
+        77.2373
+      ],
+      "Address": "Red Fort, Mahatma Gandhi Marg, Chandni Chowk, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110003, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+137 638491623",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

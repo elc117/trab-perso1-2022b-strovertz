@@ -1,0 +1,46 @@
+{
+  "name": "Dorotea Alexander",
+  "username": "dania",
+  "email": "diamond@fakemail.com",
+  "gender": "male",
+  "person_id": 323,
+  "birthdate": "1998-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08943713983"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.233.106.78",
+      "GeoLoc": [
+        6.2529,
+        -75.5646
+      ],
+      "Address": "Estatua de Bol\u00edvar, Carrera 49, Villa Nueva, Comuna 10 - La Candelaria, Per\u00edmetro Urbano Medell\u00edn, Medell\u00edn, Valle de Aburr\u00e1, Antioquia, 050012, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+58 164604485",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

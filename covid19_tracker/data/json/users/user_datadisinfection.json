@@ -1,0 +1,46 @@
+{
+  "name": "Yau-Fun Yasmeen",
+  "username": "disinfection",
+  "email": "sorenson@fakemail.com",
+  "gender": "female",
+  "person_id": 716,
+  "birthdate": "1966-5-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50865347042"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "122.173.13.190",
+      "GeoLoc": [
+        30.674,
+        76.7249
+      ],
+      "Address": "Sector 67, S.A.S. Nagar (Mohali) Tahsil, Sahibzada Ajit Singh Nagar, Punjab, 145308, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+140 794184955",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

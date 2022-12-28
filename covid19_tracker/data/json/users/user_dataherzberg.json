@@ -1,0 +1,46 @@
+{
+  "name": "Wai Kynthia",
+  "username": "herzberg",
+  "email": "glaciate@fakemail.com",
+  "gender": "female",
+  "person_id": 269,
+  "birthdate": "1997-4-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "60235027928"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "165.13.101.104",
+      "GeoLoc": [
+        38.8941,
+        -77.0306
+      ],
+      "Address": "Ronald Reagan Building and International Trade Center, 13\u00bdth Street Northwest, Washington, District of Columbia, 20004, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+104 177232005",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

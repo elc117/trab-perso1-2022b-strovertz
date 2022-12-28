@@ -1,0 +1,46 @@
+{
+  "name": "Dollie Maire",
+  "username": "hudnall",
+  "email": "microgram@fakemail.com",
+  "gender": "female",
+  "person_id": 315,
+  "birthdate": "1988-9-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52639573780"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.50.250.126",
+      "GeoLoc": [
+        48.8323,
+        2.4075
+      ],
+      "Address": "Route de la Croix Rouge, Quartier de Picpus, Paris 12e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+149 388287220",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

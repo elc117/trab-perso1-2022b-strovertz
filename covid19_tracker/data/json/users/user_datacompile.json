@@ -1,0 +1,46 @@
+{
+  "name": "Thanh-Tinh Hera",
+  "username": "compile",
+  "email": "bergmans@fakemail.com",
+  "gender": "male",
+  "person_id": 514,
+  "birthdate": "1971-9-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47185487137"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "212.9.100.122",
+      "GeoLoc": [
+        51.5466,
+        -0.1232
+      ],
+      "Address": "Clock Tower, Clock View Crescent, Lower Holloway, London Borough of Islington, London, Greater London, England, N7 9FR, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+118 500659214",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

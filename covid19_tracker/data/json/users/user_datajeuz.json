@@ -1,0 +1,46 @@
+{
+  "name": "Moreen Kanya",
+  "username": "jeuz",
+  "email": "polyamide@fakemail.com",
+  "gender": "male",
+  "person_id": 356,
+  "birthdate": "1999-6-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "81810100003"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "145.210.217.233",
+      "GeoLoc": [
+        52.0907,
+        5.12142
+      ],
+      "Address": "Domtoren, Domplein, Binnenstad, Utrecht, Nederland, 3512 JG, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+188 728012268",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

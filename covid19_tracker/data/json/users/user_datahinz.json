@@ -1,0 +1,46 @@
+{
+  "name": "Mason Twila",
+  "username": "hinz",
+  "email": "margarethe@fakemail.com",
+  "gender": "female",
+  "person_id": 944,
+  "birthdate": "1976-1-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40947663916"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "87.31.255.254",
+      "GeoLoc": [
+        41.8934,
+        12.4023
+      ],
+      "Address": "Via Roberto Ago, Aurelio, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00163, Italia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+4 866760910",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

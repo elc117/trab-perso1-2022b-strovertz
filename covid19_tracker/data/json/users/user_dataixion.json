@@ -1,0 +1,46 @@
+{
+  "name": "Fadi Karee",
+  "username": "ixion",
+  "email": "neck@fakemail.com",
+  "gender": "female",
+  "person_id": 52,
+  "birthdate": "1987-9-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "86873822787"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "69.90.194.202",
+      "GeoLoc": [
+        49.245,
+        -123.1337
+      ],
+      "Address": "Connaught Drive, Shaughnessy, Vancouver, Metro Vancouver Regional District, British Columbia, V6H, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+146 253394584",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

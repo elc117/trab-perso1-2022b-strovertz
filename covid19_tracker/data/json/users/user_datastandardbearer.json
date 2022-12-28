@@ -1,0 +1,46 @@
+{
+  "name": "Raju Esmond",
+  "username": "standardbearer",
+  "email": "fleabitten@fakemail.com",
+  "gender": "female",
+  "person_id": 968,
+  "birthdate": "1962-10-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "12849764833"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "41.170.171.65",
+      "GeoLoc": [
+        -26.2041,
+        28.0473
+      ],
+      "Address": "Von Weilligh Street, Newtown, Johannesburg Ward 60, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+7 135431616",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

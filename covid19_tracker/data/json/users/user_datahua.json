@@ -1,0 +1,46 @@
+{
+  "name": "Gita Marji",
+  "username": "hua",
+  "email": "creamery@fakemail.com",
+  "gender": "female",
+  "person_id": 150,
+  "birthdate": "1970-1-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30720804027"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "41.46.227.190",
+      "GeoLoc": [
+        30.0588,
+        31.2268
+      ],
+      "Address": "\u0643\u0648\u0628\u0631\u0649 15 \u0645\u0627\u064a\u0648, \u0627\u0644\u062e\u0637\u064a\u0631\u0649, \u0628\u0648\u0644\u0627\u0642, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 11611, \u0645\u0635\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+111 394046921",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

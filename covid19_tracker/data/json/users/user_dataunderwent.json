@@ -1,0 +1,46 @@
+{
+  "name": "Domenic Pammie",
+  "username": "underwent",
+  "email": "hernandez@fakemail.com",
+  "gender": "male",
+  "person_id": 424,
+  "birthdate": "1972-5-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84523395934"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "166.105.78.141",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+75 117024656",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Michaela Herbie",
+  "username": "periscope",
+  "email": "inhale@fakemail.com",
+  "gender": "male",
+  "person_id": 232,
+  "birthdate": "1993-9-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "29044275038"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "67.189.133.167",
+      "GeoLoc": [
+        42.7872,
+        -70.8456
+      ],
+      "Address": "3, Long View Lane, Newbury, Essex County, Massachusetts, 01951, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+150 122002377",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Anneliese Bora",
+  "username": "larrylars",
+  "email": "wycliffite@fakemail.com",
+  "gender": "female",
+  "person_id": 725,
+  "birthdate": "1980-3-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54298243648"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "4.183.230.216",
+      "GeoLoc": [
+        37.5665,
+        126.978
+      ],
+      "Address": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc\uccad, 110, \uc138\uc885\ub300\ub85c20\uae38, \uba85\ub3d9, \uc911\uad6c, \uc11c\uc6b8, 04523, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+132 457449993",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

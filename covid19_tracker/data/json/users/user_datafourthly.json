@@ -1,0 +1,46 @@
+{
+  "name": "Dicky Maressa",
+  "username": "fourthly",
+  "email": "gunning@fakemail.com",
+  "gender": "male",
+  "person_id": 874,
+  "birthdate": "1975-9-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "30826493947"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "102.103.77.130",
+      "GeoLoc": [
+        33.513,
+        -7.64564
+      ],
+      "Address": "arrondissement d'A\u00een-Chock \u0645\u0642\u0627\u0637\u0639\u0629 \u0639\u064a\u0646 \u0627\u0644\u0634\u0642, pr\u00e9fecture d'arrondissement d'A\u00efn Chock, Pr\u00e9fecture de Casablanca \u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621, Casablanca-Settat \u2d5c\u2d49\u2d33\u2d4e\u2d49 \u2d5c\u2d53\u2d4e\u2d4d\u2d49\u2d4d\u2d5c-\u2d59\u2d5f\u2d5f\u2d30\u2d5c \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0633\u0637\u0627\u062a, 20192, Maroc / \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 / \u0627\u0644\u0645\u063a\u0631\u0628",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+57 250702220",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

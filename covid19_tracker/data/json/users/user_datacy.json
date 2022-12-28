@@ -1,0 +1,46 @@
+{
+  "name": "Marsh Selim",
+  "username": "cy",
+  "email": "katherine@fakemail.com",
+  "gender": "female",
+  "person_id": 775,
+  "birthdate": "1988-5-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "32138527328"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "121.144.46.239",
+      "GeoLoc": [
+        35.1811,
+        129.0928
+      ],
+      "Address": "\uba4d\uc5d0\uc815, \ubc30\uc0b0\ubd81\ub85c, \uc5f0\uc0b06\ub3d9, \uc5f0\uc0b0\ub3d9, \uc5f0\uc81c\uad6c, \ubd80\uc0b0, 47614, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+168 497363856",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

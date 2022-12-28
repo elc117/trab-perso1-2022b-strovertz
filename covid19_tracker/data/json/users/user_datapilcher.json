@@ -1,0 +1,46 @@
+{
+  "name": "Shailin Tessi",
+  "username": "pilcher",
+  "email": "buoyant@fakemail.com",
+  "gender": "female",
+  "person_id": 282,
+  "birthdate": "1998-8-3",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "36822591206"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "202.125.178.100",
+      "GeoLoc": [
+        34.6726,
+        112.452
+      ],
+      "Address": "\u6d1b\u6d66\u8def, \u51ef\u65cb\u4e1c\u8def\u8857\u9053, \u897f\u5de5\u533a, \u6d1b\u9633\u5e02, \u6cb3\u5357\u7701, 471001, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+27 841163673",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

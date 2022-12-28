@@ -1,0 +1,46 @@
+{
+  "name": "Erhard Janusz",
+  "username": "falkner",
+  "email": "ingenuity@fakemail.com",
+  "gender": "male",
+  "person_id": 637,
+  "birthdate": "1995-8-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49448491689"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "223.229.86.167",
+      "GeoLoc": [
+        22.5694,
+        88.4335
+      ],
+      "Address": "Infinity Benchmark, Ring Road, GP Block, Bhangar - II, South 24 Parganas, West Bengal, 700091, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+75 978130791",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

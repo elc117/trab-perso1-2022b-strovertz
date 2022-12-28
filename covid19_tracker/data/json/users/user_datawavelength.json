@@ -1,0 +1,46 @@
+{
+  "name": "Pradeep Grata",
+  "username": "wavelength",
+  "email": "wolof@fakemail.com",
+  "gender": "male",
+  "person_id": 990,
+  "birthdate": "1984-6-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "82615154869"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "58.201.118.238",
+      "GeoLoc": [
+        40.0018,
+        116.333
+      ],
+      "Address": "\u5317\u4eac\u7ea2\u6749\u5047\u65e5\u9152\u5e97, \u53cc\u6e05\u8def, \u516b\u5bb6\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100083, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+115 518106550",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

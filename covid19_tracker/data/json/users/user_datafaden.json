@@ -1,0 +1,46 @@
+{
+  "name": "Co Harriett",
+  "username": "faden",
+  "email": "minnesota@fakemail.com",
+  "gender": "male",
+  "person_id": 831,
+  "birthdate": "2002-8-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24007652864"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "142.246.236.181",
+      "GeoLoc": [
+        45.5599,
+        -73.5691
+      ],
+      "Address": "5454, Boulevard Pie-IX, Vieux-Rosemont, Rosemont\u2013La Petite-Patrie, Montr\u00e9al, Agglom\u00e9ration de Montr\u00e9al, Montr\u00e9al (06), Qu\u00e9bec, H1X 1T8, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+106 347466138",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Shila Berte",
+  "username": "shaylyn",
+  "email": "annorah@fakemail.com",
+  "gender": "male",
+  "person_id": 615,
+  "birthdate": "1984-9-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96922504828"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "47.61.41.121",
+      "GeoLoc": [
+        40.5123,
+        -3.67564
+      ],
+      "Address": "Calle de Francisco T\u00e1rrega, Las Tablas, Valverde, Fuencarral-El Pardo, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 160718381",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rois Trang",
+  "username": "venge",
+  "email": "selfsame@fakemail.com",
+  "gender": "female",
+  "person_id": 562,
+  "birthdate": "1972-7-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "61050480503"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "196.167.195.28",
+      "GeoLoc": [
+        -20.2431,
+        57.4962
+      ],
+      "Address": "Standard Chartered Tower, Bank Street, \u00c9b\u00e8ne Cybercity, Eb\u00e8ne Cybercity, Quatre Bornes, Plaines Wilhems, Outer islands of Mauritius, 72201, Mauritius / Maurice",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 138264479",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

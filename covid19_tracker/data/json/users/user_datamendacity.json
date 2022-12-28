@@ -1,0 +1,46 @@
+{
+  "name": "Alexander Basheer",
+  "username": "mendacity",
+  "email": "norwood@fakemail.com",
+  "gender": "female",
+  "person_id": 750,
+  "birthdate": "1993-8-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02404119869"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "77.62.159.71",
+      "GeoLoc": [
+        51.3979,
+        4.3387
+      ],
+      "Address": "1, Bevrijdingstraat, Leemberg, Ossendrecht, Woensdrecht, Noord-Brabant, Nederland, 4641 BG, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+84 493503487",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

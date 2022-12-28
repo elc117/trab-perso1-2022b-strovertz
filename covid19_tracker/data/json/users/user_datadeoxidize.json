@@ -1,0 +1,46 @@
+{
+  "name": "Molly Bobine",
+  "username": "deoxidize",
+  "email": "dungaree@fakemail.com",
+  "gender": "male",
+  "person_id": 387,
+  "birthdate": "2003-7-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "22044533316"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "63.183.104.22",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+103 467137315",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

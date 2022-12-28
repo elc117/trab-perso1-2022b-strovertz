@@ -1,0 +1,46 @@
+{
+  "name": "Gabey Natasha",
+  "username": "parquet",
+  "email": "edette@fakemail.com",
+  "gender": "male",
+  "person_id": 439,
+  "birthdate": "1974-10-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78622295338"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "160.210.56.223",
+      "GeoLoc": [
+        64.1405,
+        -21.9261
+      ],
+      "Address": "5, Eir\u00edksgata, Austurb\u00e6r, Mi\u00f0borg, Reykjav\u00edkurborg, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 101, \u00cdsland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+93 235887158",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

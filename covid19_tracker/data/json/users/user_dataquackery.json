@@ -1,0 +1,46 @@
+{
+  "name": "Kishor Theodosia",
+  "username": "quackery",
+  "email": "sunflower@fakemail.com",
+  "gender": "male",
+  "person_id": 195,
+  "birthdate": "1992-2-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "68121128013"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "121.183.99.109",
+      "GeoLoc": [
+        36.1129,
+        128.3433
+      ],
+      "Address": "\ub0a8\uc0b0\uc815, \uc0c8\ub9c8\uc744\ub85c, \uad6c\ubbf8\uc2dc, \uacbd\uc0c1\ubd81\ub3c4, 39296, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+29 284828424",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

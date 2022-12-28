@@ -1,0 +1,46 @@
+{
+  "name": "Drucy Sharon",
+  "username": "scrotum",
+  "email": "hatten@fakemail.com",
+  "gender": "female",
+  "person_id": 66,
+  "birthdate": "1986-8-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "04807508318"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "94.236.55.37",
+      "GeoLoc": [
+        51.5074,
+        -0.127758
+      ],
+      "Address": "Kilometre zero plaque, Charing Cross, Seven Dials, Covent Garden, City of Westminster, Greater London, England, SW1A 2DR, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+30 711325330",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

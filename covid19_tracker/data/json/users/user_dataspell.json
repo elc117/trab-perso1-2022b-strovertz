@@ -1,0 +1,46 @@
+{
+  "name": "Rahal Darsie",
+  "username": "spell",
+  "email": "hypocaust@fakemail.com",
+  "gender": "female",
+  "person_id": 799,
+  "birthdate": "1977-11-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76408329691"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "112.153.94.85",
+      "GeoLoc": [
+        35.2317,
+        128.6822
+      ],
+      "Address": "\uc74c\uc545\ubd84\uc218, \uc6a9\uc9c0\ub85c169\ubc88\uae38, \uc131\uc0b0\uad6c, \ucc3d\uc6d0\uc2dc, \uacbd\uc0c1\ub0a8\ub3c4, 51444, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+105 533183340",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

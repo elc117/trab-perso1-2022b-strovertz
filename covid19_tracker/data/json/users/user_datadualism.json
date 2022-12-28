@@ -1,0 +1,46 @@
+{
+  "name": "Fwpas Notley",
+  "username": "dualism",
+  "email": "ingredient@fakemail.com",
+  "gender": "female",
+  "person_id": 22,
+  "birthdate": "1984-3-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "46787274505"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "5.59.72.84",
+      "GeoLoc": [
+        36.52,
+        -5.8698
+      ],
+      "Address": "Calle Benalup, Barriada \"Diputaci\u00f3n\", Paterna de Rivera, La Janda, C\u00e1diz, Andaluc\u00eda, 11178, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 909047196",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

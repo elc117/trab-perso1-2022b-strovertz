@@ -1,0 +1,46 @@
+{
+  "name": "Corrie Wai-Leung",
+  "username": "ventriloquy",
+  "email": "kelliekellina@fakemail.com",
+  "gender": "female",
+  "person_id": 946,
+  "birthdate": "1982-9-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "45427686436"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "65.15.181.59",
+      "GeoLoc": [
+        32.0288,
+        -93.6975
+      ],
+      "Address": "Matilda Street, Highland Park, Mansfield, De Soto Parish, Louisiana, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+156 906245847",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

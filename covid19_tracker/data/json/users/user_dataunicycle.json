@@ -1,0 +1,46 @@
+{
+  "name": "Kimiko Bryan",
+  "username": "unicycle",
+  "email": "detest@fakemail.com",
+  "gender": "male",
+  "person_id": 765,
+  "birthdate": "1968-3-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "41976244099"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "3.219.101.231",
+      "GeoLoc": [
+        39.0438,
+        -77.4874
+      ],
+      "Address": "Carolina Brothers BBQ, 20702, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+155 668944884",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

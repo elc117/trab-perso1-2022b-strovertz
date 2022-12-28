@@ -1,0 +1,46 @@
+{
+  "name": "Allie Khalid",
+  "username": "scribble",
+  "email": "cloudberry@fakemail.com",
+  "gender": "female",
+  "person_id": 948,
+  "birthdate": "1997-4-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "42275971378"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "182.86.147.252",
+      "GeoLoc": [
+        29.3018,
+        117.2044
+      ],
+      "Address": "\u73e0\u5c71\u8857\u9053, \u73e0\u5c71\u533a, \u666f\u5fb7\u9547\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+9 788919120",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Piyush Herschel",
+  "username": "patriotism",
+  "email": "beatup@fakemail.com",
+  "gender": "male",
+  "person_id": 67,
+  "birthdate": "1999-3-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49712343731"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "52.72.15.182",
+      "GeoLoc": [
+        39.0438,
+        -77.4874
+      ],
+      "Address": "Carolina Brothers BBQ, 20702, Ashburn Road, Ashburn, Loudoun County, Virginia, 20147, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+61 918222839",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

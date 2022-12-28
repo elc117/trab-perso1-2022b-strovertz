@@ -1,0 +1,46 @@
+{
+  "name": "Leese Tessy",
+  "username": "pechora",
+  "email": "pickerelweed@fakemail.com",
+  "gender": "male",
+  "person_id": 362,
+  "birthdate": "1960-1-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75858865194"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.237.190.50",
+      "GeoLoc": [
+        51.5074,
+        -0.127758
+      ],
+      "Address": "Kilometre zero plaque, Charing Cross, Seven Dials, Covent Garden, City of Westminster, Greater London, England, SW1A 2DR, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 228961426",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

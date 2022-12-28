@@ -1,0 +1,46 @@
+{
+  "name": "Alexa Nazi",
+  "username": "verrocchio",
+  "email": "blindheim@fakemail.com",
+  "gender": "male",
+  "person_id": 417,
+  "birthdate": "1973-9-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97645087749"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.250.208.249",
+      "GeoLoc": [
+        48.6779,
+        8.97297
+      ],
+      "Address": "TBP B\u00f6blingen B01, 32, Schickardstra\u00dfe, Hulb, Dagersheim, B\u00f6blingen, Landkreis B\u00f6blingen, Baden-W\u00fcrttemberg, 71034, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+100 923834710",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

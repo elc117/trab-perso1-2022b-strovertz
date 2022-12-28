@@ -1,0 +1,46 @@
+{
+  "name": "Maryjane Shelton",
+  "username": "selfseeker",
+  "email": "worry@fakemail.com",
+  "gender": "male",
+  "person_id": 651,
+  "birthdate": "2002-4-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "92542389705"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "7.240.51.89",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+182 345465191",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

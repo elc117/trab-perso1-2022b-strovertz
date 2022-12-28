@@ -1,0 +1,46 @@
+{
+  "name": "Shanta Antonie",
+  "username": "showy",
+  "email": "austria@fakemail.com",
+  "gender": "female",
+  "person_id": 104,
+  "birthdate": "1975-2-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "09642259214"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "130.226.251.109",
+      "GeoLoc": [
+        55.7056,
+        12.5683
+      ],
+      "Address": "Jagtvej, Indre \u00d8sterbro, \u00d8sterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2100, Danmark",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+137 792904406",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

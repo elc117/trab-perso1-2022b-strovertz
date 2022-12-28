@@ -1,0 +1,46 @@
+{
+  "name": "Jeane Woodson",
+  "username": "conyers",
+  "email": "threefold@fakemail.com",
+  "gender": "male",
+  "person_id": 162,
+  "birthdate": "1983-5-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "75069433105"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "156.57.254.129",
+      "GeoLoc": [
+        46.1959,
+        -59.9566
+      ],
+      "Address": "Town House, Commercial Street, Glace Bay, Cape Breton Regional Municipality, Cape Breton County, Nova Scotia, B1A 3C1, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+158 916996144",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

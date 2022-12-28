@@ -1,0 +1,46 @@
+{
+  "name": "Huppert Annora",
+  "username": "glabrous",
+  "email": "dilworth@fakemail.com",
+  "gender": "female",
+  "person_id": 447,
+  "birthdate": "1970-10-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "54966486106"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "67.32.73.32",
+      "GeoLoc": [
+        35.9606,
+        -83.9207
+      ],
+      "Address": "844, Henley Street, Knoxville Central Business District, Fort Sanders, Knoxville, Knox County, Tennessee, 37902, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+142 759653863",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

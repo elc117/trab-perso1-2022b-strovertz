@@ -1,0 +1,46 @@
+{
+  "name": "Estell Elva",
+  "username": "logion",
+  "email": "pestilence@fakemail.com",
+  "gender": "female",
+  "person_id": 561,
+  "birthdate": "1983-10-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "21285826361"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.58.145.30",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+167 213218195",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Tony Izabel",
+  "username": "somatology",
+  "email": "silique@fakemail.com",
+  "gender": "male",
+  "person_id": 783,
+  "birthdate": "2000-6-14",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27413457830"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "114.19.229.198",
+      "GeoLoc": [
+        35.206,
+        137.0277
+      ],
+      "Address": "\u897f\u306e\u91ce\u753a\u4e00\u4e01\u76ee, \u5c3e\u5f35\u65ed\u5e02, \u611b\u77e5\u770c, 488-0830, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+50 342843697",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Darrell Janetta",
+  "username": "reticulation",
+  "email": "compliance@fakemail.com",
+  "gender": "female",
+  "person_id": 670,
+  "birthdate": "1962-8-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18617927860"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "31.173.8.237",
+      "GeoLoc": [
+        55.7483,
+        37.6171
+      ],
+      "Address": "\u041a\u0440\u0435\u043c\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f, 18, 39, \u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 119019, \u0420\u043e\u0441\u0441\u0438\u044f",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+40 843559198",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

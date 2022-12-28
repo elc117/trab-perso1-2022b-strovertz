@@ -1,0 +1,46 @@
+{
+  "name": "Jet Loris",
+  "username": "ianthe",
+  "email": "ambur@fakemail.com",
+  "gender": "female",
+  "person_id": 333,
+  "birthdate": "1961-9-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "40694254975"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.81.198.146",
+      "GeoLoc": [
+        46.6175,
+        13.8358
+      ],
+      "Address": "Drauradweg, St. Martin, Villach, K\u00e4rnten, 9500, \u00d6sterreich",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 444719053",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

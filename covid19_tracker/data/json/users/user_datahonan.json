@@ -1,0 +1,46 @@
+{
+  "name": "Hynek Cele",
+  "username": "honan",
+  "email": "athirst@fakemail.com",
+  "gender": "male",
+  "person_id": 586,
+  "birthdate": "1998-7-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52505454833"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "147.217.50.101",
+      "GeoLoc": [
+        31.5552,
+        -110.35
+      ],
+      "Address": "199, Compton Street, West Pershing Plaza, Sierra Vista, Cochise County, Arizona, 85613, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 341130593",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

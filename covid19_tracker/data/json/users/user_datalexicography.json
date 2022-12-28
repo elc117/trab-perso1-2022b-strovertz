@@ -1,0 +1,46 @@
+{
+  "name": "Cairistiona Issie",
+  "username": "lexicography",
+  "email": "jabe@fakemail.com",
+  "gender": "female",
+  "person_id": 133,
+  "birthdate": "1977-2-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "02270567013"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "118.73.23.171",
+      "GeoLoc": [
+        36.0964,
+        111.5218
+      ],
+      "Address": "\u5742\u4e0b\u8def, \u6ee8\u6cb3\u8857\u9053, \u5c27\u90fd\u533a, \u4e34\u6c7e\u5e02, \u5c71\u897f\u7701, 041000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+194 457640073",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

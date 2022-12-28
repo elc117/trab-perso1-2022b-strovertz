@@ -1,0 +1,46 @@
+{
+  "name": "Fayma Nikaniki",
+  "username": "melvinmelvina",
+  "email": "ent@fakemail.com",
+  "gender": "female",
+  "person_id": 630,
+  "birthdate": "1963-9-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03578563684"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "157.14.127.34",
+      "GeoLoc": [
+        35.7295,
+        139.718
+      ],
+      "Address": "\u30b5\u30f3\u30b7\u30e3\u30a4\u30f360, \u97f3\u7fbd\u6c60\u888b\u7dda, \u6771\u6c60\u888b\u4e00\u4e01\u76ee, \u8c4a\u5cf6\u533a, \u6771\u4eac\u90fd, 170-0013, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+72 951248061",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

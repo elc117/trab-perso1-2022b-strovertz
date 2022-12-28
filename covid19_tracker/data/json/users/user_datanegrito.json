@@ -1,0 +1,46 @@
+{
+  "name": "Jean-Bernard Astrix",
+  "username": "negrito",
+  "email": "dinny@fakemail.com",
+  "gender": "male",
+  "person_id": 827,
+  "birthdate": "1992-12-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01755836503"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "57.44.99.59",
+      "GeoLoc": [
+        51.5074,
+        -0.127758
+      ],
+      "Address": "Kilometre zero plaque, Charing Cross, Seven Dials, Covent Garden, City of Westminster, Greater London, England, SW1A 2DR, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+108 351653228",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Hirooki Clementia",
+  "username": "ingles",
+  "email": "feriga@fakemail.com",
+  "gender": "male",
+  "person_id": 474,
+  "birthdate": "1997-3-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77542459651"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.12.253.230",
+      "GeoLoc": [
+        35.6907,
+        139.8767
+      ],
+      "Address": "\u4e00\u4e4b\u6c5f\u516d\u4e01\u76ee, \u6c5f\u6238\u5ddd\u533a, \u6771\u4eac\u90fd, 132-0024, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+111 544021835",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

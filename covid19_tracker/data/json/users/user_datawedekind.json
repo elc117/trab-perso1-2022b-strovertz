@@ -1,0 +1,46 @@
+{
+  "name": "Fast Pet",
+  "username": "wedekind",
+  "email": "grouty@fakemail.com",
+  "gender": "male",
+  "person_id": 751,
+  "birthdate": "1971-5-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "31578197716"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "31.50.4.243",
+      "GeoLoc": [
+        51.4866,
+        -1.757
+      ],
+      "Address": "Millenium Trail, Chiseldon, Draycot Foliat, Swindon, England, SN4 0QH, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+80 433297445",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

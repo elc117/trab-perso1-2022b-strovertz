@@ -1,0 +1,46 @@
+{
+  "name": "Donni Jirina",
+  "username": "omarr",
+  "email": "wisconsin@fakemail.com",
+  "gender": "female",
+  "person_id": 907,
+  "birthdate": "1991-10-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "05518824335"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "157.82.225.24",
+      "GeoLoc": [
+        35.6143,
+        140.1062
+      ],
+      "Address": "\u65b0\u5343\u8449\u4e09\u4e01\u76ee, \u4e2d\u592e\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, 260-0031, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+199 673954031",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

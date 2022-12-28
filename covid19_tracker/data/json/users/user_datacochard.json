@@ -1,0 +1,46 @@
+{
+  "name": "Bo Aubrie",
+  "username": "cochard",
+  "email": "defamation@fakemail.com",
+  "gender": "male",
+  "person_id": 239,
+  "birthdate": "1975-12-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11366672453"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "88.91.69.92",
+      "GeoLoc": [
+        59.5488,
+        9.2787
+      ],
+      "Address": "9, Gr\u00f8nligata, Tveiten, Notodden, Vestfold og Telemark, 3683, Norge",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+150 418988028",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

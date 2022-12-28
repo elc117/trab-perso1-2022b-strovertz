@@ -1,0 +1,46 @@
+{
+  "name": "Christal Ema",
+  "username": "azotize",
+  "email": "sarmatia@fakemail.com",
+  "gender": "female",
+  "person_id": 629,
+  "birthdate": "1967-4-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "07510389038"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.161.255.12",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+120 563374832",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

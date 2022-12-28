@@ -1,0 +1,46 @@
+{
+  "name": "Keriann Pavla",
+  "username": "wintery",
+  "email": "component@fakemail.com",
+  "gender": "male",
+  "person_id": 468,
+  "birthdate": "1966-11-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "11881027619"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "128.240.72.26",
+      "GeoLoc": [
+        54.9797,
+        -1.61318
+      ],
+      "Address": "Newcastle University, Claremont Street, Spital Tongues, Newcastle upon Tyne, North of Tyne, England, NE1 7RU, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+93 524297996",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

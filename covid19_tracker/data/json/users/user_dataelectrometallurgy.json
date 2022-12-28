@@ -1,0 +1,46 @@
+{
+  "name": "Jagjit Dpnlab",
+  "username": "electrometallurgy",
+  "email": "phellem@fakemail.com",
+  "gender": "male",
+  "person_id": 763,
+  "birthdate": "1974-9-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "52194836179"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "31.127.72.6",
+      "GeoLoc": [
+        51.4757,
+        0.32521
+      ],
+      "Address": "Thurrock Council, New Road, Grays, Thurrock, England, RM17 6SL, United Kingdom",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+116 625078857",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

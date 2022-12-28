@@ -1,0 +1,46 @@
+{
+  "name": "Sichao Shayna",
+  "username": "lole",
+  "email": "wedurn@fakemail.com",
+  "gender": "female",
+  "person_id": 452,
+  "birthdate": "1984-1-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19051772912"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "24.1.219.119",
+      "GeoLoc": [
+        41.5714,
+        -87.686
+      ],
+      "Address": "2831, 175th Street, Hazel Crest, Bremen Township, Cook County, Illinois, 60429, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+145 412822044",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

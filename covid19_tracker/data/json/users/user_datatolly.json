@@ -1,0 +1,46 @@
+{
+  "name": "Corena Franco",
+  "username": "tolly",
+  "email": "schwann@fakemail.com",
+  "gender": "male",
+  "person_id": 264,
+  "birthdate": "1990-8-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "86041140686"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "150.23.81.71",
+      "GeoLoc": [
+        35.6906,
+        139.77
+      ],
+      "Address": "\u82b1\u592a\u90ce, \u795e\u7530\u99c5\u897f\u53e3\u901a\u308a, \u5185\u795e\u7530\u4e09\u4e01\u76ee, \u5185\u795e\u7530, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 102-0035, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+87 590130809",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

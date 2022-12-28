@@ -1,0 +1,46 @@
+{
+  "name": "Calla Vikky",
+  "username": "scopula",
+  "email": "lexicographer@fakemail.com",
+  "gender": "female",
+  "person_id": 190,
+  "birthdate": "1965-5-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "13024731903"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "115.99.121.188",
+      "GeoLoc": [
+        28.6542,
+        77.2373
+      ],
+      "Address": "Red Fort, Mahatma Gandhi Marg, Chandni Chowk, Delhi, Kotwali Tehsil, Central Delhi, Delhi, 110003, India",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+169 634305370",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

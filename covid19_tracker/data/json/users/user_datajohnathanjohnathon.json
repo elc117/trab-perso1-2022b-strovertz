@@ -1,0 +1,46 @@
+{
+  "name": "Bennett Lauretta",
+  "username": "johnathanjohnathon",
+  "email": "linalool@fakemail.com",
+  "gender": "male",
+  "person_id": 300,
+  "birthdate": "1970-4-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "48429478027"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "180.137.222.56",
+      "GeoLoc": [
+        23.7248,
+        108.808
+      ],
+      "Address": "\u9ad8\u9662, \u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+144 223660853",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

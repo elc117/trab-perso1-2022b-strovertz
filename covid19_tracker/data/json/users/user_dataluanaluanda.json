@@ -1,0 +1,46 @@
+{
+  "name": "Izak Annaliese",
+  "username": "luanaluanda",
+  "email": "beardsley@fakemail.com",
+  "gender": "male",
+  "person_id": 635,
+  "birthdate": "1997-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83545572862"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.143.127.127",
+      "GeoLoc": [
+        -33.8688,
+        151.209
+      ],
+      "Address": "MLC Centre, King Street, Quay Quarter, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+107 311134347",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

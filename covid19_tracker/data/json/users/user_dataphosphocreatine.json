@@ -1,0 +1,46 @@
+{
+  "name": "Chandal Vanessa",
+  "username": "phosphocreatine",
+  "email": "scolex@fakemail.com",
+  "gender": "male",
+  "person_id": 759,
+  "birthdate": "1995-12-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03021941770"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "87.229.53.16",
+      "GeoLoc": [
+        47.2337,
+        18.6544
+      ],
+      "Address": "Wakeboard p\u00e1lya, Strand utca, R\u00f3zsa Lak\u00f3park, \u00d3falu, Velence, G\u00e1rdonyi j\u00e1r\u00e1s, Fej\u00e9r megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 2481, Magyarorsz\u00e1g",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+28 703865334",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sonnnie Joseph",
+  "username": "boarfish",
+  "email": "hulsey@fakemail.com",
+  "gender": "male",
+  "person_id": 217,
+  "birthdate": "1971-10-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "88294984914"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "28.241.222.79",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+12 979626126",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sephira Fatima",
+  "username": "cyclopedia",
+  "email": "warm@fakemail.com",
+  "gender": "female",
+  "person_id": 223,
+  "birthdate": "1964-2-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08855802062"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.233.106.78",
+      "GeoLoc": [
+        6.2529,
+        -75.5646
+      ],
+      "Address": "Estatua de Bol\u00edvar, Carrera 49, Villa Nueva, Comuna 10 - La Candelaria, Per\u00edmetro Urbano Medell\u00edn, Medell\u00edn, Valle de Aburr\u00e1, Antioquia, 050012, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 155092534",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

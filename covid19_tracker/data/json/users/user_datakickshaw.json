@@ -1,0 +1,46 @@
+{
+  "name": "Riekie Laurel",
+  "username": "kickshaw",
+  "email": "cymbal@fakemail.com",
+  "gender": "female",
+  "person_id": 851,
+  "birthdate": "1969-8-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "45097830601"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "162.131.181.237",
+      "GeoLoc": [
+        41.5883,
+        -93.6276
+      ],
+      "Address": "Principal Corporate 1, 711, High Street, Downtown, Des Moines, Polk County, Iowa, 50309, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+111 301474285",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

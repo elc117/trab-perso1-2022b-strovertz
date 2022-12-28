@@ -1,0 +1,46 @@
+{
+  "name": "Nerte Minerva",
+  "username": "resolvable",
+  "email": "bloodmobile@fakemail.com",
+  "gender": "male",
+  "person_id": 804,
+  "birthdate": "1981-8-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "66639502232"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "65.241.218.172",
+      "GeoLoc": [
+        38.9072,
+        -77.0369
+      ],
+      "Address": "Scott Circle Northwest, Washington, District of Columbia, 20036, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+82 801110866",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

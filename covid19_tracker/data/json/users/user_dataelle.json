@@ -1,0 +1,46 @@
+{
+  "name": "Kimberly Carlota",
+  "username": "elle",
+  "email": "arellano@fakemail.com",
+  "gender": "female",
+  "person_id": 627,
+  "birthdate": "1964-4-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "13620748535"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.97.13.16",
+      "GeoLoc": [
+        33.6173,
+        -111.905
+      ],
+      "Address": "8156, East Evans Road, Scottsdale, Maricopa County, Arizona, 85260, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+81 148688309",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

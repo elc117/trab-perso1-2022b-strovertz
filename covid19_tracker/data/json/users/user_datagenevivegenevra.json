@@ -1,0 +1,46 @@
+{
+  "name": "Goldina Cordula",
+  "username": "genevivegenevra",
+  "email": "anarthria@fakemail.com",
+  "gender": "male",
+  "person_id": 522,
+  "birthdate": "1991-4-19",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "26185985713"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "130.218.190.171",
+      "GeoLoc": [
+        34.0383,
+        -84.5831
+      ],
+      "Address": "University Stores, Cobb Avenue, Cobb County, Georgia, 30144, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+28 244371993",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

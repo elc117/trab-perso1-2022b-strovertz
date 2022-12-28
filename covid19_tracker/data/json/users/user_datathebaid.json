@@ -1,0 +1,46 @@
+{
+  "name": "Praveen Bcs",
+  "username": "thebaid",
+  "email": "clemenceau@fakemail.com",
+  "gender": "male",
+  "person_id": 130,
+  "birthdate": "1985-7-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "47765961136"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "64.109.231.201",
+      "GeoLoc": [
+        41.8781,
+        -87.6298
+      ],
+      "Address": "314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+43 988353579",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

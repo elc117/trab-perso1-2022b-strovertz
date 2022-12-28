@@ -1,0 +1,46 @@
+{
+  "name": "Ethan Fernandina",
+  "username": "maxantia",
+  "email": "maltase@fakemail.com",
+  "gender": "female",
+  "person_id": 675,
+  "birthdate": "1967-8-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "24299630513"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "181.108.91.96",
+      "GeoLoc": [
+        -34.6037,
+        -58.3816
+      ],
+      "Address": "404, Avenida Corrientes, San Nicol\u00e1s, Buenos Aires, Comuna 1, Ciudad Aut\u00f3noma de Buenos Aires, C1043AAY, Argentina",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+52 259325910",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

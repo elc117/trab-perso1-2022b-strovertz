@@ -1,0 +1,46 @@
+{
+  "name": "Cacilia Charmaine",
+  "username": "clementineclementis",
+  "email": "mastoidectomy@fakemail.com",
+  "gender": "male",
+  "person_id": 309,
+  "birthdate": "1998-6-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "17398320434"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "129.126.85.210",
+      "GeoLoc": [
+        1.32525,
+        103.749
+      ],
+      "Address": "10, International Business Park, Jurong East, Singapore, Southwest, 609928, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+21 199936006",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

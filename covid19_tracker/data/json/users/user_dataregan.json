@@ -1,0 +1,46 @@
+{
+  "name": "Suk-Yin Grady",
+  "username": "regan",
+  "email": "quintuplicate@fakemail.com",
+  "gender": "male",
+  "person_id": 766,
+  "birthdate": "1981-7-18",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "78851586675"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "94.177.59.53",
+      "GeoLoc": [
+        45.155,
+        26.8208
+      ],
+      "Address": "Istambul Shaorma & Grill, Strada Bistri\u021bei, Buz\u0103u, 120039, Rom\u00e2nia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+182 771077134",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

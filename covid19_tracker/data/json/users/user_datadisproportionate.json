@@ -1,0 +1,46 @@
+{
+  "name": "Ame Zola",
+  "username": "disproportionate",
+  "email": "tude@fakemail.com",
+  "gender": "female",
+  "person_id": 422,
+  "birthdate": "1997-5-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "27863455880"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "153.33.140.255",
+      "GeoLoc": [
+        41.1413,
+        -81.3445
+      ],
+      "Address": "Kent State University, SR 261, Kent, Brimfield Township, Portage County, Ohio, 44243, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+12 278951004",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

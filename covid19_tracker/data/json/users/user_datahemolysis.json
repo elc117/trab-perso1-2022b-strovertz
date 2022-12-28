@@ -1,0 +1,46 @@
+{
+  "name": "Malinde Ruud",
+  "username": "hemolysis",
+  "email": "ujiji@fakemail.com",
+  "gender": "female",
+  "person_id": 303,
+  "birthdate": "1974-2-28",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "05632618382"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "1.143.127.127",
+      "GeoLoc": [
+        -33.8688,
+        151.209
+      ],
+      "Address": "MLC Centre, King Street, Quay Quarter, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+6 284775934",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

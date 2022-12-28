@@ -1,0 +1,46 @@
+{
+  "name": "Mollie Geetha",
+  "username": "amidships",
+  "email": "praline@fakemail.com",
+  "gender": "male",
+  "person_id": 328,
+  "birthdate": "1992-8-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84736469919"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.233.106.78",
+      "GeoLoc": [
+        6.2529,
+        -75.5646
+      ],
+      "Address": "Estatua de Bol\u00edvar, Carrera 49, Villa Nueva, Comuna 10 - La Candelaria, Per\u00edmetro Urbano Medell\u00edn, Medell\u00edn, Valle de Aburr\u00e1, Antioquia, 050012, Colombia",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+176 605804562",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

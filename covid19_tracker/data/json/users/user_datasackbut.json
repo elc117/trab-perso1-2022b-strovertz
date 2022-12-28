@@ -1,0 +1,46 @@
+{
+  "name": "Chong-Lai Allianora",
+  "username": "sackbut",
+  "email": "slipshod@fakemail.com",
+  "gender": "male",
+  "person_id": 274,
+  "birthdate": "1997-12-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "85805036711"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "195.154.87.113",
+      "GeoLoc": [
+        48.8714,
+        2.32141
+      ],
+      "Address": "Iliad - Free - Centrapel, Rue de la Ville l'\u00c9v\u00eaque, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75008, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+62 965274156",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

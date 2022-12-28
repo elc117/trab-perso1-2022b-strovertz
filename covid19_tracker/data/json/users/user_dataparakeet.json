@@ -1,0 +1,46 @@
+{
+  "name": "Teirtza Brooke",
+  "username": "parakeet",
+  "email": "hazy@fakemail.com",
+  "gender": "male",
+  "person_id": 680,
+  "birthdate": "1992-10-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "19200572421"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "190.16.27.52",
+      "GeoLoc": [
+        -33.0218,
+        -58.6425
+      ],
+      "Address": "Gualeguaych\u00fa, Distrito Costa Uruguay Sur, Departamento Gualeguaych\u00fa, Entre R\u00edos, Argentina",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+68 349473988",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Alessandra Khanh",
+  "username": "indium",
+  "email": "habakkuk@fakemail.com",
+  "gender": "male",
+  "person_id": 61,
+  "birthdate": "1968-11-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "39965203288"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "66.0.194.157",
+      "GeoLoc": [
+        34.7872,
+        -92.3968
+      ],
+      "Address": "Woodland Heights, Little Rock, Pulaski County, Arkansas, 72212, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+24 551328904",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

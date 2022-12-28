@@ -1,0 +1,46 @@
+{
+  "name": "Jerry Kare",
+  "username": "bosley",
+  "email": "pearcy@fakemail.com",
+  "gender": "male",
+  "person_id": 299,
+  "birthdate": "1976-3-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "10603609856"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "193.172.136.187",
+      "GeoLoc": [
+        51.6997,
+        4.8724
+      ],
+      "Address": "20, Brederolaan, Raamsdonksveer, Geertruidenberg, Noord-Brabant, Nederland, 4942 DC, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+193 660227455",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Chung-Wo Alp",
+  "username": "murmuration",
+  "email": "pedlar@fakemail.com",
+  "gender": "male",
+  "person_id": 155,
+  "birthdate": "1965-5-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49189127374"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "40.247.47.98",
+      "GeoLoc": [
+        39.7559,
+        -86.1531
+      ],
+      "Address": "301, East McCarty Street, Eli Lilly and Company Corporate Center, Indianapolis, Marion County, Indiana, 46225, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+42 804682339",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Sayla Janson",
+  "username": "blida",
+  "email": "cupboard@fakemail.com",
+  "gender": "female",
+  "person_id": 368,
+  "birthdate": "1989-7-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49445025911"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.183.145.234",
+      "GeoLoc": [
+        35.1177,
+        126.9087
+      ],
+      "Address": "\ud558\ub298\ub2e4\ub9ac, \ub0a8\uad6c, \uad11\uc8fc, 61710, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+52 959142921",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

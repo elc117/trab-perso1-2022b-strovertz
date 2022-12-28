@@ -1,0 +1,46 @@
+{
+  "name": "Dear Goldarina",
+  "username": "ibiza",
+  "email": "fishworm@fakemail.com",
+  "gender": "male",
+  "person_id": 892,
+  "birthdate": "1991-6-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "87473361619"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "92.189.227.222",
+      "GeoLoc": [
+        41.5453,
+        2.4414
+      ],
+      "Address": "Passeig d'Enric Torra i P\u00f2rtulas, els Molins, Matar\u00f3, Maresme, Barcelona, Catalunya, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+171 690138448",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

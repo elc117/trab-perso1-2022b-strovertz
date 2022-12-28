@@ -1,0 +1,46 @@
+{
+  "name": "Chen-Chen Tomasina",
+  "username": "cover",
+  "email": "sasaki@fakemail.com",
+  "gender": "female",
+  "person_id": 413,
+  "birthdate": "1961-9-12",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76190807321"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "24.159.172.194",
+      "GeoLoc": [
+        40.7128,
+        -99.0783
+      ],
+      "Address": "3778, Avenue C, Kearney, Buffalo County, Nebraska, 68847, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+57 287291958",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

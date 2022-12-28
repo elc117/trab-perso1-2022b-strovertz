@@ -1,0 +1,46 @@
+{
+  "name": "Lorinda Tex",
+  "username": "recalesce",
+  "email": "enrika@fakemail.com",
+  "gender": "female",
+  "person_id": 564,
+  "birthdate": "1975-12-20",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "23798403007"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "78.34.13.224",
+      "GeoLoc": [
+        50.99,
+        6.964
+      ],
+      "Address": "181, Niehler Damm, Niehl, Nippes, K\u00f6ln, Nordrhein-Westfalen, 50735, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+77 728136224",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

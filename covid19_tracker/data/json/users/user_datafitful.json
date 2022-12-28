@@ -1,0 +1,46 @@
+{
+  "name": "Tai Jozsef",
+  "username": "fitful",
+  "email": "biscuit@fakemail.com",
+  "gender": "female",
+  "person_id": 431,
+  "birthdate": "2005-11-26",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "64450638107"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "19.52.192.238",
+      "GeoLoc": [
+        42.3223,
+        -83.1763
+      ],
+      "Address": "Michigan Avenue, East Dearborn Downtown, Dearborn, Wayne County, Michigan, 48126, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+31 461625673",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

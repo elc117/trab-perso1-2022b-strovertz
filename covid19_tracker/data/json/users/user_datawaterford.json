@@ -1,0 +1,46 @@
+{
+  "name": "Bnr Holly",
+  "username": "waterford",
+  "email": "eudocia@fakemail.com",
+  "gender": "female",
+  "person_id": 345,
+  "birthdate": "1967-11-24",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "20357173023"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "37.97.176.121",
+      "GeoLoc": [
+        52.3676,
+        4.90414
+      ],
+      "Address": "Jonas Dani\u00ebl Meijerplein, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 RH, Nederland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+119 191139672",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

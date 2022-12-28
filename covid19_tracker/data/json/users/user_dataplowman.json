@@ -1,0 +1,46 @@
+{
+  "name": "Gerianne Kailey",
+  "username": "plowman",
+  "email": "neve@fakemail.com",
+  "gender": "male",
+  "person_id": 877,
+  "birthdate": "1964-7-13",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "44072998192"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "63.73.217.89",
+      "GeoLoc": [
+        39.4438,
+        -79.5511
+      ],
+      "Address": "Highland Avenue, Terra Alta, Preston County, West Virginia, 26764, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+138 776239523",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

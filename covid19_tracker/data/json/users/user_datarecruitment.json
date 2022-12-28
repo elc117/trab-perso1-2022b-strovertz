@@ -1,0 +1,46 @@
+{
+  "name": "Kippy Odilia",
+  "username": "recruitment",
+  "email": "nardi@fakemail.com",
+  "gender": "male",
+  "person_id": 33,
+  "birthdate": "1963-6-22",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "59165996844"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "202.241.38.149",
+      "GeoLoc": [
+        34.372,
+        135.3098
+      ],
+      "Address": "\u514e\u7530, \u6cc9\u5357\u5e02, \u5927\u962a\u5e9c, 590-0505, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+61 984580478",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

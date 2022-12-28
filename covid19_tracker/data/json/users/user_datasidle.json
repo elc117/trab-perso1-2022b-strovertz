@@ -1,0 +1,46 @@
+{
+  "name": "Saraann Peta",
+  "username": "sidle",
+  "email": "fated@fakemail.com",
+  "gender": "male",
+  "person_id": 674,
+  "birthdate": "1961-1-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "63592404830"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "201.138.236.224",
+      "GeoLoc": [
+        19.3463,
+        -98.1694
+      ],
+      "Address": "Calle Melchor Ocampo, Amaxac de Guerrero, Tlaxcala, 90620, M\u00e9xico",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+88 307765371",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

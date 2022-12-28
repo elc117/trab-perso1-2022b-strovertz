@@ -1,0 +1,46 @@
+{
+  "name": "Trent Lorene",
+  "username": "scevor",
+  "email": "nolpros@fakemail.com",
+  "gender": "female",
+  "person_id": 498,
+  "birthdate": "1980-6-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "88439054068"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "223.21.33.16",
+      "GeoLoc": [
+        23.379,
+        113.763
+      ],
+      "Address": "\u589e\u57ce\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+199 294266355",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

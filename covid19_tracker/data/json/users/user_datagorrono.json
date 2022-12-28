@@ -1,0 +1,46 @@
+{
+  "name": "Gama Patsy",
+  "username": "gorrono",
+  "email": "tannie@fakemail.com",
+  "gender": "female",
+  "person_id": 240,
+  "birthdate": "1970-9-11",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "58625745229"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "27.104.248.134",
+      "GeoLoc": [
+        1.32525,
+        103.749
+      ],
+      "Address": "10, International Business Park, Jurong East, Singapore, Southwest, 609928, Singapore",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+126 977036014",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

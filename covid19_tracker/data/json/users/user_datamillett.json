@@ -1,0 +1,46 @@
+{
+  "name": "Anne-Marie Sheryl",
+  "username": "millett",
+  "email": "alaska@fakemail.com",
+  "gender": "male",
+  "person_id": 706,
+  "birthdate": "1973-7-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "50519079620"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.183.145.234",
+      "GeoLoc": [
+        35.1177,
+        126.9087
+      ],
+      "Address": "\ud558\ub298\ub2e4\ub9ac, \ub0a8\uad6c, \uad11\uc8fc, 61710, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+39 140654862",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

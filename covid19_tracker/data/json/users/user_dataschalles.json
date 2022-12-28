@@ -1,0 +1,46 @@
+{
+  "name": "Constantia Soyeh",
+  "username": "schalles",
+  "email": "hypnotist@fakemail.com",
+  "gender": "male",
+  "person_id": 301,
+  "birthdate": "1971-5-1",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "49155285457"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "177.20.154.104",
+      "GeoLoc": [
+        -5.9252,
+        -35.205
+      ],
+      "Address": "Rua \u00cdndia, COOPHAB, Parque das Na\u00e7\u00f5es, Parnamirim, Regi\u00e3o Geogr\u00e1fica Imediata de Natal, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Natal, Rio Grande do Norte, Regi\u00e3o Nordeste, 59158-765, Brasil",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+36 895138884",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

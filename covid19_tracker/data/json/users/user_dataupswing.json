@@ -1,0 +1,46 @@
+{
+  "name": "Merrile Luisa",
+  "username": "upswing",
+  "email": "eh@fakemail.com",
+  "gender": "female",
+  "person_id": 704,
+  "birthdate": "1994-12-21",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "83565423676"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "154.236.60.89",
+      "GeoLoc": [
+        30.0674,
+        31.0262
+      ],
+      "Address": "Smart International Language School, \u0637\u0631\u064a\u0642 \u0627\u0628\u0648 \u0631\u0648\u0627\u0634, \u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0630\u0643\u064a\u0629, \u0627\u0644\u062c\u064a\u0632\u0629, 12577, \u0645\u0635\u0631",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+20 386551338",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Mala Meaghan",
+  "username": "ridotto",
+  "email": "antiparticle@fakemail.com",
+  "gender": "female",
+  "person_id": 506,
+  "birthdate": "1966-3-5",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "18122388272"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.99.100.154",
+      "GeoLoc": [
+        43.7031,
+        -79.7169
+      ],
+      "Address": "Rogers, 8200, Dixie Road, Brampton, Peel Region, Golden Horseshoe, Ontario, L6T 1V4, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+173 963119036",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

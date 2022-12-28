@@ -1,0 +1,46 @@
+{
+  "name": "Johanne Nydia",
+  "username": "galenism",
+  "email": "nuzzi@fakemail.com",
+  "gender": "male",
+  "person_id": 293,
+  "birthdate": "1984-11-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "74267477787"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "184.95.113.210",
+      "GeoLoc": [
+        44.5527,
+        -88.1087
+      ],
+      "Address": "Security Boulevard, Howard, Brown County, Wisconsin, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+96 877260437",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

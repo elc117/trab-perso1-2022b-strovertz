@@ -1,0 +1,46 @@
+{
+  "name": "Meta Doc",
+  "username": "consonant",
+  "email": "alexandrine@fakemail.com",
+  "gender": "male",
+  "person_id": 666,
+  "birthdate": "1998-1-10",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "90405047258"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "159.50.250.126",
+      "GeoLoc": [
+        48.8323,
+        2.4075
+      ],
+      "Address": "Route de la Croix Rouge, Quartier de Picpus, Paris 12e Arrondissement, Paris, \u00cele-de-France, France m\u00e9tropolitaine, 75012, France",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+123 880416290",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

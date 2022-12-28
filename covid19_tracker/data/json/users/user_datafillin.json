@@ -1,0 +1,46 @@
+{
+  "name": "Jozef Kac",
+  "username": "fillin",
+  "email": "sellars@fakemail.com",
+  "gender": "female",
+  "person_id": 823,
+  "birthdate": "1990-4-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "91527699250"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "92.189.227.222",
+      "GeoLoc": [
+        41.5453,
+        2.4414
+      ],
+      "Address": "Passeig d'Enric Torra i P\u00f2rtulas, els Molins, Matar\u00f3, Maresme, Barcelona, Catalunya, Espa\u00f1a",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+61 219010821",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

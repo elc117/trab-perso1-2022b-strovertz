@@ -1,0 +1,46 @@
+{
+  "name": "Merci Neil",
+  "username": "valerievalerio",
+  "email": "anthropometry@fakemail.com",
+  "gender": "female",
+  "person_id": 516,
+  "birthdate": "2002-6-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "01553684869"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "125.185.220.171",
+      "GeoLoc": [
+        36.1129,
+        128.3433
+      ],
+      "Address": "\ub0a8\uc0b0\uc815, \uc0c8\ub9c8\uc744\ub85c, \uad6c\ubbf8\uc2dc, \uacbd\uc0c1\ubd81\ub3c4, 39296, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+163 185841438",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

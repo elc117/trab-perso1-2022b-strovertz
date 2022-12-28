@@ -1,0 +1,46 @@
+{
+  "name": "Allys Joelly",
+  "username": "persuade",
+  "email": "lorrianelorrie@fakemail.com",
+  "gender": "female",
+  "person_id": 510,
+  "birthdate": "1961-4-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03334325504"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "184.94.105.190",
+      "GeoLoc": [
+        43.6459,
+        -79.3878
+      ],
+      "Address": "200, Wellington Street West, Spadina\u2014Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 3C7, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+4 499813105",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

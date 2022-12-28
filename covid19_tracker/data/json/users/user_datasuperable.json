@@ -1,0 +1,46 @@
+{
+  "name": "Manhatten Korry",
+  "username": "superable",
+  "email": "halfblooded@fakemail.com",
+  "gender": "male",
+  "person_id": 141,
+  "birthdate": "1998-10-17",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "93785546106"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "98.49.121.243",
+      "GeoLoc": [
+        40.6832,
+        -76.2113
+      ],
+      "Address": "D.H.H. Lengel Middle School, West Laurel Boulevard, Yorkville, Pottsville, Schuylkill County, Pennsylvania, 17901, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+200 125250883",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

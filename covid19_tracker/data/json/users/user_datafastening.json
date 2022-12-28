@@ -1,0 +1,46 @@
+{
+  "name": "Romulus Fonnie",
+  "username": "fastening",
+  "email": "saltus@fakemail.com",
+  "gender": "male",
+  "person_id": 44,
+  "birthdate": "1970-9-16",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "58555946107"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "99.210.24.167",
+      "GeoLoc": [
+        43.693,
+        -79.8365
+      ],
+      "Address": "78, El Camino Way, Brampton, Peel Region, Golden Horseshoe, Ontario, L7A 0X5, Canada",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+53 451955651",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

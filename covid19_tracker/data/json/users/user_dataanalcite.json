@@ -1,0 +1,46 @@
+{
+  "name": "Bibbie Chicky",
+  "username": "analcite",
+  "email": "dehumanize@fakemail.com",
+  "gender": "male",
+  "person_id": 655,
+  "birthdate": "1993-10-8",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "77658109010"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "158.127.36.204",
+      "GeoLoc": [
+        60.1699,
+        24.9384
+      ],
+      "Address": "Kaivokatu, Keskusta, Kluuvi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomen aluehallintovirasto, Manner-Suomi, 00099, Suomi / Finland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+197 245334678",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

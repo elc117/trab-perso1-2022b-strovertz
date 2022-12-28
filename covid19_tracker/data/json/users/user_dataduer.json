@@ -1,0 +1,46 @@
+{
+  "name": "Jocelin Eyk",
+  "username": "duer",
+  "email": "reservoir@fakemail.com",
+  "gender": "male",
+  "person_id": 341,
+  "birthdate": "1977-11-9",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "00770056270"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "1 Dose"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "114.218.156.192",
+      "GeoLoc": [
+        31.3093,
+        120.602
+      ],
+      "Address": "\u4fe1\u8bb0\u793e\u533a, \u91d1\u960a\u8857\u9053, \u59d1\u82cf\u533a, \u82cf\u5dde\u5e02, \u6c5f\u82cf\u7701, 215000, \u4e2d\u56fd",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+193 637035704",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

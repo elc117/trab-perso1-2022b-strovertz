@@ -1,0 +1,46 @@
+{
+  "name": "Txp Elnore",
+  "username": "feudalism",
+  "email": "bathelda@fakemail.com",
+  "gender": "female",
+  "person_id": 460,
+  "birthdate": "1966-11-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "76857400105"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "117.109.200.82",
+      "GeoLoc": [
+        34.6879,
+        135.8144
+      ],
+      "Address": "\u829d\u8fbb\u753a\u4e09\u4e01\u76ee, \u5948\u826f\u5e02, \u5948\u826f\u770c, 630-8113, \u65e5\u672c",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+63 391187139",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

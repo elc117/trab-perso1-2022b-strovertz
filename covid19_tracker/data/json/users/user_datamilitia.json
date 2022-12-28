@@ -1,0 +1,46 @@
+{
+  "name": "Catherina Shaylyn",
+  "username": "militia",
+  "email": "selfappointed@fakemail.com",
+  "gender": "female",
+  "person_id": 690,
+  "birthdate": "1971-5-27",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "84800531942"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "149.31.213.201",
+      "GeoLoc": [
+        40.7597,
+        -73.981
+      ],
+      "Address": "Rockefeller Center, 45, Rockefeller Plaza, Manhattan Community Board 5, Manhattan, New York County, City of New York, New York, 10111, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+155 524739482",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

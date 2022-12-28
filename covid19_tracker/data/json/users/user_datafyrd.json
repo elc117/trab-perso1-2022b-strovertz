@@ -1,0 +1,46 @@
+{
+  "name": "Alexander Shahriar",
+  "username": "fyrd",
+  "email": "labiovelar@fakemail.com",
+  "gender": "female",
+  "person_id": 172,
+  "birthdate": "1974-8-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "04837020720"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "9.63.77.55",
+      "GeoLoc": [
+        50.1109,
+        8.68213
+      ],
+      "Address": "Call a Bike, Braubachstra\u00dfe, Altstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60311, Deutschland",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+156 917553861",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

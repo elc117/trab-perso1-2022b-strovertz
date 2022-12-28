@@ -1,0 +1,46 @@
+{
+  "name": "Liuka Kim-Tram",
+  "username": "landmass",
+  "email": "aeroscope@fakemail.com",
+  "gender": "female",
+  "person_id": 623,
+  "birthdate": "1990-8-6",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "08490808783"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "50.25.206.243",
+      "GeoLoc": [
+        32.278,
+        -101.4534
+      ],
+      "Address": "North FM 700, Howard County, Texas, 79721, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+113 526868768",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

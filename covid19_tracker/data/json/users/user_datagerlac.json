@@ -1,0 +1,46 @@
+{
+  "name": "Rhiamon Stefanie",
+  "username": "gerlac",
+  "email": "ordeal@fakemail.com",
+  "gender": "female",
+  "person_id": 429,
+  "birthdate": "1976-12-23",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "03431172318"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "None"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "11.136.208.189",
+      "GeoLoc": [
+        39.9747,
+        -82.8947
+      ],
+      "Address": "Columbus Metro Federal Credit Union, Jackson Avenue, Whitehall, Franklin County, Ohio, 43213, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+158 187085316",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Ramona Abbas",
+  "username": "unsling",
+  "email": "golconda@fakemail.com",
+  "gender": "male",
+  "person_id": 472,
+  "birthdate": "1974-12-25",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "53694254501"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "98.38.168.174",
+      "GeoLoc": [
+        39.997,
+        -105.0974
+      ],
+      "Address": "Lafayette Elementry, West Geneseo Street, Lafayette, Boulder County, Colorado, 80026, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+42 410918525",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

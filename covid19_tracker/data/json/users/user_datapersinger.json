@@ -1,0 +1,46 @@
+{
+  "name": "Behdad Flory",
+  "username": "persinger",
+  "email": "discrepant@fakemail.com",
+  "gender": "female",
+  "person_id": 707,
+  "birthdate": "1996-7-4",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "21042757682"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Positive",
+      "Vaccination Status": "2 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "15.72.177.241",
+      "GeoLoc": [
+        37.412,
+        -122.148
+      ],
+      "Address": "HP, Page Mill Road, Palo Alto, Santa Clara County, California, 94304, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+180 248534872",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Nada Hendrik",
+  "username": "mayworm",
+  "email": "england@fakemail.com",
+  "gender": "female",
+  "person_id": 641,
+  "birthdate": "1972-11-2",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "96628678997"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "4 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "106.251.215.28",
+      "GeoLoc": [
+        37.5433,
+        126.9073
+      ],
+      "Address": "\uc591\ud654\ub300\uad50, \ub178\ub4e4\ub85c, \ub2f9\uc0b02\ub3d9, \uc601\ub4f1\ud3ec\uad6c, \uc11c\uc6b8, 07206, \ub300\ud55c\ubbfc\uad6d",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+88 287704739",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}

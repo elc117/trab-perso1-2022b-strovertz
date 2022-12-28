@@ -1,0 +1,46 @@
+{
+  "name": "Felton Sanjeet",
+  "username": "lasonyalasorella",
+  "email": "followup@fakemail.com",
+  "gender": "female",
+  "person_id": 75,
+  "birthdate": "1967-10-7",
+  "documents": [
+    {
+      "doctype": "CPF",
+      "rand_cpfnumber": "97954612309"
+    }
+  ],
+  "Covid19": [
+    {
+      "Status": "Negative",
+      "Vaccination Status": "3 Doses"
+    }
+  ],
+  "address": [
+    {
+      "IpAddress": "173.200.188.158",
+      "GeoLoc": [
+        37.7749,
+        -122.419
+      ],
+      "Address": "Bay Wheels, South Van Ness Avenue, Hayes Valley, San Francisco, CAL Fire Northern Region, California, 94102, United States",
+      "city": "Williamsburg Street",
+      "address_number": 257,
+      "country_residence": "Saint Lucia",
+      "province": "Virginia",
+      "street": "Laurelton",
+      "zip": 26492
+    }
+  ],
+  "contacts": [
+    {
+      "phones": [
+        {
+          "phone_number": "+92 333100675",
+          "type": "cellphone"
+        }
+      ]
+    }
+  ]
+}
